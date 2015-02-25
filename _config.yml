@@ -10,3 +10,12 @@ github_username:  va7sdf
 
 # Build settings
 markdown: kramdown
+
+# Exclude list
+exclude:
+  - "*/images"
+  - "*/thumbs"
+  - "*/lyrics"
+  - "*/README.md"   # README files anywhere in tree
+  - "scripts"
+  - "README.md"     # root README file
