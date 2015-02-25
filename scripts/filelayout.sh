@@ -23,8 +23,8 @@ mkdir -p "$BASE_DIR/merchandise/_posts/images"
 mkdir -p "$BASE_DIR/merchandise/_posts/thumbs"
 
 # Samples
-mkdir -p "$BASE_DIR/samples/_posts/images"
-mkdir -p "$BASE_DIR/samples/_posts/thumbs"
+mkdir -p "$BASE_DIR/music/_posts/images"
+mkdir -p "$BASE_DIR/music/_posts/thumbs"
 
 # Gallery
 mkdir -p "$BASE_DIR/gallery/_posts/images"
@@ -34,3 +34,5 @@ mkdir -p "$BASE_DIR/gallery/_posts/thumbs"
 mkdir -p "$BASE_DIR/videos/_posts/images"
 mkdir -p "$BASE_DIR/videos/_posts/thumbs"
 
+# Contact
+mkdir -p "$BASE_DIR/contact"
