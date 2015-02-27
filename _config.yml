@@ -19,3 +19,4 @@ exclude:
   - "*/README.md"   # README files anywhere in tree
   - "scripts"
   - "README.md"     # root README file
+  - "import"
