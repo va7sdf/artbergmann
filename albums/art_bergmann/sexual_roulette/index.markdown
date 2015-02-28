@@ -42,3 +42,15 @@ Management: Sam Feldman, c/o Sam Feldman &amp; Associates, Vancouver, BC<br />
 <br />
 Sexual Roulette (DSBBD 31062)
 &copy;, (p) 1990 Duke Street Records</span>
+
+{% include_relative lyrics/01-bound-for-vegas.markdown %}
+{% include_relative lyrics/02-sexual-roulette.markdown %}
+{% include_relative lyrics/03-bar-of-pain.markdown %}
+{% include_relative lyrics/04-hospital-song.markdown %}
+{% include_relative lyrics/05-sleep.markdown %}
+{% include_relative lyrics/06-dirge-no-1.markdown %}
+{% include_relative lyrics/07-swamp-food-thing.markdown %}
+{% include_relative lyrics/08-gambol.markdown %}
+{% include_relative lyrics/09-she-hit-me.markdown %}
+{% include_relative lyrics/10-more-blue-shock.markdown %}
+{% include_relative lyrics/11-deathwatch.markdown %}
