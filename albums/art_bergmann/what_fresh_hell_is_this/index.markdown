@@ -56,3 +56,16 @@ Digital editing on sonic solutions by Chris Wardman &amp; Brad Haehnel.<br />
 Mastered by Howie Weinberg at Masterdisk, New York.<br />
 <br />
 What Fresh Hell Is This? (Ek 80208) &copy;, (p) 1995 Sony Music Entertainment (Canada) Inc. Epic is a trademark of Sony Music Entertainment (Canada) Inc.</span><span style="color: #999999"></span><br />
+
+{% include_relative lyrics/01-beatles-in-hollywood.markdown %}
+{% include_relative lyrics/02-another-train-song.markdown %}
+{% include_relative lyrics/03-in-betweens.markdown %}
+{% include_relative lyrics/04-buried-alive.markdown %}
+{% include_relative lyrics/05-guns-and-heroin.markdown %}
+{% include_relative lyrics/06-some-fresh-hell.markdown %}
+{% include_relative lyrics/07-contract.markdown %}
+{% include_relative lyrics/08-jones.markdown %}
+{% include_relative lyrics/09-demolished.markdown %}
+{% include_relative lyrics/10-nearer-my-god-to-thee.markdown %}
+{% include_relative lyrics/11-dive.markdown %}
+{% include_relative lyrics/12-stop-the-time.markdown %}
