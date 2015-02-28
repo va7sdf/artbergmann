@@ -1,6 +1,6 @@
 ---
 layout: post
-title: she hit me
+title: (she) hit me
 joomla_id: 108
 joomla_category_id: 9
 joomla_section_id: 3

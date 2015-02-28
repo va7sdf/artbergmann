@@ -1,6 +1,6 @@
 ---
 layout: post
-title: most wanted man in town
+title: (we want) the most wanted man in town
 joomla_id: 37
 joomla_category_id: 10
 joomla_section_id: 3
