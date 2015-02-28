@@ -42,6 +42,10 @@ mkdir -p "$BASE_DIR/albums/shmorgs/shmorgs/lyrics"
 mkdir -p "$BASE_DIR/albums/shmorgs/shmorgs/images"
 mkdir -p "$BASE_DIR/albums/shmorgs/shmorgs/thumbs"
 
+mkdir -p "$BASE_DIR/albums/young_canadians/automan/lyrics"
+mkdir -p "$BASE_DIR/albums/young_canadians/automan/images"
+mkdir -p "$BASE_DIR/albums/young_canadians/automan/thumbs"
+
 mkdir -p "$BASE_DIR/albums/young_canadians/hawaii/lyrics"
 mkdir -p "$BASE_DIR/albums/young_canadians/hawaii/images"
 mkdir -p "$BASE_DIR/albums/young_canadians/hawaii/thumbs"
