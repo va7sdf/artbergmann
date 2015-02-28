@@ -1,11 +1,6 @@
 ---
 layout: page
 title: No Escape - Young Canadians compilation
-joomla_id: 201
-joomla_category_id: 12
-joomla_section_id: 3
-joomla_url: No Escape - Young Canadians compilation
-date: 2008-08-14 13:35:27.000000000 +00:00
 ---
 <div>
 <img src="images/stories/album_covers/album_descriptions/young_canadians-no_escape(sdr).jpg" alt="young_canadians-no_escape(sdr).jpg" title="young_canadians-no_escape(sdr).jpg" style="border: 0px solid #000000; width: 386px; height: 386px" width="386" align="bottom" height="386" /><br />

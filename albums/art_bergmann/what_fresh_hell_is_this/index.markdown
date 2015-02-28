@@ -1,11 +1,6 @@
 ---
 layout: page
 title: What Fresh Hell Is This? - Art Bergmann
-joomla_id: 214
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: What Fresh Hell Is This? - Art Bergmann
-date: 2008-08-14 16:42:55.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/art_bergmann-what_fresh_hell_is_this.jpg" alt="What Fresh Hell Is This? - Art Bergmann" title="What Fresh Hell Is This? - Art Bergmann" style="border: 0px solid #000000; width: 377px; height: 388px" width="377" align="bottom" height="388" /><br />
 <br />

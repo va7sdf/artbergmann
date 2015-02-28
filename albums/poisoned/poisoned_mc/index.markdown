@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Poisoned cassette - Poisoned
-joomla_id: 207
-joomla_category_id: 18
-joomla_section_id: 3
-joomla_url: Poisoned cassette - Poisoned
-date: 2008-08-14 16:35:25.000000000 +00:00
 ---
 <div>
 <div>

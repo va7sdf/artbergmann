@@ -1,11 +1,6 @@
 ---
 layout: page
 title: This Is Your Life - Young Canadians
-joomla_id: 200
-joomla_category_id: 33
-joomla_section_id: 3
-joomla_url: This Is Your Life - Young Canadians
-date: 2008-08-14 13:34:05.000000000 +00:00
 ---
 <div>
 <span style="color: #ffffff">This Is Your Life 12&rdquo; EP</span><span style="color: #999999"> (QEP 1205)<br />

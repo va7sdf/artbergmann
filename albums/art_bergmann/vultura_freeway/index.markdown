@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Vultura Freeway - Art Bergmann
-joomla_id: 204
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: Vultura Freeway - Art Bergmann
-date: 2008-08-14 13:41:01.000000000 +00:00
 ---
 <div>
 <img src="images/stories/album_covers/album_descriptions/art_bergmann-vultura_freeway.jpg" alt="Vultura Freeway - Art Bergmann" title="Vultura Freeway - Art Bergmann" style="border: 0px solid #000000; width: 393px; height: 388px" width="393" align="bottom" height="388" /><br />

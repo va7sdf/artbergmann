@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Shmorgs - Shmorgs
-joomla_id: 194
-joomla_category_id: 21
-joomla_section_id: 3
-joomla_url: Shmorgs - Shmorgs
-date: 2008-08-14 10:10:55.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/shmorgs-stray.jpg" alt="Shmorgs - Shmorgs" title="Shmorgs - Shmorgs" style="border: 0px solid #000000; width: 389px; height: 388px" width="389" align="bottom" height="388" /><br />
 <br />

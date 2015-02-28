@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Working Girls - Los Popularos
-joomla_id: 203
-joomla_category_id: 35
-joomla_section_id: 3
-joomla_url: Working Girls - Los Popularos
-date: 2008-08-14 13:39:35.000000000 +00:00
 ---
 <span style="color: #999999">45 rpm single</span><br />
 <span style="color: #ffffff"><br />

@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Born Free - Los Popularos
-joomla_id: 202
-joomla_category_id: 20
-joomla_section_id: 3
-joomla_url: Born Free - Los Popularos
-date: 2008-08-14 13:37:35.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/los_popularos-born_free.jpg" alt="Born Free - Los Popularos" title="Born Free - Los Popularos" style="border: 0px solid #000000; width: 378px; height: 388px" width="378" align="bottom" height="388" /><br />
 <br />

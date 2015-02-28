@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Automan - Young Canadians
-joomla_id: 198
-joomla_category_id: 31
-joomla_section_id: 3
-joomla_url: Automan - Young Canadians
-date: 2008-08-14 13:31:25.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/young_canadians-automan.jpg" alt="Automan - Young Canadians" title="Automan - Young Canadians" style="border: 0px solid #000000; width: 393px; height: 388px" width="393" align="bottom" height="388" /><br />
 <br />

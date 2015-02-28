@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Design Flaw - Art Bergmann
-joomla_id: 215
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: Design Flaw - Art Bergmann
-date: 2008-08-14 16:43:46.000000000 +00:00
 ---
 <span style="color: #999999"><span style="color: #ffffff">Our Little Secret<br />
 Crawl With Me<br />

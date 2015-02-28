@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Poisoned EP - Poisoned
-joomla_id: 206
-joomla_category_id: 16
-joomla_section_id: 3
-joomla_url: Poisoned EP - Poisoned
-date: 2008-08-14 16:34:28.000000000 +00:00
 ---
 <div>
 <img src="images/stories/album_covers/album_descriptions/poisoned-poisoned(EP).jpg" alt="Poisoned EP - Poisoned" title="Poisoned EP - Poisoned" style="border: 0px solid #000000; width: 390px; height: 388px" width="390" align="bottom" height="388" /><br />

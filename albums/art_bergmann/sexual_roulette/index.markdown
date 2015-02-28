@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Sexual Roulette - Art Bergmann
-joomla_id: 211
-joomla_category_id: 9
-joomla_section_id: 3
-joomla_url: Sexual Roulette - Art Bergmann
-date: 2008-08-14 16:39:34.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/art_bergmann-sexual_roulette.jpg" alt="Sexual Roulette - Art Bergmann" title="Sexual Roulette - Art Bergmann" style="border: 0px solid #000000; width: 390px; height: 388px" width="390" align="bottom" height="388" /><br />
 <br />

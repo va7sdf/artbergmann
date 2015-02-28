@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Lost Art Bergmann - Art Bergmann
-joomla_id: 271
-joomla_category_id: 50
-joomla_section_id: 3
-joomla_url: Lost Art Bergmann - Art Bergmann
-date: 2009-05-14 00:52:55.000000000 +00:00
 ---
 <span style="color: #ffffff" class="Apple-style-span">
 <div>

@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Crawl With Me - Art Bergmann
-joomla_id: 210
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: Crawl With Me - Art Bergmann
-date: 2008-08-14 16:38:37.000000000 +00:00
 ---
 <img src="images/stories/album_covers/album_descriptions/art_bergmann-crawl_with_me.jpg" alt="Crawl With Me - Art Bergmann" title="Crawl With Me - Art Bergmann" style="border: 0px solid #000000; width: 387px; height: 388px" width="387" align="bottom" height="388" /><br />
 <br />
