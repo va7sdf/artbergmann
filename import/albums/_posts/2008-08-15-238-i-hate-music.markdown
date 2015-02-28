@@ -1,0 +1,152 @@
+---
+layout: post
+title: I hate music
+joomla_id: 238
+joomla_category_id: 41
+joomla_section_id: 3
+joomla_url: I hate music
+date: 2008-08-15 01:04:00.000000000 +00:00
+---
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">(Bergmann/Gord Nicholl)</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><i>Vancouver Complication album + No Escape compilation</i><br />
+<br />
+</span>
+</div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music,&nbsp;I hate chords</span>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate melody,&nbsp;I hate the disco beat</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate it I hate it I hate it I hate it</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">It's the same all the time</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">It never changes</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">It's the same old rhyme</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">???</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">That's why...</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music,&nbsp;I hate guitars</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music,&nbsp;I hate the charts</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate it I hate it I hate it I hate it</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Most of all</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate rock and roll</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">???</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">???</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">That's why...</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music,&nbsp;I hate guitars</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music,&nbsp;I hate the charts</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Let's move to another town</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Where another man</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Makes his plan every morning</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Studies his graph</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">He knows what to say</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">In a song</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I love music, I love the charts</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I love music, I love the charts</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I love it I love it I love it I love it</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">???</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">It's been proved</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I know that you will buy</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">Almost anything</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">???</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">And that's why...</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span"><br />
+</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music, I hate the charts</span>
+</div>
+<div>
+<span style="color: #c0c0c0" class="Apple-style-span">I hate music, I hate the charts</span>
+</div>

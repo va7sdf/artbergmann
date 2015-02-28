@@ -1,0 +1,10 @@
+---
+layout: post
+title: Boys in the Bando
+joomla_id: 63
+joomla_category_id: 36
+joomla_section_id: 4
+joomla_url: Boys in the Bando
+date: 2008-05-27 00:10:53.000000000 +00:00
+---
+<span style="color: #c0c0c0"><span style="font-family: 'book antiqua', palatino">Vancouver Sun / Saturday, January 9, 1993 / by Malcolm Parry<br /><br />LONG ECHOES . . . &quot;It's nice to be working on something that doesn't involve naked women for a change,&quot; said Jorge Alejandro &quot;Alex&quot; Waterhouse-Hayward whose exhibition of nearly-made-it rocker Art Bergmann opens at the 56 Gallery, 156 West Hastings, Jan. 15.<br /><br />The nudes are by way of a disciplined hobby. In the working world, corporate and celebrity photographer Waterhouse-Hayward handles annual reports, glossy-magazine editorials and the likes of a fully clad Premier Mike Harcourt (the official portrait). On Tuesday he will shoot B.C. Gas head Bob Kedlac.<br /><br />Buenos Aires-born Waterhouse-Hayward (in the Argentine navy he was nicknamed Conscripto Waterclo, meaning &quot;toilet&quot;) has photographed Bergmann since 1979 with such bands as the Young Canadians (formerly the K-Tels), Los Radicos Popularos and his own Poisoned. The singer/<br />guitarist taught Sun reporter John Armstrong (aka Buck Cherry) how to play, and also worked with punk rocker Dave Schmorg who metamorphosed into a political author and provincial-Liberal house leader David Mitchell.<br /><br />Bass player Tony Bardach, who also accompanied Bergmann, now owns the 56 Gallery.<br /><br />Look for legendary promoter and album compiler Bud Luxford to outbid the pack for Waterhouse-Hayward's photo of the 1981 &quot;Budstock&quot; showing virtually everyone involved in Vancouver's then-active alternative-music scene.<br /><br />Maybe the fame that inexplicably has evaded him will finally come to Bergmann, who currently has no recording contract. Next Thursday, his steps so far should be well documented by 35 photographs and many times that number of fellow travellers.<br /></span></span>

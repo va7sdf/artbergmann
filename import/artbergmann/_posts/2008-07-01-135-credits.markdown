@@ -1,0 +1,42 @@
+---
+layout: post
+title: credits
+joomla_id: 135
+joomla_category_id: 45
+joomla_section_id: 2
+joomla_url: credits
+date: 2008-07-01 19:00:06.000000000 +00:00
+---
+<span style="color: #ffffff" class="Apple-style-span"><span style="color: #999999"><span style="color: #c0c0c0" class="Apple-style-span"><span style="color: #ffffff">Gordon Celesta </span><span><span style="color: #999999" class="Apple-style-span">(Dr. Applefritter)</span></span><span style="color: #ffffff"> </span><span><span style="color: #999999" class="Apple-style-span">and</span></span><span style="color: #ffffff"> </span><span><span style="color: #999999" class="Apple-style-span">TheOdore Stinks created this website.</span><span style="color: #ffffff" class="Apple-style-span"> <span style="color: #999999">TheOdore</span></span></span><span style="color: #999999" class="Apple-style-span"> </span><span style="color: #999999">did most of the content scavenging and design work, while&nbsp;<span style="color: #c0c0c0" class="Apple-style-span"><span style="color: #ffffff">Gordon</span></span><span style="color: #c0c0c0" class="Apple-style-span">&nbsp;<span style="color: #999999">did pretty much all of the tech work</span></span>.<br />
+<br />
+</span></span></span></span><span style="color: #999999" class="Apple-style-span"><span><span class="Apple-style-span">The site is a DIY affair. There is always something that needs fixing up...but we definitely welcome comments and corrections. The site would certainly be less than it is if it weren't for the offers/help/advice of others.</span></span></span><span style="color: #999999"><br />
+</span><span style="color: #ffffff" class="Apple-style-span"><span style="color: #999999"><span style="color: #c0c0c0" class="Apple-style-span"><span style="color: #999999"><br />
+Thanks for the imagery: </span><br />
+<br />
+<span><span style="color: #999999" class="Apple-style-span">First and foremost,</span></span><span style="color: #ffffff">&nbsp;<a href="http://www.bevdavies.com/" target="_self">Bev Davies</a> </span><span><span style="color: #999999" class="Apple-style-span">, for her great pics and gig flyer collection (from <a href="http://www.punkhistorycanada.ca" style="color: #ffffff" target="_self">www.punkhistorycanada.ca</a>). Also, </span></span><span style="color: #ffffff">Pete Draper/ <a href="http://www.heatherhaley.com" style="color: #ffffff" target="_self">Heather Haley</a>&nbsp;, <a href="http://www.alexwaterhousehayward.com" style="color: #ffffff" target="_self">Alex Waterhouse-Hayward</a> , Scott Beadle, Susann Richter, Susanne Tabata, Lincoln Clarkes, Leonard Whistler, Kris Olds, Jack Scrivener, Doug Smith, Daniel Su, Pablo Tee, Beatrice Smartt, Tamara Deverell, Kim Dianne, Kevin Kelly, Paul Clarke, Rob Carrico, Sandie Carrico, Lynn Werner, Reza,</span> <span style="color: #999999">and all those anonymous but great&nbsp;</span><span style="color: #ffffff">gig poster artists.</span><br />
+<br />
+<span style="color: #999999">Thanks for the writing: <br />
+<br />
+First and foremost,</span><span style="color: #ffffff"> John Mackie <span style="color: #999999">and</span> John Armstrong.&nbsp;<span style="color: #999999">Also, among others,</span>&nbsp;Jaime &amp; Sharon Vernon, Alex Waterhouse-Hayward, Tom Hawthorn, Greg Potter, Craig MacInnis, Fish Griwkowsky, Chris Dafoe, James Muretich, Dennis Mills, Tom Harrison, Ferdy Belland, Heather McCoy, Stephen Godfrey, Greg Barr, Alexander Varty, Mary Dickie, Allan MacInnis, Alison Mayes, Brian Lynch, Mike Roberts, Jenny Punter, Andy Pedersen, Chris Wong, Sean Carruthers, Glen Nott, Bruce Mowat, Giles Gysel, Nick Krewen, Ben Rayner, Michael Panontin, Greg Lepage,&nbsp;<span style="color: #999999">and</span>&nbsp;Eden Munro</span><span style="color: #999999">.</span><br />
+<br />
+<span style="color: #999999">Thanks, in particular, to</span> <a href="http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=165934438" style="color: #ffffff" target="_self">Chris Walter</a> <span style="color: #999999">for his great short story.<br />
+<br />
+Thanks for the videos: <span style="color: #ffffff">Martyn Stubbs, Susanne Tabata, Rick Martin, Dave Cochrane, Ed Mowbray, Stan Sawczyszyn, Mike Rosatti, James O'mara, Kate Ryan, Doreen Gray, Shane Lunny, <span style="color: #999999">and several others as yet unidentified.</span></span><br />
+<br />
+</span></span></span></span><span style="color: #ffffff" class="Apple-style-span"><span style="color: #999999"><span style="color: #c0c0c0" class="Apple-style-span"><span style="color: #999999">Thanks for the feedback, support, and/or other assistance:<br />
+<br />
+<span>First and Foremost,&nbsp;</span><a href="http://www.myspace.com/skitzoid23" style="color: #ffffff" target="_self">Scott Beadle</a>  <span style="color: #999999">(for bringing so many pics to our attention + for all the feedback). </span></span><span>Also,</span><span style="color: #ffffff"> Colin Smith <span style="color: #999999">(article files!)</span><span style="color: #999999" class="Apple-style-span">,</span> Genevieve M. Exley, Allan MacInnis, Roy Blackwell, Kevin Head, Ross Carpenter, Elizabeth Fischer, Bill Scherk, Jeff Rose-Martland, John Ward-Leighton, Tom Wiebe, Paul Trudel, Stokely Seip, Tom Hawthorn, Les Wiseman,&nbsp; <span style="color: #999999"><span style="color: #ffffff">Mark Bignell, Mike Patko,</span></span> Kevin Rose, <span style="color: #999999">and</span> Jay Smales.</span></span></span></span><span style="color: #ffffff" class="Apple-style-span"><span style="color: #999999"><span style="color: #c0c0c0" class="Apple-style-span"><br />
+<br />
+<span style="color: #999999">Special thanks goes to <a href="http://www.darkblueworld.ca/" style="color: #ffffff" target="_self">Elizabeth Fischer</a> , who helped us get started. She introduced Gordon and I and suggested that we work together. <br />
+</span></span></span></span>
+<div>
+<span style="color: #999999" class="Apple-style-span"><span><span class="Apple-style-span"><br />
+</span></span></span>
+</div>
+<div>
+<span style="color: #ffffff" class="Apple-style-span"><span style="color: #999999"><span style="color: #c0c0c0" class="Apple-style-span"><span style="color: #999999">Finally, and most importantly,</span>&nbsp;<span style="color: #d11129" class="Apple-style-span"><span class="Apple-style-span">ART BERGMANN</span></span>.<br />
+<br />
+<span style="color: #999999">He was not involved in the making of this site. All the same, none of this would exist if it weren't for his remarkable songs, his great recordings, and his fiery, old testament performances.<br />
+<br />
+We hope this site brings a renewed appreciation for Art's music, and for what he has given to the history of rock music in Canada - especially out here on the West Coast.</span></span></span></span>
+</div>

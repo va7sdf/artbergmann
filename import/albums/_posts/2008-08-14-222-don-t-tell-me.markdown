@@ -1,0 +1,13 @@
+---
+layout: post
+title: don't tell me
+joomla_id: 222
+joomla_category_id: 31
+joomla_section_id: 3
+joomla_url: don't tell me
+date: 2008-08-14 21:00:10.000000000 +00:00
+---
+<span style="color: #c0c0c0" class="Apple-style-span">(Bergmann/Jim Bescott)<br />
+<i>Automan 7&quot; + No Escape compilation</i><br />
+<br />
+No lyrics yet. Any help?</span>
