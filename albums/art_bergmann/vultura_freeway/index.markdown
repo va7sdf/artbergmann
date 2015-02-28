@@ -41,3 +41,14 @@ Cover photos: Alex Waterhouse-Hayward</span>
 <div>
 <span style="color: #999999">&copy; (p) 1984 Art Bergmann / Vultura Freeway (AM 0001) compilation &copy; 2000 AudioMonster.com</span><br />
 </div>
+
+{% include_relative lyrics/01-it-won-t-last.markdown %}
+{% include_relative lyrics/02-emotion.markdown %}
+{% include_relative lyrics/03-poisoned.markdown %}
+{% include_relative lyrics/04-virgin-territory.markdown %}
+{% include_relative lyrics/05-god-s-little-gift.markdown %}
+{% include_relative lyrics/06-yellow-pages.markdown %}
+{% include_relative lyrics/07-fade-to-black.markdown %}
+{% include_relative lyrics/08-deathwatch.markdown %}
+{% include_relative lyrics/09-vultura-freeway.markdown %}
+{% include_relative lyrics/10-gray-area.markdown %}
