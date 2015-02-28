@@ -26,10 +26,16 @@ Design by Rodney Bowes.<br />
 Photography by Kevin Kelly, except front left panel by Villiam, and Spedding/Bergmann by Anthony MacMorrin.<br />
 <br />
 Design Flaw (OMP 2121) &copy;, (p) 1998 Other Peoples Music, Toronto, Canada<br />
-<!--StartFragment-->
-<p class="MsoNormal">
-<!--StartFragment-->
-</p>
-</span><br />
-<br />
-<br />
+
+{% include_relative lyrics/01-our-little-secret.markdown %}
+{% include_relative lyrics/02-crawl-with-me.markdown %}
+{% include_relative lyrics/03-please-don-t-be-late.markdown %}
+{% include_relative lyrics/04-hospital-song.markdown %}
+{% include_relative lyrics/05-sin-city.markdown %}
+{% include_relative lyrics/06-faithlessly-yours.markdown %}
+{% include_relative lyrics/07-buried-alive.markdown %}
+{% include_relative lyrics/08-she-hit-me.markdown %}
+{% include_relative lyrics/09-more-blue-shock.markdown %}
+{% include_relative lyrics/10-if-she-could-sing.markdown %}
+{% include_relative lyrics/11-dive.markdown %}
+{% include_relative lyrics/12-hung-out-to-dry.markdown %}
