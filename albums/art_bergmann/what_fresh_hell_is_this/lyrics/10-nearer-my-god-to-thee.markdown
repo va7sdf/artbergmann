@@ -1,11 +1,6 @@
 ---
 layout: post
 title: nearer my god to thee
-joomla_id: 147
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: nearer my god to thee
-date: 2008-07-10 20:57:36.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: What Fresh Hell Is This?</i><br />

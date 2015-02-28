@@ -1,11 +1,6 @@
 ---
 layout: post
 title: ill repute
-joomla_id: 100
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: ill repute
-date: 2008-06-22 03:13:08.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Crawl With Me</i><br />

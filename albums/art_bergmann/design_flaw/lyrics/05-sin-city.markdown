@@ -1,11 +1,6 @@
 ---
 layout: post
 title: sin city
-joomla_id: 176
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: sin city
-date: 2008-07-22 00:16:56.000000000 +00:00
 ---
 <!--StartFragment--><span style="color: #c0c0c0">(Gram Parsons/Chris Hillman)<br />
 <br />

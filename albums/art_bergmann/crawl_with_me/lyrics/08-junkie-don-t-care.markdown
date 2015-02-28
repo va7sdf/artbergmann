@@ -1,11 +1,6 @@
 ---
 layout: post
 title: junkie don't care
-joomla_id: 48
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: junkie don't care
-date: 2008-05-26 22:13:34.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
 <i>album: Crawl With Me</i><br />

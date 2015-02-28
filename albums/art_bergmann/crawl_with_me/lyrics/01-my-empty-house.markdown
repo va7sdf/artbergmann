@@ -1,11 +1,6 @@
 ---
 layout: post
 title: my empty house
-joomla_id: 35
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: my empty house
-date: 2008-05-21 18:22:51.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>cassette: Poisoned + album: Crawl With Me</i><br />

@@ -1,11 +1,6 @@
 ---
 layout: post
 title: sexual roulette
-joomla_id: 33
-joomla_category_id: 9
-joomla_section_id: 3
-joomla_url: sexual roulette
-date: 2008-05-21 17:58:44.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Sexual Roulette</i><br />

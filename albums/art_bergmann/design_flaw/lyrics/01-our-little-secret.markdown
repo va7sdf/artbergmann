@@ -1,11 +1,6 @@
 ---
 layout: post
 title: our little secret
-joomla_id: 170
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: our little secret
-date: 2008-05-21 18:24:38.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Crawl With Me + Design Flaw</i><br />

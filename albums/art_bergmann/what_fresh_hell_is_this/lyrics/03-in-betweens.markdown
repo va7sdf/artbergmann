@@ -1,11 +1,6 @@
 ---
 layout: post
 title: in betweens
-joomla_id: 141
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: in betweens
-date: 2008-07-10 17:22:21.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Colin James)<br />
 <i>album: What Fresh Hell Is This?</i><br />

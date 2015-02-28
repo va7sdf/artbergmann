@@ -1,11 +1,6 @@
 ---
 layout: post
 title: another train song
-joomla_id: 140
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: another train song
-date: 2008-07-10 16:48:45.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: What Fresh Hell Is This?</i><br />

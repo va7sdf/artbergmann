@@ -1,11 +1,6 @@
 ---
 layout: post
 title: yeah, I guess
-joomla_id: 112
-joomla_category_id: 16
-joomla_section_id: 3
-joomla_url: yeah, I guess
-date: 2008-06-22 19:48:28.000000000 +00:00
 ---
 <div>
 <span style="color: #c0c0c0">(Bergmann)</span>

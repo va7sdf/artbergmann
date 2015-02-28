@@ -1,11 +1,6 @@
 ---
 layout: post
 title: where are you
-joomla_id: 223
-joomla_category_id: 31
-joomla_section_id: 3
-joomla_url: where are you
-date: 2008-08-14 21:00:57.000000000 +00:00
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Jim Bescott)<br />
 <i>Automan 7&quot; + No Escape compilation</i><br />

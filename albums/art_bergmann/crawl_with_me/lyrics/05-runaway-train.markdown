@@ -1,11 +1,6 @@
 ---
 layout: post
 title: runaway train
-joomla_id: 45
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: runaway train
-date: 2008-05-26 22:09:56.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
 <i>cassette: Poisoned + album: Crawl With Me</i><br />

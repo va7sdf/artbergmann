@@ -1,11 +1,6 @@
 ---
 layout: post
 title: guns and heroin
-joomla_id: 114
-joomla_category_id: 16
-joomla_section_id: 3
-joomla_url: guns and heroin
-date: 2008-06-22 19:54:25.000000000 +00:00
 ---
 <span><span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>Poisoned EP + album: What Fresh Hell Is This?</i><br />

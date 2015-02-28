@@ -1,11 +1,6 @@
 ---
 layout: post
 title: dive
-joomla_id: 166
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: dive
-date: 2008-07-10 21:09:43.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: What Fresh Hell Is This? + Design Flaw</i><br />

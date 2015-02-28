@@ -1,11 +1,6 @@
 ---
 layout: post
 title: hawaii
-joomla_id: 178
-joomla_category_id: 32
-joomla_section_id: 3
-joomla_url: hawaii
-date: 2008-08-01 00:05:48.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Ross Carpenter)<br />
 <i>Hawaii EP + No Escape compilation</i><br />

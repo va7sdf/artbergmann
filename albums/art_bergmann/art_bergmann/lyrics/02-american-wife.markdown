@@ -1,11 +1,6 @@
 ---
 layout: post
 title: american wife
-joomla_id: 39
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: american wife
-date: 2008-05-21 19:08:39.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Jamey Koch)<br />
 <i>album: Art Bergmann</i><br />

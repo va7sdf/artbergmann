@@ -1,11 +1,6 @@
 ---
 layout: post
 title: vultura freeway
-joomla_id: 229
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: vultura freeway
-date: 2008-08-14 21:32:44.000000000 +00:00
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />

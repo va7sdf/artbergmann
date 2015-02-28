@@ -1,11 +1,6 @@
 ---
 layout: post
 title: gray area
-joomla_id: 228
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: gray area
-date: 2008-08-14 21:31:49.000000000 +00:00
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>album: Vultura Freeway</i><br />

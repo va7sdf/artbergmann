@@ -1,11 +1,6 @@
 ---
 layout: post
 title: stop the time
-joomla_id: 149
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: stop the time
-date: 2008-07-10 21:20:21.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)<br />
 <i>album: What Fresh Hell Is This?</i><br />

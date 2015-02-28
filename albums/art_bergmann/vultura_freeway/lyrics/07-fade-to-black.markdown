@@ -1,11 +1,6 @@
 ---
 layout: post
 title: fade to black
-joomla_id: 231
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: fade to black
-date: 2008-08-14 21:33:59.000000000 +00:00
 ---
 <span style="font-family: Times; color: #000000" class="Apple-style-span">
 <div style="margin: 0px; padding: 0px; color: #8c8c8c; font-family: 'Book Antiqua',Palatino,'Times New Roman',Times,serif; font-size: 1em; background-color: #000000">

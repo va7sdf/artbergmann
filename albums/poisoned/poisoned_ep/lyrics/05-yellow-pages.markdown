@@ -1,11 +1,6 @@
 ---
 layout: post
 title: yellow pages
-joomla_id: 159
-joomla_category_id: 16
-joomla_section_id: 3
-joomla_url: yellow pages
-date: 2008-07-12 02:00:31.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />

@@ -1,11 +1,6 @@
 ---
 layout: post
 title: jones
-joomla_id: 145
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: jones
-date: 2008-07-10 20:36:57.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn)<br />
 <i>album: What Fresh Hell Is This?</i><br />

@@ -1,11 +1,6 @@
 ---
 layout: post
 title: god's little gift
-joomla_id: 99
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: god's little gift
-date: 2008-06-22 03:06:08.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann/William Scherk, music: Bergmann)<br />
 <i>albums: Vultura Freeway + Art Bergmann</i><br />

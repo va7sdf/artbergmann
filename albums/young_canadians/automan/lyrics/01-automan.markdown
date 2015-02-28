@@ -1,11 +1,6 @@
 ---
 layout: post
 title: automan
-joomla_id: 221
-joomla_category_id: 31
-joomla_section_id: 3
-joomla_url: automan
-date: 2008-08-14 20:59:21.000000000 +00:00
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann/Jim Bescott)<br />
 <i>Automan 7&quot; + No Escape compilation</i><br />

@@ -1,11 +1,6 @@
 ---
 layout: post
 title: faithlessly yours
-joomla_id: 173
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: faithlessly yours
-date: 2008-06-22 02:55:39.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Art Bergmann + Design Flaw</i><br />

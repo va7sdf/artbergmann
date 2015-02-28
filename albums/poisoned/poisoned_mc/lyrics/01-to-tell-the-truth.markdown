@@ -1,11 +1,6 @@
 ---
 layout: post
 title: to tell the truth
-joomla_id: 116
-joomla_category_id: 18
-joomla_section_id: 3
-joomla_url: to tell the truth
-date: 2008-06-24 23:51:42.000000000 +00:00
 ---
 <div>
 <span style="color: #c0c0c0">(Bergmann)</span>

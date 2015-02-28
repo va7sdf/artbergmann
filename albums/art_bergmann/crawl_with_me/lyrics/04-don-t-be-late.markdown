@@ -1,11 +1,6 @@
 ---
 layout: post
 title: don't be late
-joomla_id: 44
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: don't be late
-date: 2008-05-26 22:08:47.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Art Bergmann)<br />
 <i>albums: Crawl With Me + Design Flaw</i><br />

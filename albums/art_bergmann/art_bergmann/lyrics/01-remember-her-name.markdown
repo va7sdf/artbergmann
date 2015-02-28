@@ -1,11 +1,6 @@
 ---
 layout: post
 title: remember her name
-joomla_id: 38
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: remember her name
-date: 2008-05-21 18:39:42.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Susann Richter)<br />
 <i>album: Art Bergmann</i><br />

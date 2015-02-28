@@ -1,11 +1,6 @@
 ---
 layout: post
 title: blackhearts
-joomla_id: 218
-joomla_category_id: 18
-joomla_section_id: 3
-joomla_url: blackhearts
-date: 2008-08-14 20:46:44.000000000 +00:00
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>cassette: Poisoned</i><br />

@@ -1,11 +1,6 @@
 ---
 layout: post
 title: buried alive
-joomla_id: 165
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: buried alive
-date: 2008-07-10 17:28:45.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Art Bergmann/Sherri Decembrini, <br />
 music: Bergmann/Chris Wardman)<br />

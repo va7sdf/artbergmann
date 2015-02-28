@@ -1,11 +1,6 @@
 ---
 layout: post
 title: beatles in hollywood
-joomla_id: 158
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: beatles in hollywood
-date: 2008-07-12 01:35:34.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn)<br />
 &nbsp;<i>album: What Fresh Hell Is This?</i><br />

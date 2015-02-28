@@ -1,11 +1,6 @@
 ---
 layout: post
 title: bar of pain
-joomla_id: 34
-joomla_category_id: 9
-joomla_section_id: 3
-joomla_url: bar of pain
-date: 2008-05-21 18:07:35.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Susann Richter)<br />
 <i>album: Sexual Roulette</i><br />

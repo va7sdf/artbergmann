@@ -1,11 +1,6 @@
 ---
 layout: post
 title: contract
-joomla_id: 144
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: contract
-date: 2008-07-10 17:51:13.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Chris Wardman)<br />
 <i>album: What Fresh Hell Is This?</i><br />

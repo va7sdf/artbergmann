@@ -1,11 +1,6 @@
 ---
 layout: post
 title: message from paul
-joomla_id: 40
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: message from paul
-date: 2008-05-21 19:10:36.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Art Bergmann</i><br />

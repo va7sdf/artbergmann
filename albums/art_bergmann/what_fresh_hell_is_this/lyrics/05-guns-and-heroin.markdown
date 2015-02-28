@@ -1,11 +1,6 @@
 ---
 layout: post
 title: guns and heroin
-joomla_id: 150
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: guns and heroin
-date: 2008-07-10 21:24:22.000000000 +00:00
 ---
 <span style="font-family: Times; color: #c0c0c0" class="Apple-style-span">
 <div style="margin: 0px; padding: 0px; color: #8c8c8c; font-family: 'Book Antiqua',Palatino,'Times New Roman',Times,serif; font-size: 1em; background-color: #000000">

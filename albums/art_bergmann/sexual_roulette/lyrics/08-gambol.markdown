@@ -1,11 +1,6 @@
 ---
 layout: post
 title: gambol
-joomla_id: 111
-joomla_category_id: 9
-joomla_section_id: 3
-joomla_url: gambol
-date: 2008-06-22 04:02:34.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Sexual Roulette</i><br />

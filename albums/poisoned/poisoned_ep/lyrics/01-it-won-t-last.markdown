@@ -1,11 +1,6 @@
 ---
 layout: post
 title: it won't last
-joomla_id: 161
-joomla_category_id: 16
-joomla_section_id: 3
-joomla_url: it won't last
-date: 2008-07-12 02:02:26.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann/Bill Scherk/Gord Nicholl)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />

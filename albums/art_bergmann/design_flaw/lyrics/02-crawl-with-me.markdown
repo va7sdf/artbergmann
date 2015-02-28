@@ -1,11 +1,6 @@
 ---
 layout: post
 title: crawl with me
-joomla_id: 172
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: crawl with me
-date: 2008-05-26 22:12:23.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Crawl With Me + Design Flaw</i><br />

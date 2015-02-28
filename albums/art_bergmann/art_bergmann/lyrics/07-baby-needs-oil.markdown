@@ -1,11 +1,6 @@
 ---
 layout: post
 title: baby needs oil
-joomla_id: 96
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: baby needs oil
-date: 2008-06-22 03:00:49.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Ray Fulber)<br />
 <i>album: Art Bergmann</i><br />

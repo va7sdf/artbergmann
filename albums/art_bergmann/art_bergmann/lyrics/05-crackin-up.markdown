@@ -1,11 +1,6 @@
 ---
 layout: post
 title: crackin' up
-joomla_id: 94
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: crackin' up
-date: 2008-06-22 02:57:59.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Art Bergmann</i><br />

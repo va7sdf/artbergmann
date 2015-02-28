@@ -1,11 +1,6 @@
 ---
 layout: post
 title: more blue shock
-joomla_id: 109
-joomla_category_id: 9
-joomla_section_id: 3
-joomla_url: more blue shock
-date: 2008-06-22 03:56:52.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <span style="font-style: italic">albums: Sexual Roulette</span><i> + Design Flaw</i><br />

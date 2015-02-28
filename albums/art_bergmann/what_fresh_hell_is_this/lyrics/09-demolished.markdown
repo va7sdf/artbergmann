@@ -1,11 +1,6 @@
 ---
 layout: post
 title: demolished
-joomla_id: 146
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: demolished
-date: 2008-07-10 20:45:54.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn)<br />
 <i>album: What Fresh Hell Is This?</i><br />

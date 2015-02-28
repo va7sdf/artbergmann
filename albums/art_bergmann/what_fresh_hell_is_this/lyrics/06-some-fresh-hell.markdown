@@ -1,11 +1,6 @@
 ---
 layout: post
 title: some fresh hell
-joomla_id: 143
-joomla_category_id: 8
-joomla_section_id: 3
-joomla_url: some fresh hell
-date: 2008-07-10 17:34:29.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Chris Wardman)<br />
 <i>album: What Fresh Hell Is This?</i><br />

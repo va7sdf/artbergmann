@@ -1,11 +1,6 @@
 ---
 layout: post
 title: she hit me
-joomla_id: 168
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: she hit me
-date: 2008-06-22 03:54:04.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Sexual Roulette + Design Flaw</i><br />

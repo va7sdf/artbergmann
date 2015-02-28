@@ -1,11 +1,6 @@
 ---
 layout: post
 title: (we want) the most wanted man in town
-joomla_id: 37
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: most wanted man in town
-date: 2008-05-21 18:31:35.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Crawl With Me</i><br />

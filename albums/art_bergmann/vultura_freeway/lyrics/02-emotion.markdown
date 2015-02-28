@@ -1,11 +1,6 @@
 ---
 layout: post
 title: emotion
-joomla_id: 236
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: emotion
-date: 2008-08-14 21:36:21.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />

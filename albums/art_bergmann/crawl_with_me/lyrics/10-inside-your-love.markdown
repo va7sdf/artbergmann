@@ -1,11 +1,6 @@
 ---
 layout: post
 title: inside your love
-joomla_id: 101
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: inside your love
-date: 2008-06-22 03:14:38.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Crawl With Me</i><br />

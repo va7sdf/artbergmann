@@ -1,11 +1,6 @@
 ---
 layout: post
 title: deathwatch
-joomla_id: 230
-joomla_category_id: 19
-joomla_section_id: 3
-joomla_url: deathwatch
-date: 2008-08-14 21:33:30.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <span style="font-style: italic">albums: Vultura Freeway + Sexual Roulette</span><br />

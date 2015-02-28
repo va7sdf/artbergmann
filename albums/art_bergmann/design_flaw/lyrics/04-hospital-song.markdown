@@ -1,11 +1,6 @@
 ---
 layout: post
 title: hospital song
-joomla_id: 167
-joomla_category_id: 22
-joomla_section_id: 3
-joomla_url: hospital song
-date: 2008-06-22 03:33:31.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Sexual Roulette + Design Flaw</i><br />

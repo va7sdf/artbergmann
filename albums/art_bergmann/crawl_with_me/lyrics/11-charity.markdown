@@ -1,11 +1,6 @@
 ---
 layout: post
 title: charity
-joomla_id: 102
-joomla_category_id: 10
-joomla_section_id: 3
-joomla_url: charity
-date: 2008-06-22 03:16:04.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Crawl With Me</i><br />

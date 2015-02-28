@@ -1,11 +1,6 @@
 ---
 layout: post
 title: if she could sing
-joomla_id: 95
-joomla_category_id: 11
-joomla_section_id: 3
-joomla_url: if she could sing
-date: 2008-06-22 02:59:19.000000000 +00:00
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Art Bergmann + Design Flaw</i><br />
