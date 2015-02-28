@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Born Free - Los Popularos
 joomla_id: 202
 joomla_category_id: 20

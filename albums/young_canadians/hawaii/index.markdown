@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Hawaii - Young Canadians
 joomla_id: 199
 joomla_category_id: 32

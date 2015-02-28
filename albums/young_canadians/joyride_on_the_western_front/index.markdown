@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Joyride on the Western Front           - Young Canadians
 joomla_id: 260
 joomla_category_id: 47

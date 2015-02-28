@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Shmorgs - Shmorgs
 joomla_id: 194
 joomla_category_id: 21

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Working Girls - Los Popularos
 joomla_id: 203
 joomla_category_id: 35

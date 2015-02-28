@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Automan - Young Canadians
 joomla_id: 198
 joomla_category_id: 31

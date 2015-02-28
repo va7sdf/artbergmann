@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: No Escape - Young Canadians compilation
 joomla_id: 201
 joomla_category_id: 12

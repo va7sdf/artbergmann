@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sexual Roulette - Art Bergmann
 joomla_id: 211
 joomla_category_id: 9

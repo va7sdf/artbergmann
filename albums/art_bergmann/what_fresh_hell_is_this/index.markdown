@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: What Fresh Hell Is This? - Art Bergmann
 joomla_id: 214
 joomla_category_id: 8

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Lost Art Bergmann - Art Bergmann
 joomla_id: 271
 joomla_category_id: 50

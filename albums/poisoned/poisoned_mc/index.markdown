@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Poisoned cassette - Poisoned
 joomla_id: 207
 joomla_category_id: 18

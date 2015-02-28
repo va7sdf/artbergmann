@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: This Is Your Life - Young Canadians
 joomla_id: 200
 joomla_category_id: 33

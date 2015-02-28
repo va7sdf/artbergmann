@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Crawl With Me - Art Bergmann
 joomla_id: 210
 joomla_category_id: 10

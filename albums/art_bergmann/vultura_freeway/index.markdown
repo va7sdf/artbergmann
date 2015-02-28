@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Vultura Freeway - Art Bergmann
 joomla_id: 204
 joomla_category_id: 19

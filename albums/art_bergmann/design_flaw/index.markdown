@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Design Flaw - Art Bergmann
 joomla_id: 215
 joomla_category_id: 22

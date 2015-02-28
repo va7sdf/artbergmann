@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Poisoned EP - Poisoned
 joomla_id: 206
 joomla_category_id: 16
