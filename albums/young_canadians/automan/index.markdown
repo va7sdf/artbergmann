@@ -29,3 +29,7 @@ Recorded by Robin Spurgin in spring 1979 at Psi-Chord Sound, Vancouver, Canada.<
 </span>
 <br />
 </span>
+
+{% include_relative lyrics/01-automan.markdown %}
+{% include_relative lyrics/02-don-t-tell-me.markdown %}
+{% include_relative lyrics/03-where-are-you.markdown %}
