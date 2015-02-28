@@ -3,14 +3,33 @@
 BASE_DIR="/home/gordo/projects/artbergmann"
 
 # News
-mkdir -p "$BASE_DIR/news/1980-1989/_posts/images"
-mkdir -p "$BASE_DIR/news/1980-1989/_posts/thumbs"
-mkdir -p "$BASE_DIR/news/1990-1999/_posts/images"
-mkdir -p "$BASE_DIR/news/1990-1999/_posts/thumbs"
-mkdir -p "$BASE_DIR/news/2000-2009/_posts/images"
-mkdir -p "$BASE_DIR/news/2000-2009/_posts/thumbs"
-mkdir -p "$BASE_DIR/news/2010-2019/_posts/images"
-mkdir -p "$BASE_DIR/news/2010-2019/_posts/thumbs"
+mkdir -p "$BASE_DIR/news/pre-1980/_posts/images"
+mkdir -p "$BASE_DIR/news/pre-1980/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/1980-1984/_posts/images"
+mkdir -p "$BASE_DIR/news/1980-1984/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/1985-1989/_posts/images"
+mkdir -p "$BASE_DIR/news/1985-1989/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/1990-1994/_posts/images"
+mkdir -p "$BASE_DIR/news/1990-1994/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/1995-1999/_posts/images"
+mkdir -p "$BASE_DIR/news/1995-1999/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/2000-2004/_posts/images"
+mkdir -p "$BASE_DIR/news/2000-2004/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/2005-2009/_posts/images"
+mkdir -p "$BASE_DIR/news/2005-2009/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/2010-2014/_posts/images"
+mkdir -p "$BASE_DIR/news/2010-2014/_posts/thumbs"
+
+mkdir -p "$BASE_DIR/news/2015-2019/_posts/images"
+mkdir -p "$BASE_DIR/news/2015-2019/_posts/thumbs"
+
 mkdir -p "$BASE_DIR/news/current/_posts/images"
 mkdir -p "$BASE_DIR/news/current/_posts/thumbs"
 
