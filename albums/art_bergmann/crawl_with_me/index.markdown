@@ -43,3 +43,15 @@ Management: Sam Feldman c/o Sam Feldman &amp; Associates.<br />
 Recorded at Manta Sound Company.<br />
 Crawl With Me (DSRD 31046)
 &copy;, (p) 1988 Duke Strett Records, a division of PAJA company Ltd.</span><br />
+
+{% include_relative lyrics/01-my-empty-house.markdown %}
+{% include_relative lyrics/02-our-little-secret.markdown %}
+{% include_relative lyrics/03-we-want-the-most-wanted-man-in-town.markdown %}
+{% include_relative lyrics/04-don-t-be-late.markdown %}
+{% include_relative lyrics/05-runaway-train.markdown %}
+{% include_relative lyrics/06-final-cliche.markdown %}
+{% include_relative lyrics/07-crawl-with-me.markdown %}
+{% include_relative lyrics/08-junkie-don-t-care.markdown %}
+{% include_relative lyrics/09-ill-repute.markdown %}
+{% include_relative lyrics/10-inside-your-love.markdown %}
+{% include_relative lyrics/11-charity.markdown %}
