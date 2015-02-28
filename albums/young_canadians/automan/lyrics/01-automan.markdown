@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: automan
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann/Jim Bescott)<br />

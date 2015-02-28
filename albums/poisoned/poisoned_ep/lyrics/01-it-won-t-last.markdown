@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: it won't last
 ---
 <span style="color: #c0c0c0">(Bergmann/Bill Scherk/Gord Nicholl)<br />

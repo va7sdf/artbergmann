@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: sin city
 ---
 <!--StartFragment--><span style="color: #c0c0c0">(Gram Parsons/Chris Hillman)<br />

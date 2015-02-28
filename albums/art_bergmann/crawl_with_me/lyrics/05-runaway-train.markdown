@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: runaway train
 ---
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />

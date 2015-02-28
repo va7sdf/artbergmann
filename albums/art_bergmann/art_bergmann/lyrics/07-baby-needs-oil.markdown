@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: baby needs oil
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Ray Fulber)<br />

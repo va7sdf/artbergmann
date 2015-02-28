@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: more blue shock
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: buried alive
 ---
 <span style="color: #c0c0c0">(lyrics: Art Bergmann/Sherri Decembrini, <br />

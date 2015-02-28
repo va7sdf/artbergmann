@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: pretty beat
 ---
 <span style="color: #c0c0c0">(Bergmann/Ted Rich)<br />

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: beatles in hollywood
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn)<br />

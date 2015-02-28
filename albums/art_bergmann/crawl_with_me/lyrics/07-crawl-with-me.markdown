@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: crawl with me
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />

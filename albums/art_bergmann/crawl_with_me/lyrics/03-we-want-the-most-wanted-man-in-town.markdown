@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: (we want) the most wanted man in town
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />

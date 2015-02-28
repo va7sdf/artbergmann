@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: hawaii
 ---
 <span style="color: #c0c0c0">(Bergmann/Ross Carpenter)<br />

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: stop the time
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)<br />

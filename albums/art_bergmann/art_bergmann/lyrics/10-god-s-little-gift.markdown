@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: god's little gift
 ---
 <span style="color: #c0c0c0">(lyrics: Bergmann/William Scherk, music: Bergmann)<br />

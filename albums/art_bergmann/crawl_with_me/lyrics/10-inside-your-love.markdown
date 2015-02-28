@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: inside your love
 ---
 <span style="color: #c0c0c0">(Bergmann)<br />

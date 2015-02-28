@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: gray area
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />

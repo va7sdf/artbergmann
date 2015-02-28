@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: don't bother me
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />

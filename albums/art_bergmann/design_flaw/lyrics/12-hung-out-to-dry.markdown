@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: hung out to dry
 ---
 <span style="color: #c0c0c0">(Art Bergmann)<br />

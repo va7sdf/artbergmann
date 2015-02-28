@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: where are you
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Jim Bescott)<br />

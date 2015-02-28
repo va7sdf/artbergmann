@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: guns and heroin
 ---
 <span style="font-family: Times; color: #c0c0c0" class="Apple-style-span">

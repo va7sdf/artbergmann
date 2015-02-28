@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: bar of pain
 ---
 <span style="color: #c0c0c0">(Bergmann/Susann Richter)<br />

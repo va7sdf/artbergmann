@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: to tell the truth
 ---
 <div>

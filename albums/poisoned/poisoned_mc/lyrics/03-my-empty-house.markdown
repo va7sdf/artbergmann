@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: my empty house
 ---
 <span style="font-family: Times; color: #000000" class="Apple-style-span">

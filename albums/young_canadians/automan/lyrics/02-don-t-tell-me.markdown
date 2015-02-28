@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: don't tell me
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann/Jim Bescott)<br />

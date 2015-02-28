@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: junkie don't care
 ---
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
