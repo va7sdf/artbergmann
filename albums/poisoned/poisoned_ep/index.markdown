@@ -76,3 +76,10 @@ title: Poisoned EP - Poisoned
 <div>
 <span style="color: #808080">Front and back photos: Alex Waterhouse-Hayward</span><br />
 </div>
+
+{% include_relative lyrics/01-it-won-t-last.markdown %}
+{% include_relative lyrics/02-emotion.markdown %}
+{% include_relative lyrics/03-pretty-beat.markdown %}
+{% include_relative lyrics/04-yeah-i-guess.markdown %}
+{% include_relative lyrics/05-yellow-pages.markdown %}
+{% include_relative lyrics/06-guns-and-heroin.markdown %}
