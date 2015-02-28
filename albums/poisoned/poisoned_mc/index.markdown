@@ -37,3 +37,8 @@ Introduction by Tom Harrison.<br />
 <!--EndFragment-->
 </div>
 </div>
+
+{% include_relative lyrics/01-to-tell-the-truth.markdown %}
+{% include_relative lyrics/02-blackhearts.markdown %}
+{% include_relative lyrics/03-my-empty-house.markdown %}
+{% include_relative lyrics/04-runaway-train.markdown %}
