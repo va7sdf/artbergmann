@@ -38,3 +38,14 @@ Mastered by Howie Weinberg at Masterdisk, New York<br />
 Management: Sam Feldman &amp; Jeff Rogers, c/o Sam Feldman &amp; Associates, Vancouver, BC<br />
 <br />
 Art Bergmann (Polydor 511067-2)&copy;, (p) 1991 Polygram Records of Canada Inc.</span>
+
+{% include_relative lyrics/01-remember-her-name.markdown %}
+{% include_relative lyrics/02-american-wife.markdown %}
+{% include_relative lyrics/03-message-from-paul.markdown %}
+{% include_relative lyrics/04-faithlessly-yours.markdown %}
+{% include_relative lyrics/05-crackin-up.markdown %}
+{% include_relative lyrics/06-if-she-could-sing.markdown %}
+{% include_relative lyrics/07-baby-needs-oil.markdown %}
+{% include_relative lyrics/08-i-can-t-change-this-world.markdown %}
+{% include_relative lyrics/09-ruin-my-life.markdown %}
+{% include_relative lyrics/10-god-s-little-gift.markdown %}
