@@ -1,7 +1,4 @@
----
-layout: page
-title: message from paul
----
+##message from paul
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Art Bergmann</i><br />
 <br />

@@ -1,7 +1,4 @@
----
-layout: page
-title: more blue shock
----
+##more blue shock
 <span style="color: #c0c0c0">(Bergmann)<br />
 <span style="font-style: italic">albums: Sexual Roulette</span><i> + Design Flaw</i><br />
 <br />

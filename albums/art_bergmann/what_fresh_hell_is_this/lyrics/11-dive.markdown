@@ -1,7 +1,4 @@
----
-layout: page
-title: dive
----
+##dive
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: What Fresh Hell Is This? + Design Flaw</i><br />
 <br />

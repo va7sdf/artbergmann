@@ -1,7 +1,4 @@
----
-layout: page
-title: in betweens
----
+##in betweens
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Colin James)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

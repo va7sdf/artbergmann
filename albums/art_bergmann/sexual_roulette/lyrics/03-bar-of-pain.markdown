@@ -1,7 +1,4 @@
----
-layout: page
-title: bar of pain
----
+##bar of pain
 <span style="color: #c0c0c0">(Bergmann/Susann Richter)<br />
 <i>album: Sexual Roulette</i><br />
 <br />

@@ -1,7 +1,4 @@
----
-layout: page
-title: american wife
----
+##american wife
 <span style="color: #c0c0c0">(Bergmann/Jamey Koch)<br />
 <i>album: Art Bergmann</i><br />
 <br />

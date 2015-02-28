@@ -1,7 +1,4 @@
----
-layout: page
-title: demolished
----
+##demolished
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

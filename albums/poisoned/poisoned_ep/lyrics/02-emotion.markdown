@@ -1,7 +1,4 @@
----
-layout: page
-title: emotion
----
+##emotion
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />
 <br />

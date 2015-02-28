@@ -1,7 +1,4 @@
----
-layout: page
-title: vultura freeway
----
+##vultura freeway
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>album: Vultura Freeway + Poisoned EP</i><br />
 <br />

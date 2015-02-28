@@ -1,7 +1,4 @@
----
-layout: page
-title: (she) hit me
----
+##(she) hit me
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>Sexual Roulette album + Design Flaw album</i><br />
 <br />

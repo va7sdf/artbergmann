@@ -1,7 +1,4 @@
----
-layout: page
-title: sexual roulette
----
+##sexual roulette
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Sexual Roulette</i><br />
 <br />

@@ -1,7 +1,4 @@
----
-layout: page
-title: remember her name
----
+##remember her name
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Susann Richter)<br />
 <i>album: Art Bergmann</i><br />
 <br />

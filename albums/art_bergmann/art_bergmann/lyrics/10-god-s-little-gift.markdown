@@ -1,7 +1,4 @@
----
-layout: page
-title: god's little gift
----
+##god's little gift
 <span style="color: #c0c0c0">(lyrics: Bergmann/William Scherk, music: Bergmann)<br />
 <i>albums: Vultura Freeway + Art Bergmann</i><br />
 <br />

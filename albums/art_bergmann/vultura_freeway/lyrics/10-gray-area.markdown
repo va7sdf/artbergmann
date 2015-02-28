@@ -1,7 +1,4 @@
----
-layout: page
-title: gray area
----
+##gray area
 <span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>album: Vultura Freeway</i><br />
 <br />

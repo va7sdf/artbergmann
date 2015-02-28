@@ -1,7 +1,4 @@
----
-layout: page
-title: deathwatch
----
+##deathwatch
 <span style="color: #c0c0c0">(Bergmann)<br />
 <span style="font-style: italic">albums: Vultura Freeway + Sexual Roulette</span><br />
 <br />

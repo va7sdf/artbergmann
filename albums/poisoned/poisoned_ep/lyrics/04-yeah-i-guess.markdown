@@ -1,7 +1,4 @@
----
-layout: page
-title: yeah, I guess
----
+##yeah, I guess
 <div>
 <span style="color: #c0c0c0">(Bergmann)</span>
 </div>

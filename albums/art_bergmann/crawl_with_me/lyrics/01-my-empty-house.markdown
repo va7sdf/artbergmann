@@ -1,7 +1,4 @@
----
-layout: page
-title: my empty house
----
+##my empty house
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>cassette: Poisoned + album: Crawl With Me</i><br />
 <br />

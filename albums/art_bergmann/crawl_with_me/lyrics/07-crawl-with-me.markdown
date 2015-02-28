@@ -1,7 +1,4 @@
----
-layout: page
-title: crawl with me
----
+##crawl with me
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Crawl With Me + Design Flaw</i><br />
 <br />

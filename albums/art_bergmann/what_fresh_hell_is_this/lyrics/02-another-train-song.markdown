@@ -1,7 +1,4 @@
----
-layout: page
-title: another train song
----
+##another train song
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

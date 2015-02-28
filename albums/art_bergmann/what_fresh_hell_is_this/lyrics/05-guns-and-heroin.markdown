@@ -1,7 +1,4 @@
----
-layout: page
-title: guns and heroin
----
+##guns and heroin
 <span style="font-family: Times; color: #c0c0c0" class="Apple-style-span">
 <div style="margin: 0px; padding: 0px; color: #8c8c8c; font-family: 'Book Antiqua',Palatino,'Times New Roman',Times,serif; font-size: 1em; background-color: #000000">
 <span style="color: #c0c0c0">

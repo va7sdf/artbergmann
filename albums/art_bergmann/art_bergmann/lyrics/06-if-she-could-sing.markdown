@@ -1,7 +1,4 @@
----
-layout: page
-title: if she could sing
----
+##if she could sing
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>albums: Art Bergmann + Design Flaw</i><br />
 <br />

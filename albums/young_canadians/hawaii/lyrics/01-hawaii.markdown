@@ -1,7 +1,4 @@
----
-layout: page
-title: hawaii
----
+##hawaii
 <span style="color: #c0c0c0">(Bergmann/Ross Carpenter)<br />
 <i>Hawaii EP + No Escape compilation</i><br />
 <br />

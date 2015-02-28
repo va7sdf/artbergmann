@@ -1,7 +1,4 @@
----
-layout: page
-title: sin city
----
+##sin city
 <!--StartFragment--><span style="color: #c0c0c0">(Gram Parsons/Chris Hillman)<br />
 <br />
 This old town is filled with sin,<br />

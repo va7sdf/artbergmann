@@ -1,7 +1,4 @@
----
-layout: page
-title: junkie don't care
----
+##junkie don't care
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
 <i>album: Crawl With Me</i><br />
 <br />

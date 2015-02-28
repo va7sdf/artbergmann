@@ -1,7 +1,4 @@
----
-layout: page
-title: nearer my god to thee
----
+##nearer my god to thee
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

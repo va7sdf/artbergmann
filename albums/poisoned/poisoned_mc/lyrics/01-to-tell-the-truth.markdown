@@ -1,7 +1,4 @@
----
-layout: page
-title: to tell the truth
----
+##to tell the truth
 <div>
 <span style="color: #c0c0c0">(Bergmann)</span>
 </div>

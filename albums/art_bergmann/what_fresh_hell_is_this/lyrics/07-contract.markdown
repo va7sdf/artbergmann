@@ -1,7 +1,4 @@
----
-layout: page
-title: contract
----
+##contract
 <span style="color: #c0c0c0">(Bergmann/Chris Wardman)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

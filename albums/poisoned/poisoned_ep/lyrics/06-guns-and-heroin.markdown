@@ -1,7 +1,4 @@
----
-layout: page
-title: guns and heroin
----
+##guns and heroin
 <span><span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
 <i>Poisoned EP + album: What Fresh Hell Is This?</i><br />
 <br />

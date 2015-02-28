@@ -1,7 +1,4 @@
----
-layout: page
-title: dirge no. 1
----
+##dirge no. 1
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Sexual Roulette</i><br />
 <br />

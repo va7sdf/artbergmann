@@ -1,7 +1,4 @@
----
-layout: page
-title: final cliche
----
+##final cliche
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Crawl With Me</i><br />
 <br />

@@ -1,7 +1,4 @@
----
-layout: page
-title: baby needs oil
----
+##baby needs oil
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Ray Fulber)<br />
 <i>album: Art Bergmann</i><br />
 <br />

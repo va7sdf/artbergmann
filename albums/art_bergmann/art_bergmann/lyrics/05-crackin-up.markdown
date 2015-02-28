@@ -1,7 +1,4 @@
----
-layout: page
-title: crackin' up
----
+##crackin' up
 <span style="color: #c0c0c0">(Bergmann)<br />
 <i>album: Art Bergmann</i><br />
 <br />

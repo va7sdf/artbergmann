@@ -1,7 +1,4 @@
----
-layout: page
-title: stop the time
----
+##stop the time
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

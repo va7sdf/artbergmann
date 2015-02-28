@@ -1,7 +1,4 @@
----
-layout: page
-title: pretty beat
----
+##pretty beat
 <span style="color: #c0c0c0">(Bergmann/Ted Rich)<br />
 <i>Poisoned EP</i><br />
 <br />

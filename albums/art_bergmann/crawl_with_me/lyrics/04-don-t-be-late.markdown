@@ -1,7 +1,4 @@
----
-layout: page
-title: don't be late
----
+##don't be late
 <span style="color: #c0c0c0">(Art Bergmann)<br />
 <i>albums: Crawl With Me + Design Flaw</i><br />
 <br />

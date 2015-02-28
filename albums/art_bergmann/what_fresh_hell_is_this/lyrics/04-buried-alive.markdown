@@ -1,7 +1,4 @@
----
-layout: page
-title: buried alive
----
+##buried alive
 <span style="color: #c0c0c0">(lyrics: Art Bergmann/Sherri Decembrini, <br />
 music: Bergmann/Chris Wardman)<br />
 <i>albums: What Fresh Hell Is This? + Design Flaw</i>

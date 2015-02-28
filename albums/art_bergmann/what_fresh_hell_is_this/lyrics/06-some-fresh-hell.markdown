@@ -1,7 +1,4 @@
----
-layout: page
-title: some fresh hell
----
+##some fresh hell
 <span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Chris Wardman)<br />
 <i>album: What Fresh Hell Is This?</i><br />
 <br />

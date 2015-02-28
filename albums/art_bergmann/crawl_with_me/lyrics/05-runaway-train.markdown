@@ -1,7 +1,4 @@
----
-layout: page
-title: runaway train
----
+##runaway train
 <span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
 <i>cassette: Poisoned + album: Crawl With Me</i><br />
 <br />
