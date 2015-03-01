@@ -1,48 +1,46 @@
-##in betweens
-<span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Colin James)<br />
-<i>album: What Fresh Hell Is This?</i><br />
-<br />
-Hey you<br />
-All dressed in black<br />
-In your gravedigger clothes<br />
-Are you down and dirty<br />
-Superclean<br />
-Do you save souls<br />
-<br />
-Be damned or saved<br />
-I don&rsquo;t like in betweens<br />
-Black or white<br />
-I need a girl who&rsquo;s extreme<br />
-<br />
-My tongue goes slack<br />
-I feel a strange affinity<br />
-I start heavy breathing<br />
-In your vicinity<br />
-<br />
-Are you damned or saved<br />
-I don&rsquo;t like in betweens<br />
-Black or white<br />
-I need a girl who&rsquo;s extreme<br />
-<br />
-Are you taking me up<br />
-Taking me down<br />
-Dragging my name<br />
-Through mud all over town<br />
-<br />
-Be damned or saved<br />
-I don&rsquo;t like in betweens<br />
-Black or white<br />
-I need a girl who&rsquo;s extreme<br />
-<br />
-She&rsquo;s a well-rounded girl<br />
-With a happy face<br />
-A renaissance girl<br />
-Or a family disgrace<br />
-Hey you<br />
-All dressed in black<br />
-In your gravedigger clothes<br />
-Are you superclean <br />
-Down and dirty<br />
-Or do you save souls?<br />
-</span>
-<br />
+##in betweens  
+(lyrics: Bergmann, music: Bergmann/Colin James)  
+album: What Fresh Hell Is This?  
+  
+Hey you  
+All dressed in black  
+In your gravedigger clothes  
+Are you down and dirty  
+Superclean  
+Do you save souls  
+  
+Be damned or saved  
+I don&rsquo;t like in betweens  
+Black or white  
+I need a girl who&rsquo;s extreme  
+  
+My tongue goes slack  
+I feel a strange affinity  
+I start heavy breathing  
+In your vicinity  
+  
+Are you damned or saved  
+I don&rsquo;t like in betweens  
+Black or white  
+I need a girl who&rsquo;s extreme  
+  
+Are you taking me up  
+Taking me down  
+Dragging my name  
+Through mud all over town  
+  
+Be damned or saved  
+I don&rsquo;t like in betweens  
+Black or white  
+I need a girl who&rsquo;s extreme  
+  
+She&rsquo;s a well-rounded girl  
+With a happy face  
+A renaissance girl  
+Or a family disgrace  
+Hey you  
+All dressed in black  
+In your gravedigger clothes  
+Are you superclean   
+Down and dirty  
+Or do you save souls?  

@@ -1,39 +1,37 @@
-##stop the time
-<span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)<br />
-<i>album: What Fresh Hell Is This?</i><br />
-<br />
-Start the time<br />
-Every morning<br />
-In the rain<br />
-My life is waiting<br />
-Get on the bus<br />
-Who could enjoy this<br />
-Here on the bus<br />
-Who will employ us<br />
-I take the pains<br />
-To avert my eyes<br />
-There&rsquo;s always a psycho<br />
-With me in his sights<br />
-I wish <br />
-For just 5 minutes<br />
-He&rsquo;d be on my side<br />
-I wish<br />
-For just 5 minutes<br />
-He&rsquo;d be on my side<br />
-Hide behind my paper<br />
-An item in the news<br />
-Some kid <br />
-Got his head blown off<br />
-Now he&rsquo;s twenty-one forever<br />
-A lucky guy<br />
-Twenty-one forever<br />
-He stopped the time<br />
-Count the clocks<br />
-Count the blocks<br />
-Count the stops<br />
-Until I get off<br />
-I wish<br />
-For just 5 minutes<br />
-Stop the time<br />
-</span>
-<br />
+##stop the time  
+(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)  
+album: What Fresh Hell Is This?  
+  
+Start the time  
+Every morning  
+In the rain  
+My life is waiting  
+Get on the bus  
+Who could enjoy this  
+Here on the bus  
+Who will employ us  
+I take the pains  
+To avert my eyes  
+There&rsquo;s always a psycho  
+With me in his sights  
+I wish  
+For just 5 minutes  
+He&rsquo;d be on my side  
+I wish  
+For just 5 minutes  
+He&rsquo;d be on my side  
+Hide behind my paper  
+An item in the news  
+Some kid  
+Got his head blown off  
+Now he&rsquo;s twenty-one forever  
+A lucky guy  
+Twenty-one forever  
+He stopped the time  
+Count the clocks  
+Count the blocks  
+Count the stops  
+Until I get off  
+I wish  
+For just 5 minutes  
+Stop the time  

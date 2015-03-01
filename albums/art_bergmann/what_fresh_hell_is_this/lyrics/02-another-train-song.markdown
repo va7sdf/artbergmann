@@ -1,49 +1,47 @@
-##another train song
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: What Fresh Hell Is This?</i><br />
-<br />
-I saw you at the station<br />
-Waving and smiling bye-bye<br />
-No, I&rsquo;ve never seen you so happy<br />
-With a ticket in your hand<br />
-On a train to the east<br />
-<br />
-No, don&rsquo;t ever let me go<br />
-Don&rsquo;t let them make me say<br />
-I told you so baby<br />
-Baby, baby, don&rsquo;t get in line<br />
-Now look who&rsquo;s crying<br />
-<br />
-I saw you on the platform<br />
-Waving and smiling and looking so fine<br />
-Your parents are so well informed<br />
-You follow suit<br />
-The blind leading the blind<br />
-<br />
-No, don&rsquo;t ever let me go<br />
-Don&rsquo;t let them make me say<br />
-I told you so baby<br />
-Baby, baby, don&rsquo;t get in line<br />
-Now look who&rsquo;s crying<br />
-That&rsquo;s the whole of the law<br />
-Bye-bye<br />
-<br />
-Your parents gave you orders<br />
-Cursed with a birth certificate<br />
-A passport and a stamp<br />
-You&rsquo;re on a train crossing borders<br />
-Machine gun nest <br />
-Barbed wire blessed <br />
-Holiday camp<br />
-<br />
-No, don&rsquo;t ever let me go<br />
-Don&rsquo;t let them make me say<br />
-I told you so baby<br />
-Baby, baby, don&rsquo;t get in line<br />
-Now look who&rsquo;s crying<br />
-That&rsquo;s the whole of the law<br />
-Bye-bye <br />
-That&rsquo;s the whole of the law<br />
-Bye-bye<br />
-</span>
-<br />
+##another train song  
+(Bergmann)  
+album: What Fresh Hell Is This?  
+  
+I saw you at the station  
+Waving and smiling bye-bye  
+No, I&rsquo;ve never seen you so happy  
+With a ticket in your hand  
+On a train to the east  
+  
+No, don&rsquo;t ever let me go  
+Don&rsquo;t let them make me say  
+I told you so baby  
+Baby, baby, don&rsquo;t get in line  
+Now look who&rsquo;s crying  
+  
+I saw you on the platform  
+Waving and smiling and looking so fine  
+Your parents are so well informed  
+You follow suit  
+The blind leading the blind  
+  
+No, don&rsquo;t ever let me go  
+Don&rsquo;t let them make me say  
+I told you so baby  
+Baby, baby, don&rsquo;t get in line  
+Now look who&rsquo;s crying  
+That&rsquo;s the whole of the law  
+Bye-bye  
+  
+Your parents gave you orders  
+Cursed with a birth certificate  
+A passport and a stamp  
+You&rsquo;re on a train crossing borders  
+Machine gun nest   
+Barbed wire blessed   
+Holiday camp  
+  
+No, don&rsquo;t ever let me go  
+Don&rsquo;t let them make me say  
+I told you so baby  
+Baby, baby, don&rsquo;t get in line  
+Now look who&rsquo;s crying  
+That&rsquo;s the whole of the law  
+Bye-bye   
+That&rsquo;s the whole of the law  
+Bye-bye  
