@@ -1,54 +1,54 @@
-##junkie don't care
-<span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
-<i>album: Crawl With Me</i><br />
-<br />
-Look at that singer<br />
-He's been doing this<br />
-For years<br />
-You little baby<br />
-You're so young<br />
-You don't show any fear<br />
-Look at that singer<br />
-Now he's grasping for air<br />
-You little baby<br />
-You're so young<br />
-You're not scared<br />
-You don't care<br />
-<br />
-My baby<br />
-She rode in that Lincoln<br />
-I hope<br />
-She makes it O.K.<br />
-My baby<br />
-She rode in that Lincoln<br />
-I hope<br />
-She's alive today<br />
-It gets so cold at night<br />
-When there's a hint of snow<br />
-In the air<br />
-Remember<br />
-The junkie don't care<br />
-<br />
-Look at the singer<br />
-He's got an oxygen tent<br />
-You little baby<br />
-Morning came I just went<br />
-Look at that singer<br />
-Is he your doctor or something<br />
-You little junkie<br />
-What's the attraction<br />
-<br />
-You little baby<br />
-You're so young<br />
-You don't show any fear<br />
-You little baby<br />
-You're so young<br />
-Take a look in the mirror<br />
-You little junkie<br />
-I see a TV in your eyes<br />
-You little junkie<br />
-Are you dead or alive<br />
-<br />
-The junkie don't care<br />
-Not as much as<br />
-I don't care</span>
+##junkie don't care  
+(Bergmann/Gordon Nicholl)  
+album: Crawl With Me  
+  
+Look at that singer  
+He's been doing this  
+For years  
+You little baby  
+You're so young  
+You don't show any fear  
+Look at that singer  
+Now he's grasping for air  
+You little baby  
+You're so young  
+You're not scared  
+You don't care  
+  
+My baby  
+She rode in that Lincoln  
+I hope  
+She makes it O.K.  
+My baby  
+She rode in that Lincoln  
+I hope  
+She's alive today  
+It gets so cold at night  
+When there's a hint of snow  
+In the air  
+Remember  
+The junkie don't care  
+  
+Look at the singer  
+He's got an oxygen tent  
+You little baby  
+Morning came I just went  
+Look at that singer  
+Is he your doctor or something  
+You little junkie  
+What's the attraction  
+  
+You little baby  
+You're so young  
+You don't show any fear  
+You little baby  
+You're so young  
+Take a look in the mirror  
+You little junkie  
+I see a TV in your eyes  
+You little junkie  
+Are you dead or alive  
+  
+The junkie don't care  
+Not as much as  
+I don't care  

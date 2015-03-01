@@ -1,95 +1,94 @@
-##our little secret
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>albums: Crawl With Me + Design Flaw</i><br />
-<br />
-I know<br />
-What she wants<br />
-But she don't<br />
-Get it from me<br />
-Opened up and broken<br />
-By the age of thirteen<br />
-Daddy says<br />
-Father knows best<br />
-No one else<br />
-Needs to know<br />
-<br />
-Tell me how<br />
-You got this sickness<br />
-What an age<br />
-To be involved with us<br />
-There's a little secret<br />
-We all share<br />
-And I think I get it<br />
-When I see you<br />
-Laying there<br />
-With me in your arms<br />
-<br />
-She was<br />
-Daddy's girl<br />
-She must've been<br />
-Daddy's girl<br />
-<br />
-Did a lot of reading<br />
-But talked too little<br />
-Nietzsche, Sartre, Stendhal<br />
-Et al.<br />
-Daddy read a lot<br />
-But he never<br />
-Took us anywhere<br />
-Just a room<br />
-With a lock<br />
-At the top of the stairs<br />
-<br />
-Tell me how<br />
-You got this sickness<br />
-What an age<br />
-To be involved with us<br />
-There's a little secret<br />
-We all share<br />
-And I think I get it<br />
-When I see you<br />
-Laying there<br />
-With me in your arms<br />
-<br />
-She was<br />
-Daddy's girl<br />
-She must've been<br />
-Daddy's girl<br />
-<br />
-Will you come running<br />
-When his face falls<br />
-Will you come running<br />
-When he's giving you<br />
-The call<br />
-As we walk<br />
-Hand in hand<br />
-Into our own<br />
-Wasteland<br />
-<br />
-I know<br />
-What she wants<br />
-But she don't<br />
-Get it from me<br />
-Opened up and broken<br />
-By the age of thirteen<br />
-Daddy says<br />
-Father knows best<br />
-My baby<br />
-Let's go upstairs<br />
-<br />
-Tell me how<br />
-You got this sickness<br />
-What an age<br />
-To be involved with us<br />
-There's a little secret<br />
-We all share<br />
-And I think I get it<br />
-When I see you<br />
-Laying there<br />
-With me in your arms<br />
-<br />
-She was<br />
-Daddy's girl<br />
-She must've been<br />
-Daddy's girl<br />
-</span>
+##our little secret  
+(Bergmann)  
+albums: Crawl With Me + Design Flaw  
+  
+I know  
+What she wants  
+But she don't  
+Get it from me  
+Opened up and broken  
+By the age of thirteen  
+Daddy says  
+Father knows best  
+No one else  
+Needs to know  
+  
+Tell me how  
+You got this sickness  
+What an age  
+To be involved with us  
+There's a little secret  
+We all share  
+And I think I get it  
+When I see you  
+Laying there  
+With me in your arms  
+  
+She was  
+Daddy's girl  
+She must've been  
+Daddy's girl  
+  
+Did a lot of reading  
+But talked too little  
+Nietzsche, Sartre, Stendhal  
+Et al.  
+Daddy read a lot  
+But he never  
+Took us anywhere  
+Just a room  
+With a lock  
+At the top of the stairs  
+  
+Tell me how  
+You got this sickness  
+What an age  
+To be involved with us  
+There's a little secret  
+We all share  
+And I think I get it  
+When I see you  
+Laying there  
+With me in your arms  
+  
+She was  
+Daddy's girl  
+She must've been  
+Daddy's girl  
+  
+Will you come running  
+When his face falls  
+Will you come running  
+When he's giving you  
+The call  
+As we walk  
+Hand in hand  
+Into our own  
+Wasteland  
+  
+I know  
+What she wants  
+But she don't  
+Get it from me  
+Opened up and broken  
+By the age of thirteen  
+Daddy says  
+Father knows best  
+My baby  
+Let's go upstairs  
+  
+Tell me how  
+You got this sickness  
+What an age  
+To be involved with us  
+There's a little secret  
+We all share  
+And I think I get it  
+When I see you  
+Laying there  
+With me in your arms  
+  
+She was  
+Daddy's girl  
+She must've been  
+Daddy's girl  

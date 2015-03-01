@@ -1,59 +1,59 @@
-##crawl with me
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>albums: Crawl With Me + Design Flaw</i><br />
-<br />
-I was lying on the table<br />
-Prone and oblivious<br />
-You were staring at me<br />
-Intentions obvious<br />
-I thought I might be able<br />
-To make something<br />
-Out of this<br />
-We shook hands<br />
-Later we'd kiss<br />
-You asked where<br />
-We were going<br />
-I said that depends<br />
-If we fall in love<br />
-It will be your living end<br />
-<br />
-Everybody wants<br />
-What they can't have<br />
-You could have me<br />
-But you won't keep<br />
-Opportunity knocks<br />
-Only once<br />
-I said get lost<br />
-Now here's your chance<br />
-<br />
-Crawl with me<br />
-Crawl with me home<br />
-Wast my time then<br />
-Leave me alone<br />
-Use me<br />
-Turn me to stone<br />
-Take another nail and<br />
-Drive it home<br />
-<br />
-All my investments<br />
-Get no return<br />
-Just double-digit interest<br />
-on nothing learned<br />
-So why continue<br />
-What do you earn<br />
-By staying cool<br />
-While I still burn<br />
-<br />
-When the bank forecloses<br />
-On all your debts<br />
-I'll still open up and<br />
-You can dig through that<br />
-<br />
-Now you know<br />
-I let myself go<br />
-You used that up<br />
-Now I'm sold<br />
-So go ahead<br />
-Sell me sloppy dead<br />
-We both end up empty<br />
-Let's repeat history</span>
+##crawl with me  
+(Bergmann)  
+albums: Crawl With Me + Design Flaw  
+  
+I was lying on the table  
+Prone and oblivious  
+You were staring at me  
+Intentions obvious  
+I thought I might be able  
+To make something  
+Out of this  
+We shook hands  
+Later we'd kiss  
+You asked where  
+We were going  
+I said that depends  
+If we fall in love  
+It will be your living end  
+  
+Everybody wants  
+What they can't have  
+You could have me  
+But you won't keep  
+Opportunity knocks  
+Only once  
+I said get lost  
+Now here's your chance  
+  
+Crawl with me  
+Crawl with me home  
+Wast my time then  
+Leave me alone  
+Use me  
+Turn me to stone  
+Take another nail and  
+Drive it home  
+  
+All my investments  
+Get no return  
+Just double-digit interest  
+on nothing learned  
+So why continue  
+What do you earn  
+By staying cool  
+While I still burn  
+  
+When the bank forecloses  
+On all your debts  
+I'll still open up and  
+You can dig through that  
+  
+Now you know  
+I let myself go  
+You used that up  
+Now I'm sold  
+So go ahead  
+Sell me sloppy dead  
+We both end up empty  
+Let's repeat history  

@@ -1,57 +1,57 @@
-##inside your love
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Crawl With Me</i><br />
-<br />
-You've got your problems<br />
-I've got mine<br />
-They pale in comparison<br />
-To the world outside<br />
-Forty continuous wars<br />
-At any given time<br />
-You want me<br />
-To make up my mind<br />
-<br />
-Consumption was<br />
-Way out of control<br />
-I slammed down hard<br />
-I just had to<br />
-Grab hold<br />
-Nerve ends frayed<br />
-They were over-exposed<br />
-What could I do<br />
-Christ she was beautiful<br />
-<br />
-I could use a piece<br />
-Of resistance<br />
-The glory of a<br />
-Valid incision<br />
-But who has the guts<br />
-To go the distance<br />
-Everybody's paralyzed<br />
-With indecision<br />
-<br />
-I found my own<br />
-Escape route religion<br />
-It was like<br />
-She came from above<br />
-But I spent everything I had<br />
-In another church<br />
-Can I hide myself<br />
-Inside your love<br />
-<br />
-I'm a solemn believer<br />
-In nothing at all<br />
-I wouldn't deceive you<br />
-Until you make me crawl<br />
-I'm a solemn believer<br />
-In nothing at all<br />
-<br />
-Some kind of love<br />
-Is mere obsession<br />
-But my love<br />
-Will be<br />
-A war of attrition<br />
-I'd punch and kick<br />
-And maim and gouge for you<br />
-In fact I'd even<br />
-Kill for you</span>
+##inside your love  
+(Bergmann)  
+album: Crawl With Me  
+  
+You've got your problems  
+I've got mine  
+They pale in comparison  
+To the world outside  
+Forty continuous wars  
+At any given time  
+You want me  
+To make up my mind  
+  
+Consumption was  
+Way out of control  
+I slammed down hard  
+I just had to  
+Grab hold  
+Nerve ends frayed  
+They were over-exposed  
+What could I do  
+Christ she was beautiful  
+  
+I could use a piece  
+Of resistance  
+The glory of a  
+Valid incision  
+But who has the guts  
+To go the distance  
+Everybody's paralyzed  
+With indecision  
+  
+I found my own  
+Escape route religion  
+It was like  
+She came from above  
+But I spent everything I had  
+In another church  
+Can I hide myself  
+Inside your love  
+  
+I'm a solemn believer  
+In nothing at all  
+I wouldn't deceive you  
+Until you make me crawl  
+I'm a solemn believer  
+In nothing at all  
+  
+Some kind of love  
+Is mere obsession  
+But my love  
+Will be  
+A war of attrition  
+I'd punch and kick  
+And maim and gouge for you  
+In fact I'd even  
+Kill for you  

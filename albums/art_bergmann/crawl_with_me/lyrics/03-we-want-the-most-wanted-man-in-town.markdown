@@ -1,59 +1,59 @@
-##(we want) the most wanted man in town
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Crawl With Me</i><br />
-<br />
-I've seen you<br />
-With my friend Jim<br />
-I know<br />
-What you've been doing with him<br />
-You got yourself<br />
-All caught up<br />
-Now you're stuck<br />
-Way out on a limb<br />
-<br />
-Nobody's got the keys<br />
-Especially not me<br />
-Nobody's got the keys<br />
-Especially not me<br />
-<br />
-Not everyone<br />
-Has a pretty face<br />
-Catherine Deneuve<br />
-Has everything on you<br />
-Christie Brinkley<br />
-And her pretty pace<br />
-Her and her husband<br />
-Try to stick it to you<br />
-<br />
-Tonight we're gonna<br />
-Sharpen that knife<br />
-We're gonna carve<br />
-That turkey up right<br />
-It's gonna be<br />
-Such a happy holy day<br />
-When we carve<br />
-Every fear away<br />
-<br />
-We want the most<br />
-Wanted man in town<br />
-When everyone<br />
-Comes down<br />
-<br />
-Not everyone<br />
-Has the means to create<br />
-It depends on your<br />
-Financial situation<br />
-Everyone has the means<br />
-To erase<br />
-It depends on what<br />
-You think of as disgrace<br />
-<br />
-Not everyone comes up<br />
-Smelling like a rose<br />
-Not everyone<br />
-Don't get the dose<br />
-<br />
-We want the most<br />
-Wanted man in town<br />
-When everyone<br />
-Comes down</span>
+##(we want) the most wanted man in town  
+(Bergmann)  
+album: Crawl With Me  
+  
+I've seen you  
+With my friend Jim  
+I know  
+What you've been doing with him  
+You got yourself  
+All caught up  
+Now you're stuck  
+Way out on a limb  
+  
+Nobody's got the keys  
+Especially not me  
+Nobody's got the keys  
+Especially not me  
+  
+Not everyone  
+Has a pretty face  
+Catherine Deneuve  
+Has everything on you  
+Christie Brinkley  
+And her pretty pace  
+Her and her husband  
+Try to stick it to you  
+  
+Tonight we're gonna  
+Sharpen that knife  
+We're gonna carve  
+That turkey up right  
+It's gonna be  
+Such a happy holy day  
+When we carve  
+Every fear away  
+  
+We want the most  
+Wanted man in town  
+When everyone  
+Comes down  
+  
+Not everyone  
+Has the means to create  
+It depends on your  
+Financial situation  
+Everyone has the means  
+To erase  
+It depends on what  
+You think of as disgrace  
+  
+Not everyone comes up  
+Smelling like a rose  
+Not everyone  
+Don't get the dose  
+  
+We want the most  
+Wanted man in town  
+When everyone  
+Comes down  

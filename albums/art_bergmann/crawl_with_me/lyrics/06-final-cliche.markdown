@@ -1,66 +1,66 @@
-##final cliche
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Crawl With Me</i><br />
-<br />
-Danny got a mortgage<br />
-And sailed it away<br />
-His daddy financed him<br />
-All the way<br />
-Six months<br />
-He could've had a boat<br />
-Danny<br />
-He gave up hope<br />
-<br />
-He woke up every morning<br />
-With the sawing in his head<br />
-Thought he'd<br />
-Put it down in words<br />
-But he<br />
-Bit his nails instead<br />
-He'd do anything to get rid of the dread<br />
-Now Danny<br />
-The poor boy is dead<br />
-<br />
-He was rich<br />
-He could have walked<br />
-Walked so proud<br />
-He dug his ditch<br />
-And threw himself in it<br />
-When the noise got too loud<br />
-<br />
-He bought it today<br />
-The final cliche<br />
-<br />
-Danny got a mortgage<br />
-And sailed it away<br />
-But his daddy<br />
-Made him pay pay pay<br />
-You and me<br />
-Are made of sterner stuff<br />
-Danny<br />
-Wasn't quite up to snuff<br />
-<br />
-He woke up every morning<br />
-With the sawing in his head<br />
-Thoguht he'd<br />
-Put it down in words<br />
-But he<br />
-Bit his nails instead<br />
-Six months<br />
-He could've had a yacht<br />
-We all know<br />
-What Danny bought<br />
-<br />
-He took his car<br />
-To the park<br />
-Stuck a hose<br />
-Fron the exhaust pipe<br />
-Through the window<br />
-And went to sleep<br />
-He sank like a stone<br />
-Like the sun<br />
-Into the Sea<br />
-Permanently<br />
-<br />
-He bought it today<br />
-The final cliche</span>
+##final cliche  
+(Bergmann)  
+album: Crawl With Me  
+  
+Danny got a mortgage  
+And sailed it away  
+His daddy financed him  
+All the way  
+Six months  
+He could've had a boat  
+Danny  
+He gave up hope  
+  
+He woke up every morning  
+With the sawing in his head  
+Thought he'd  
+Put it down in words  
+But he  
+Bit his nails instead  
+He'd do anything to get rid of the dread  
+Now Danny  
+The poor boy is dead  
+  
+He was rich  
+He could have walked  
+Walked so proud  
+He dug his ditch  
+And threw himself in it  
+When the noise got too loud  
+  
+He bought it today  
+The final cliche  
+  
+Danny got a mortgage  
+And sailed it away  
+But his daddy  
+Made him pay pay pay  
+You and me  
+Are made of sterner stuff  
+Danny  
+Wasn't quite up to snuff  
+  
+He woke up every morning  
+With the sawing in his head  
+Thoguht he'd  
+Put it down in words  
+But he  
+Bit his nails instead  
+Six months  
+He could've had a yacht  
+We all know  
+What Danny bought  
+  
+He took his car  
+To the park  
+Stuck a hose  
+Fron the exhaust pipe  
+Through the window  
+And went to sleep  
+He sank like a stone  
+Like the sun  
+Into the Sea  
+Permanently  
+  
+He bought it today  
+The final cliche  

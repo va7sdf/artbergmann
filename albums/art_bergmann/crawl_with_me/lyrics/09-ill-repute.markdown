@@ -1,61 +1,61 @@
-##ill repute
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Crawl With Me</i><br />
-<br />
-The minister's lover's husband<br />
-Came home and<br />
-Caught them in the act<br />
-He was not amused<br />
-At their savage lack of tact<br />
-But his wife<br />
-Took him back<br />
-With all his charms<br />
-The premier<br />
-And his cabinet<br />
-Welcomed him back<br />
-With open arms<br />
-<br />
-From the loneliest bedroom<br />
-To the highest office<br />
-In the land<br />
-There's a reputation<br />
-It's all held<br />
-In your powerful hand<br />
-<br />
-You can't wash it away<br />
-How can you help to explain<br />
-You can't wash it away<br />
-<br />
-All it took<br />
-Was a phone call to the east<br />
-Spread around some cash<br />
-Press the flesh and<br />
-Everybody gets financial redress<br />
-It's funny how it works<br />
-One minute you're precious<br />
-The next one you're<br />
-Dirt<br />
-<br />
-From the lowliest bathroom<br />
-To the highest office<br />
-In the land<br />
-There's a reputation<br />
-It's all held<br />
-In your powerful hand<br />
-<br />
-It's something that sticks<br />
-So relax your lips<br />
-We're appalled<br />
-At your unmitigated gall<br />
-Not amused<br />
-At your privilege<br />
-At who you've used<br />
-And abused<br />
-I can't wait<br />
-To vote again<br />
-I'm in a stall<br />
-You're in a tailspin<br />
-I can't wait<br />
-To vote again<br />
-I'm in a stall<br />
-You're in a tailspin now</span>
+##ill repute  
+(Bergmann)  
+album: Crawl With Me  
+  
+The minister's lover's husband  
+Came home and  
+Caught them in the act  
+He was not amused  
+At their savage lack of tact  
+But his wife  
+Took him back  
+With all his charms  
+The premier  
+And his cabinet  
+Welcomed him back  
+With open arms  
+  
+From the loneliest bedroom  
+To the highest office  
+In the land  
+There's a reputation  
+It's all held  
+In your powerful hand  
+  
+You can't wash it away  
+How can you help to explain  
+You can't wash it away  
+  
+All it took  
+Was a phone call to the east  
+Spread around some cash  
+Press the flesh and  
+Everybody gets financial redress  
+It's funny how it works  
+One minute you're precious  
+The next one you're  
+Dirt  
+  
+From the lowliest bathroom  
+To the highest office  
+In the land  
+There's a reputation  
+It's all held  
+In your powerful hand  
+  
+It's something that sticks  
+So relax your lips  
+We're appalled  
+At your unmitigated gall  
+Not amused  
+At your privilege  
+At who you've used  
+And abused  
+I can't wait  
+To vote again  
+I'm in a stall  
+You're in a tailspin  
+I can't wait  
+To vote again  
+I'm in a stall  
+You're in a tailspin now  
