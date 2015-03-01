@@ -1,47 +1,46 @@
-##(she) hit me
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>Sexual Roulette album + Design Flaw album</i><br />
-<br />
-Janis never gave it<br />
-Away freely<br />
-But I knew we'd make it<br />
-After one look in her eye<br />
-Then we got all<br />
-Touchy feely<br />
-I'm impulsive<br />
-Away we did fly<br />
-I used to be convulsive<br />
-Now I'm hap-hap-hap-happy<br />
-<br />
-She hit me<br />
-At the speed of lightning<br />
-<br />
-Joanna always<br />
-Kept her head up<br />
-She was a nazi<br />
-She caught me<br />
-On the chin<br />
-I never got fed-up<br />
-You know I told her<br />
-&quot;I never hit women<br />
-If you get any bolder<br />
-I'm gonna have to be<br />
-Tough tough tough&quot;<br />
-<br />
-She hit me<br />
-At the speed of lightning<br />
-<br />
-What will I call<br />
-The girl this time<br />
-The little harlot<br />
-Is a real drug slut<br />
-Now she's a friend of mine<br />
-She'll forget about me<br />
-Now that she's in this song<br />
-I knew all along<br />
-That we were<br />
-Wrong wrong wrong<br />
-<br />
-She hit me<br />
-At the speed of lightning
-</span>
+##(she) hit me  
+(Bergmann)  
+Sexual Roulette album + Design Flaw album  
+  
+Janis never gave it  
+Away freely  
+But I knew we'd make it  
+After one look in her eye  
+Then we got all  
+Touchy feely  
+I'm impulsive  
+Away we did fly  
+I used to be convulsive  
+Now I'm hap-hap-hap-happy  
+  
+She hit me  
+At the speed of lightning  
+  
+Joanna always  
+Kept her head up  
+She was a nazi  
+She caught me  
+On the chin  
+I never got fed-up  
+You know I told her  
+&quot;I never hit women  
+If you get any bolder  
+I'm gonna have to be  
+Tough tough tough&quot;  
+  
+She hit me  
+At the speed of lightning  
+  
+What will I call  
+The girl this time  
+The little harlot  
+Is a real drug slut  
+Now she's a friend of mine  
+She'll forget about me  
+Now that she's in this song  
+I knew all along  
+That we were  
+Wrong wrong wrong  
+  
+She hit me  
+At the speed of lightning  

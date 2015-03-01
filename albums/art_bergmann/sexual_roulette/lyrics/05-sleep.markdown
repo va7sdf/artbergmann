@@ -1,37 +1,36 @@
-##sleep
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Sexual Roulette</i><br />
-<br />
-I came in </span>
-<span style="color: #c0c0c0" class="Apple-style-span">here</span><span style="color: #c0c0c0"><br />
-Just looking<br />
-For a friend<br />
-Then I see you<br />
-Surrounded by your<br />
-Sycophants and fans<br />
-You're so good for me<br />
-I'm so good for you<br />
-<br />
-I got in here<br />
-By using your name<br />
-It's too bad<br />
-Now you want to<br />
-Allocate blame<br />
-You're so good for me<br />
-I'm so good for you<br />
-If you're sick of the cocaine<br />
-And driving around<br />
-Until it's all gone<br />
-If you're rick of the guys<br />
-Who are so good at sex<br />
-They can't even come anymore<br />
-I borrowed some money<br />
-If you want to leave<br />
-I don't want to make you<br />
-<br />
-Uh-uh<br />
-I don't wanna<br />
-Make you<br />
-<br />
-Let's go to sleep
-</span>
+##sleep  
+(Bergmann)  
+album: Sexual Roulette  
+  
+I came in  
+here  
+Just looking  
+For a friend  
+Then I see you  
+Surrounded by your  
+Sycophants and fans  
+You're so good for me  
+I'm so good for you  
+  
+I got in here  
+By using your name  
+It's too bad  
+Now you want to  
+Allocate blame  
+You're so good for me  
+I'm so good for you  
+If you're sick of the cocaine  
+And driving around  
+Until it's all gone  
+If you're rick of the guys  
+Who are so good at sex  
+They can't even come anymore  
+I borrowed some money  
+If you want to leave  
+I don't want to make you  
+  
+Uh-uh  
+I don't wanna  
+Make you  
+  
+Let's go to sleep  

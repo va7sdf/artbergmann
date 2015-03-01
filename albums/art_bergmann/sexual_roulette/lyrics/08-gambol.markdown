@@ -1,56 +1,55 @@
-##gambol
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Sexual Roulette</i><br />
-<br />
-I like to gamble<br />
-I'm not talking<br />
-Sports or fucking real estate<br />
-I like to gamble<br />
-Take your blackjacks<br />
-Russian roulette<br />
-Or racing stakes<br />
-I like to gamble<br />
-I don't like craps<br />
-But your sanity will do<br />
-Not like Rambo<br />
-I'd prefer a little more<br />
-Reality in my food<br />
-If you please<br />
-<br />
-I like to travel<br />
-I like the food i meet<br />
-The people i eat<br />
-Travel<br />
-A trip out of town<br />
-Or a nervous breakdown<br />
-I'd rather straddle<br />
-This razorblade<br />
-Than sit on that fence<br />
-Travel<br />
-No matter where you live<br />
-You're still the same pig you've always been<br />
-<br />
-The money<br />
-Burned a hole<br />
-In his pants<br />
-The money<br />
-Burned a hole<br />
-In his head<br />
-<br />
-I like to gamble<br />
-That's why I walk<br />
-These streets<br />
-All night every night<br />
-I like to waffle<br />
-Does a man like me<br />
-Really need a wife<br />
-I like to scramble<br />
-Look for some<br />
-Good German wine<br />
-Or a good<br />
-German knife<br />
-I like to gamble<br />
-What's more important<br />
-Your money<br />
-Or your life
-</span>
+##gambol  
+(Bergmann)  
+album: Sexual Roulette  
+  
+I like to gamble  
+I'm not talking  
+Sports or fucking real estate  
+I like to gamble  
+Take your blackjacks  
+Russian roulette  
+Or racing stakes  
+I like to gamble  
+I don't like craps  
+But your sanity will do  
+Not like Rambo  
+I'd prefer a little more  
+Reality in my food  
+If you please  
+  
+I like to travel  
+I like the food i meet  
+The people i eat  
+Travel  
+A trip out of town  
+Or a nervous breakdown  
+I'd rather straddle  
+This razorblade  
+Than sit on that fence  
+Travel  
+No matter where you live  
+You're still the same pig you've always been  
+  
+The money  
+Burned a hole  
+In his pants  
+The money  
+Burned a hole  
+In his head  
+  
+I like to gamble  
+That's why I walk  
+These streets  
+All night every night  
+I like to waffle  
+Does a man like me  
+Really need a wife  
+I like to scramble  
+Look for some  
+Good German wine  
+Or a good  
+German knife  
+I like to gamble  
+What's more important  
+Your money  
+Or your life  

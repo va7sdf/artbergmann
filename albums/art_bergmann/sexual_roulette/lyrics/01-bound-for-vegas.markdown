@@ -1,54 +1,53 @@
-##bound for vegas
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Sexual Roulette</i><br />
-<br />
-Load up the trucks<br />
-Don't forget the make-up<br />
-We've got the six semis<br />
-For the money<br />
-None for the show<br />
-We've got our costumes ready<br />
-Got to go go go<br />
-<br />
-Bound for Vegas<br />
-Bound for Vegas<br />
-<br />
-Who's got the map<br />
-Who's gonna navigate<br />
-We've got six shows<br />
-On the strip<br />
-It's a sellout<br />
-Wayne Newton doesn't<br />
-Want us to be late<br />
-<br />
-It's in my heart<br />
-I'm making a financial start<br />
-<br />
-They call me the performer<br />
-I guess they always will<br />
-Call me the entertainer<br />
-Don't retire me yet<br />
-I ain't over the hill<br />
-I ain't had my fill<br />
-<br />
-It's in my heart<br />
-I'm making a financial start<br />
-I'm a never was<br />
-Trying to be a has-been<br />
-A has-been on the come-back trail<br />
-Come-back to me<br />
-On the Vegas scene<br />
-By the age of fifty<br />
-<br />
-Good-bye Vancouver, Good-bye Toronto<br />
-Good-bye New York<br />
-Even the St. Louis blues<br />
-I said buy Detroit, buy New York<br />
-Ain't going Route 66<br />
-Give me I-85<br />
-<br />
-Bound for Vegas<br />
-Bound for Vegas<br />
-<br />
-It's a sellout
-</span>
+##bound for vegas  
+(Bergmann)  
+album: Sexual Roulette  
+  
+Load up the trucks  
+Don't forget the make-up  
+We've got the six semis  
+For the money  
+None for the show  
+We've got our costumes ready  
+Got to go go go  
+  
+Bound for Vegas  
+Bound for Vegas  
+  
+Who's got the map  
+Who's gonna navigate  
+We've got six shows  
+On the strip  
+It's a sellout  
+Wayne Newton doesn't  
+Want us to be late  
+  
+It's in my heart  
+I'm making a financial start  
+  
+They call me the performer  
+I guess they always will  
+Call me the entertainer  
+Don't retire me yet  
+I ain't over the hill  
+I ain't had my fill  
+  
+It's in my heart  
+I'm making a financial start  
+I'm a never was  
+Trying to be a has-been  
+A has-been on the come-back trail  
+Come-back to me  
+On the Vegas scene  
+By the age of fifty  
+  
+Good-bye Vancouver, Good-bye Toronto  
+Good-bye New York  
+Even the St. Louis blues  
+I said buy Detroit, buy New York  
+Ain't going Route 66  
+Give me I-85  
+  
+Bound for Vegas  
+Bound for Vegas  
+  
+It's a sellout  

@@ -1,66 +1,65 @@
-##dirge no. 1
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Sexual Roulette</i><br />
-<br />
-For seven days and<br />
-Seven nights<br />
-I stayed up with him<br />
-My best friend<br />
-He's a dog<br />
-We stayed<br />
-Down in the market<br />
-We thought it was<br />
-So cool<br />
-Like little Jerusalem<br />
-<br />
-The chicken blood<br />
-Ran in the gutters<br />
-Man did it stink<br />
-They played disco<br />
-Of the ages<br />
-It could turn a man<br />
-Into a racist<br />
-<br />
-Anyway he says<br />
-I've been burned so many times<br />
-I'm going out tonight<br />
-And kill every<br />
-Black man i see<br />
-I said &quot;uh,uh<br />
-Not me!&quot;<br />
-<br />
-I have got<br />
-A big confession<br />
-I'll be as clean<br />
-As the new ss<br />
-As orderly as a nurse<br />
-Just like a doctor<br />
-As clean<br />
-As this earth<br />
-So he took<br />
-His favourite red knife<br />
-Stuck it in<br />
-Some dealser's thigh<br />
-Took all his dope<br />
-What a mess<br />
-My my<br />
-<br />
-He came back up<br />
-To our flat<br />
-Pulled a dirty fit<br />
-Out of the garbage<br />
-Came into my room<br />
-He said &quot;You've gotta help me&quot;<br />
-I said &quot;Hello you old devil&quot;<br />
-And smashed him<br />
-Right in the teeth<br />
-<br />
-I will be as clean as<br />
-Christ on the cross<br />
-I've been so dirty<br />
-I will be as clean as<br />
-Christ on your wall<br />
-Restitution for everyone<br />
-Who died along the way<br />
-Having fun
-</span>
+##dirge no. 1  
+(Bergmann)  
+album: Sexual Roulette  
+  
+For seven days and  
+Seven nights  
+I stayed up with him  
+My best friend  
+He's a dog  
+We stayed  
+Down in the market  
+We thought it was  
+So cool  
+Like little Jerusalem  
+  
+The chicken blood  
+Ran in the gutters  
+Man did it stink  
+They played disco  
+Of the ages  
+It could turn a man  
+Into a racist  
+  
+Anyway he says  
+I've been burned so many times  
+I'm going out tonight  
+And kill every  
+Black man i see  
+I said &quot;uh,uh  
+Not me!&quot;  
+  
+I have got  
+A big confession  
+I'll be as clean  
+As the new ss  
+As orderly as a nurse  
+Just like a doctor  
+As clean  
+As this earth  
+So he took  
+His favourite red knife  
+Stuck it in  
+Some dealser's thigh  
+Took all his dope  
+What a mess  
+My my  
+  
+He came back up  
+To our flat  
+Pulled a dirty fit  
+Out of the garbage  
+Came into my room  
+He said &quot;You've gotta help me&quot;  
+I said &quot;Hello you old devil&quot;  
+And smashed him  
+Right in the teeth  
+  
+I will be as clean as  
+Christ on the cross  
+I've been so dirty  
+I will be as clean as  
+Christ on your wall  
+Restitution for everyone  
+Who died along the way  
+Having fun  
