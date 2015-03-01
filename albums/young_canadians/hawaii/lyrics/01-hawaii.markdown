@@ -1,68 +1,67 @@
-##hawaii
-<span style="color: #c0c0c0">(Bergmann/Ross Carpenter)<br />
-<i>Hawaii EP + No Escape compilation</i><br />
-<br />
-Let's go to fuckin' Hawaii<br />
-Get drunk in the sun<br />
-I wanna lay on Waikiki<br />
-Get a tan on my buns<br />
-&nbsp;<br />
-Runnin' from the rain<br />
-Thousands on the run<br />
-Makin' like the rich<br />
-Heading for the fun<br />
-&nbsp;<br />
-Let's go to fuckin' Tahiti<br />
-Lounge on the beach<br />
-Those native girls are so pretty<br />
-Swayin' to the native beats<br />
-&nbsp;<br />
-Runnin' from the rain<br />
-Thousands on the run<br />
-Makin' like the rich<br />
-Heading for the fun<br />
-&nbsp;<br />
-2 AM<br />
-Economy Air<br />
-747<br />
-Drunk to the roof(??)<br />
-Worked all summer<br />
-Saved my money<br />
-So I can warm<br />
-&nbsp;<br />
-Let's go to fuckin' Miami<br />
-Loungin' on the beach<br />
-I got my little Cuban refugee<br />
-Cheaper than a Georgia peach<br />
-&nbsp;<br />
-Runnin' from the rain<br />
-Thousands on the run<br />
-Thinkin' like the rich<br />
-Heading for the fun<br />
-&nbsp;<br />
-Let's go to fuckin' Las Vegas<br />
-Blow a wad in the Sun<br />
-I wanna stop for a party (??)<br />
-Before I'm back under the gun<br />
-&nbsp;<br />
-Runnin' from the rain<br />
-Thousands on the run<br />
-Makin like the rich<br />
-Heading for the fun<br />
-&nbsp;<br />
-2 AM<br />
-Economy Air<br />
-747<br />
-Drunk to the roof (??)<br />
-Worked all summer<br />
-Saved my money<br />
-So I can be warm<br />
-&nbsp;<br />
-Let's go to fuckin' Hawaii<br />
-Let's go to fuckin' Hawaii<br />
-&nbsp;<br />
-Runnin' from the rain<br />
-Thousands on the run<br />
-Makin' like the rich<br />
-Heading for the fun<br />
-</span>
+##hawaii  
+(Bergmann/Ross Carpenter)  
+Hawaii EP + No Escape compilation  
+  
+Let's go to fuckin' Hawaii  
+Get drunk in the sun  
+I wanna lay on Waikiki  
+Get a tan on my buns  
+&nbsp;  
+Runnin' from the rain  
+Thousands on the run  
+Makin' like the rich  
+Heading for the fun  
+&nbsp;  
+Let's go to fuckin' Tahiti  
+Lounge on the beach  
+Those native girls are so pretty  
+Swayin' to the native beats  
+&nbsp;  
+Runnin' from the rain  
+Thousands on the run  
+Makin' like the rich  
+Heading for the fun  
+&nbsp;  
+2 AM  
+Economy Air  
+747  
+Drunk to the roof(??)  
+Worked all summer  
+Saved my money  
+So I can warm  
+&nbsp;  
+Let's go to fuckin' Miami  
+Loungin' on the beach  
+I got my little Cuban refugee  
+Cheaper than a Georgia peach  
+&nbsp;  
+Runnin' from the rain  
+Thousands on the run  
+Thinkin' like the rich  
+Heading for the fun  
+&nbsp;  
+Let's go to fuckin' Las Vegas  
+Blow a wad in the Sun  
+I wanna stop for a party (??)  
+Before I'm back under the gun  
+&nbsp;  
+Runnin' from the rain  
+Thousands on the run  
+Makin like the rich  
+Heading for the fun  
+&nbsp;  
+2 AM  
+Economy Air  
+747  
+Drunk to the roof (??)  
+Worked all summer  
+Saved my money  
+So I can be warm  
+&nbsp;  
+Let's go to fuckin' Hawaii  
+Let's go to fuckin' Hawaii  
+&nbsp;  
+Runnin' from the rain  
+Thousands on the run  
+Makin' like the rich  
+Heading for the fun  

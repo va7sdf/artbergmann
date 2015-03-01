@@ -1,2 +1,34 @@
-##well, well, well
-<span style="color: #c0c0c0">(Bergmann)<br /><i>Hawaii EP</i> <i>+ No Escape compilation</i><br /><br />Well, well, well<br />I don't have too much to say<br />About the people I step over<br />On my way to work<br />Each and every day<br /><br />I watch the group up the street<br />The great unwashed<br />They really bug me<br />Yeah, they really bug me<br /><br />I got a job<br />I work in a bank<br />Near Hastings and Main<br />Cashing cheques for the slaves<br /><br />And then they walk up the street<br />Give their money back to me<br />The Bank of BC<br />The Bank of BC<br /><br />Well, I don't care<br />I'm just in training<br />For a manager's shift<br />In the Central Interior<br /><br />Some sticky little town<br />With a Chinese teller (??)<br />I think I'm gonna tell her<br />All the things I'm gonna tell her<br /></span><br />
+##well, well, well  
+(Bergmann)  
+Hawaii EP + No Escape compilation  
+  
+Well, well, well  
+I don't have too much to say  
+About the people I step over  
+On my way to work  
+Each and every day  
+  
+I watch the group up the street  
+The great unwashed  
+They really bug me  
+Yeah, they really bug me  
+  
+I got a job  
+I work in a bank  
+Near Hastings and Main  
+Cashing cheques for the slaves  
+  
+And then they walk up the street  
+Give their money back to me  
+The Bank of BC  
+The Bank of BC  
+  
+Well, I don't care  
+I'm just in training  
+For a manager's shift  
+In the Central Interior  
+  
+Some sticky little town  
+With a Chinese teller (??)  
+I think I'm gonna tell her  
+All the things I'm gonna tell her  
