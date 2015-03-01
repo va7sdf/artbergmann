@@ -1,49 +1,45 @@
-##runaway train
-<span style="font-family: Times; color: #000000" class="Apple-style-span">
-<div style="margin: 0px; padding: 0px; color: #8c8c8c; font-family: 'Book Antiqua',Palatino,'Times New Roman',Times,serif; font-size: 1em; background-color: #000000">
-<span style="color: #c0c0c0">(Bergmann/Gordon Nicholl)<br />
-<i>cassette: Poisoned + album: Crawl With Me</i><br />
-<br />
-All I see<br />
-When I try to sleep<br />
-Is you<br />
-Walking away from me<br />
-<br />
-All I offer<br />
-Is on your plate<br />
-I make dinner<br />
-You arrive late<br />
-<br />
-You and I know<br />
-I've got to go<br />
-What about the girl<br />
-I'll never know<br />
-<br />
-The seconds tick by<br />
-Like a runaway train<br />
-The hours go by<br />
-Like a runaway train<br />
-The days go by<br />
-Like a runaway train<br />
-And the years go by<br />
-<br />
-When you leave<br />
-Filled with fright<br />
-I fall apart<br />
-Like shattering light<br />
-<br />
-All I offer<br />
-Is on your plate<br />
-You pick that up<br />
-Throw it in my face<br />
-<br />
-The rain comes down<br />
-Rain<br />
-When it's over<br />
-<br />
-You and I know<br />
-You've got to go<br />
-What about the man<br />
-You'll never know</span>
-</div>
-</span>
+##runaway train  
+(Bergmann/Gordon Nicholl)  
+cassette: Poisoned + album: Crawl With Me  
+  
+All I see  
+When I try to sleep  
+Is you  
+Walking away from me  
+  
+All I offer  
+Is on your plate  
+I make dinner  
+You arrive late  
+  
+You and I know  
+I've got to go  
+What about the girl  
+I'll never know  
+  
+The seconds tick by  
+Like a runaway train  
+The hours go by  
+Like a runaway train  
+The days go by  
+Like a runaway train  
+And the years go by  
+  
+When you leave  
+Filled with fright  
+I fall apart  
+Like shattering light  
+  
+All I offer  
+Is on your plate  
+You pick that up  
+Throw it in my face  
+  
+The rain comes down  
+Rain  
+When it's over  
+  
+You and I know  
+You've got to go  
+What about the man  
+You'll never know  
