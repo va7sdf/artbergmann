@@ -1,57 +1,56 @@
-##deathwatch
-<span style="color: #c0c0c0">(Bergmann)<br />
-<span style="font-style: italic">albums: Vultura Freeway + Sexual Roulette</span><br />
-<br />
-It's a new deal<br />
-With the same deck of cards<br />
-Any old play<br />
-We're fashioning new parts<br />
-<br />
-I get too nervous<br />
-I can't touch you now<br />
-I get so excited<br />
-But I'll catch you somehow<br />
-<br />
-Try and make sense<br />
-With a pair of loaded dice<br />
-Is like having faith<br />
-In some guy called Christ<br />
-<br />
-I get too nervous<br />
-I can't touch you now<br />
-I get so excited<br />
-But I'll catch you somehow<br />
-(Catch you somehow)<br />
-<br />
-Our luck <br />
-Has now run its course<br />
-All
-wagers lost<br />
-On a fast dark horse<br />
-<br />
-I get too nervous<br />
-I can't touch you now<br />
-I get so excited<br />
-But I'll catch you somehow<br />
-(Catch you somehow)<br />
-<br />
-It's a crap shoot<br />
-With you as victim<br />
-Will you survive<br />
-The odds are slim to none<br />
-<br />
-I get too nervous<br />
-I can't touch you now<br />
-I get so excited<br />
-But I'll catch you somehow<br />
-(Catch you somehow)<br />
-<br />
-When the waiting is over<br />
-When the days are through<br />
-And I relax with you<br />
-We'll fall in love<br />
-Yeah, we'll all fall in love<br />
-Again<br />
-<br />
-(Yeah, right)</span><span style="color: #c0c0c0" class="Apple-style-span">
-</span>
+##deathwatch  
+(Bergmann)  
+albums: Vultura Freeway + Sexual Roulette  
+  
+It's a new deal  
+With the same deck of cards  
+Any old play  
+We're fashioning new parts  
+  
+I get too nervous  
+I can't touch you now  
+I get so excited  
+But I'll catch you somehow  
+  
+Try and make sense  
+With a pair of loaded dice  
+Is like having faith  
+In some guy called Christ  
+  
+I get too nervous  
+I can't touch you now  
+I get so excited  
+But I'll catch you somehow  
+(Catch you somehow)  
+  
+Our luck   
+Has now run its course  
+All  
+wagers lost  
+On a fast dark horse  
+  
+I get too nervous  
+I can't touch you now  
+I get so excited  
+But I'll catch you somehow  
+(Catch you somehow)  
+  
+It's a crap shoot  
+With you as victim  
+Will you survive  
+The odds are slim to none  
+  
+I get too nervous  
+I can't touch you now  
+I get so excited  
+But I'll catch you somehow  
+(Catch you somehow)  
+  
+When the waiting is over  
+When the days are through  
+And I relax with you  
+We'll fall in love  
+Yeah, we'll all fall in love  
+Again  
+  
+(Yeah, right)  

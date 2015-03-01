@@ -1,49 +1,48 @@
-##vultura freeway
-<span style="color: #c0c0c0" class="Apple-style-span">(Bergmann)<br />
-<i>album: Vultura Freeway + Poisoned EP</i><br />
-<br />
-It's not summer<br />
-But it's hot today<br />
-This ain't no holiday<br />
-Vultura Freeway<br />
-<br />
-Who could ever understand<br />
-What it costs to be in the band<br />
-A common knowledge of our fate<br />
-Like an agreement between church and state<br />
-Friendship lies in unholy ties<br />
-No cheap entertainment on this trip<br />
-No sideshows out on the strip<br />
-Just the wind and gas and whatever drug<br />
-That through our bodies rip<br />
-I ain't in no business grip<br />
-<br />
-Chorus<br />
-<br />
-A common bond and what we need<br />
-And when it runs out you'll find a friend indeed<br />
-When he died it was with a scream<br />
-On a roadway strewn with dreams<br />
-Blood isn't always what it seems<br />
-Ninety miles an hour in a blue tin box<br />
-We were still laughing&nbsp; when we hit the rocks<br />
-And just within reach of that golden beach<br />
-As the waves crashed over us<br />
-Discontented dispossessed and desperate<br />
-<br />
-Chorus<br />
-<br />
-Meanwhile<br />
-All along the new gold coast<br />
-They raise their glasses in a back-stabbing toast<br />
-On their knees to suck on the host<br />
-A warm death awaits you<br />
-A warm death awaits you<br />
-Take my hand and we'll go to hell<br />
-Ugly into beautiful<br />
-<br />
-It's not summer, but it's hot today<br />
-This ain't no holiday<br />
-The law disappears today<br />
-Vultura Freeway<br />
-</span>
+##vultura freeway  
+(Bergmann)  
+album: Vultura Freeway + Poisoned EP  
+  
+It's not summer  
+But it's hot today  
+This ain't no holiday  
+Vultura Freeway  
+  
+Who could ever understand  
+What it costs to be in the band  
+A common knowledge of our fate  
+Like an agreement between church and state  
+Friendship lies in unholy ties  
+No cheap entertainment on this trip  
+No sideshows out on the strip  
+Just the wind and gas and whatever drug  
+That through our bodies rip  
+I ain't in no business grip  
+  
+Chorus  
+  
+A common bond and what we need  
+And when it runs out you'll find a friend indeed  
+When he died it was with a scream  
+On a roadway strewn with dreams  
+Blood isn't always what it seems  
+Ninety miles an hour in a blue tin box  
+We were still laughing&nbsp; when we hit the rocks  
+And just within reach of that golden beach  
+As the waves crashed over us  
+Discontented dispossessed and desperate  
+  
+Chorus  
+  
+Meanwhile  
+All along the new gold coast  
+They raise their glasses in a back-stabbing toast  
+On their knees to suck on the host  
+A warm death awaits you  
+A warm death awaits you  
+Take my hand and we'll go to hell  
+Ugly into beautiful  
+  
+It's not summer, but it's hot today  
+This ain't no holiday  
+The law disappears today  
+Vultura Freeway  
