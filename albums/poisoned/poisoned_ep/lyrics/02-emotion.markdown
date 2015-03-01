@@ -1,67 +1,67 @@
-##emotion
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Vultura Freeway + Poisoned EP</i><br />
-<br />
-A woman shrieks<br />
-From the apartment below<br />
-Is it noisy love<br />
-Or a bruise-laying blow<br />
-<br />
-Domestic bliss<br />
-Dirty needle hiss<br />
-Cheap broken street life<br />
-<br />
-Just another fight<br />
-On a social housing row<br />
-The synthesizer swells<br />
-On my radio<br />
-<br />
-Gimme some emotion<br />
-Something I can chew on<br />
-Some honesty and hatred<br />
-Some lustful embraces<br />
-<br />
-Oh what a lovely<br />
-Sounding world<br />
-Hey what a lovely <br />
-Sounding world<br />
-<br />
-Incoming news <br />
-From a foreign battleground<br />
-No choir of angels<br />
-Sings a soothing sound<br />
-<br />
-Kids die in a crossfire<br />
-Of politics gone mad<br />
-Ideologues <br />
-Dogs shitting led<br />
-<br />
-Mom and dad wait at home<br />
-For a knock on the door<br />
-The synthesizer swells <br />
-On my radio<br />
-<br />
-Gimme some emotion<br />
-Something I can chew on<br />
-Some honesty and hatred<br />
-Some lustful embraces<br />
-<br />
-Down in the street<br />
-Who's getting beat<br />
-For something to eat<br />
-<br />
-Why it's an ugly old man<br />
-Brown bagging it again<br />
-Digging out his lunch<br />
-From a garbage can<br />
-<br />
-His broken bones don't register<br />
-In his broken mind<br />
-He don't need no doctor<br />
-To see his heart<br />
-Beats way out of time<br />
-<br />
-Gimme some emotion<br />
-Something I can chew on<br />
-Some honesty and hatred<br />
-Some lustful embraces</span>
+##emotion  
+(Bergmann)  
+album: Vultura Freeway + Poisoned EP  
+  
+A woman shrieks  
+From the apartment below  
+Is it noisy love  
+Or a bruise-laying blow  
+  
+Domestic bliss  
+Dirty needle hiss  
+Cheap broken street life  
+  
+Just another fight  
+On a social housing row  
+The synthesizer swells  
+On my radio  
+  
+Gimme some emotion  
+Something I can chew on  
+Some honesty and hatred  
+Some lustful embraces  
+  
+Oh what a lovely  
+Sounding world  
+Hey what a lovely   
+Sounding world  
+  
+Incoming news   
+From a foreign battleground  
+No choir of angels  
+Sings a soothing sound  
+  
+Kids die in a crossfire  
+Of politics gone mad  
+Ideologues   
+Dogs shitting led  
+  
+Mom and dad wait at home  
+For a knock on the door  
+The synthesizer swells   
+On my radio  
+  
+Gimme some emotion  
+Something I can chew on  
+Some honesty and hatred  
+Some lustful embraces  
+  
+Down in the street  
+Who's getting beat  
+For something to eat  
+  
+Why it's an ugly old man  
+Brown bagging it again  
+Digging out his lunch  
+From a garbage can  
+  
+His broken bones don't register  
+In his broken mind  
+He don't need no doctor  
+To see his heart  
+Beats way out of time  
+  
+Gimme some emotion  
+Something I can chew on  
+Some honesty and hatred  
+Some lustful embraces  
