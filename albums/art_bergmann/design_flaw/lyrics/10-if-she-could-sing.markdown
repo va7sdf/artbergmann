@@ -1,43 +1,42 @@
-##if she could sing
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>albums: Art Bergmann + Design Flaw</i><br />
-<br />
-If she could sing<br />
-I wonder what she'd say<br />
-Would she do as I've done<br />
-And put me on display<br />
-Use me for fun<br />
-As I have done<br />
-As I have done<br />
-She'd make me shudder and run<br />
-<br />
-If she could sing<br />
-Just like me<br />
-Would she bring<br />
-Heartache and misery<br />
-Throw me to the Huns<br />
-As I have done<br />
-As I have done</span>
-<div>
-<span style="color: #c0c0c0">She'd make me shudder and run<br />
-<br />
-Maybe there is something someone<br />
-Could have said or done<br />
-To change my mind<br />
-I don't think so this time<br />
-<br />
-When she finds her voice I'll listen<br />
-For a clue to what was missing<br />
-When I placed the emphasis<br />
-On mine<br />
-<br />
-If she could sing<br />
-I wonder what she'd say<br />
-If she could sing<br />
-Just like me<br />
-<br />
-She would call me down<br />
-She would call me down<br />
-She would call me down<br />
-She would call me down</span>
-</div>
+##if she could sing  
+(Bergmann)  
+albums: Art Bergmann + Design Flaw  
+  
+If she could sing  
+I wonder what she'd say  
+Would she do as I've done  
+And put me on display  
+Use me for fun  
+As I have done  
+As I have done  
+She'd make me shudder and run  
+  
+If she could sing  
+Just like me  
+Would she bring  
+Heartache and misery  
+Throw me to the Huns  
+As I have done  
+As I have done  
+  
+She'd make me shudder and run  
+  
+Maybe there is something someone  
+Could have said or done  
+To change my mind  
+I don't think so this time  
+  
+When she finds her voice I'll listen  
+For a clue to what was missing  
+When I placed the emphasis  
+On mine  
+  
+If she could sing  
+I wonder what she'd say  
+If she could sing  
+Just like me  
+  
+She would call me down  
+She would call me down  
+She would call me down  
+She would call me down  

@@ -1,55 +1,54 @@
-##hospital song
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>albums: Sexual Roulette + Design Flaw</i><br />
-<br />
-Yes I know<br />
-What I've done<br />
-And I know<br />
-That it's wrong<br />
-Cuz I talked<br />
-To your mom<br />
-We watched you<br />
-All night long<br />
-I put a pillow<br />
-Under your head<br />
-Laid down some rags<br />
-You'd read<br />
-Friends sent cards<br />
-And flowers<br />
-Said they hoped<br />
-You got well<br />
-<br />
-From your hospital bed<br />
-To my padded cell<br />
-There's not one thing<br />
-We need<br />
-This is heaven and hell<br />
-<br />
-Maybe later<br />
-We'll get together<br />
-Learn how to relax<br />
-Maybe later<br />
-We'll get together<br />
-And have a relapse<br />
-<br />
-I watch you sleep<br />
-In your tubes<br />
-And IV's<br />
-They kept your face<br />
-So clean<br />
-Would it seem<br />
-Too mean<br />
-If I pull the plug<br />
-On your dream machine<br />
-Would I be<br />
-Losing you<br />
-Or would we<br />
-Meet again<br />
-<br />
-How I wish<br />
-You knew<br />
-How to live<br />
-How I wish<br />
-We'd known<br />
-How to live
-</span>
+##hospital song  
+(Bergmann)  
+albums: Sexual Roulette + Design Flaw  
+  
+Yes I know  
+What I've done  
+And I know  
+That it's wrong  
+Cuz I talked  
+To your mom  
+We watched you  
+All night long  
+I put a pillow  
+Under your head  
+Laid down some rags  
+You'd read  
+Friends sent cards  
+And flowers  
+Said they hoped  
+You got well  
+  
+From your hospital bed  
+To my padded cell  
+There's not one thing  
+We need  
+This is heaven and hell  
+  
+Maybe later  
+We'll get together  
+Learn how to relax  
+Maybe later  
+We'll get together  
+And have a relapse  
+  
+I watch you sleep  
+In your tubes  
+And IV's  
+They kept your face  
+So clean  
+Would it seem  
+Too mean  
+If I pull the plug  
+On your dream machine  
+Would I be  
+Losing you  
+Or would we  
+Meet again  
+  
+How I wish  
+You knew  
+How to live  
+How I wish  
+We'd known  
+How to live  
