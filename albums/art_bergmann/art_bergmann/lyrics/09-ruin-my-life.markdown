@@ -1,39 +1,39 @@
-##ruin my life
-<span style="color: #c0c0c0">(Bergmann)<br />
-<i>album: Art Bergmann</i><br />
-<br />
-Ruin my life<br />
-Open my eyes to the broad daylight<br />
-Take me home<br />
-Get me to bed by midnight<br />
-Ruin my life<br />
-Open my eyes to the broad daylight<br />
-Take me home<br />
-Keep me safe and warm<br />
-Do what you like<br />
-Unless your freedom is the price<br />
-Take me home<br />
-Keep me from all harm<br />
-You say that I can do what I want<br />
-Hey hey I'm not that strong<br />
-You say that I don't get it<br />
-I'm ready to admit it<br />
-That I can't shake it off<br />
-Ruin my life<br />
-Hold your nose<br />
-When I come back in a week in somebody's clothes<br />
-Smell this rose<br />
-Keep me from an overdose<br />
-Make me hope<br />
-Make me hope I die when I get old<br />
-Take my drugs<br />
-And throw 'em out the window<br />
-Change my bed, change my head<br />
-Everything was going wrong until now<br />
-Take every promise I've ever broken<br />
-Turn them into a vow<br />
-Is this ring really dipped<br />
-In a thousand drinks<br />
-I'd give it all up<br />
-Just to sink inside her experience<br />
-Ruin my life</span>
+##ruin my life  
+(Bergmann)  
+album: Art Bergmann  
+  
+Ruin my life  
+Open my eyes to the broad daylight  
+Take me home  
+Get me to bed by midnight  
+Ruin my life  
+Open my eyes to the broad daylight  
+Take me home  
+Keep me safe and warm  
+Do what you like  
+Unless your freedom is the price  
+Take me home  
+Keep me from all harm  
+You say that I can do what I want  
+Hey hey I'm not that strong  
+You say that I don't get it  
+I'm ready to admit it  
+That I can't shake it off  
+Ruin my life  
+Hold your nose  
+When I come back in a week in somebody's clothes  
+Smell this rose  
+Keep me from an overdose  
+Make me hope  
+Make me hope I die when I get old  
+Take my drugs  
+And throw 'em out the window  
+Change my bed, change my head  
+Everything was going wrong until now  
+Take every promise I've ever broken  
+Turn them into a vow  
+Is this ring really dipped  
+In a thousand drinks  
+I'd give it all up  
+Just to sink inside her experience  
+Ruin my life  

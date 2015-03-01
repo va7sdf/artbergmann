@@ -1,33 +1,33 @@
-##baby needs oil
-<span style="color: #c0c0c0">(lyrics: Bergmann, music: Bergmann/Ray Fulber)<br />
-<i>album: Art Bergmann</i><br />
-<br />
-I've uncovered an unearthly delight<br />
-TV battles in my desert night<br />
-A superbowl of candy missles in flight<br />
-Tell me why are all the newsmen white<br />
-<br />
-My baby needs oil<br />
-She's been drinking like it's going out of style<br />
-My baby's love's on the boil<br />
-She's found a new land to soil<br />
-<br />
-I've uncovered an unearthly delight<br />
-A million cars filled up on Exxon light<br />
-My baby's engine's all rusted up tight<br />
-She wants it every night<br />
-<br />
-My baby needs oil<br />
-She's been drinking like it's going out of style<br />
-My baby's love's on the boil<br />
-She's found a new land to soil<br />
-<br />
-Boys and girls sleep in my desert night<br />
-A lover's moon hangs in ghastly pale light<br />
-Soldier's wives sleep with Elvis tonight<br />
-I'm just trying to demystify<br />
-<br />
-My baby needs oil<br />
-She's been drinking like it's going out of style<br />
-My baby's love's on the boil<br />
-She's found a new land to soil</span>
+##baby needs oil  
+(lyrics: Bergmann, music: Bergmann/Ray Fulber)  
+album: Art Bergmann  
+  
+I've uncovered an unearthly delight  
+TV battles in my desert night  
+A superbowl of candy missles in flight  
+Tell me why are all the newsmen white  
+  
+My baby needs oil  
+She's been drinking like it's going out of style  
+My baby's love's on the boil  
+She's found a new land to soil  
+  
+I've uncovered an unearthly delight  
+A million cars filled up on Exxon light  
+My baby's engine's all rusted up tight  
+She wants it every night  
+  
+My baby needs oil  
+She's been drinking like it's going out of style  
+My baby's love's on the boil  
+She's found a new land to soil  
+  
+Boys and girls sleep in my desert night  
+A lover's moon hangs in ghastly pale light  
+Soldier's wives sleep with Elvis tonight  
+I'm just trying to demystify  
+  
+My baby needs oil  
+She's been drinking like it's going out of style  
+My baby's love's on the boil  
+She's found a new land to soil  

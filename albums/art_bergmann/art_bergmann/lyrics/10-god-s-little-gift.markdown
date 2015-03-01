@@ -1,35 +1,35 @@
-##god's little gift
-<span style="color: #c0c0c0">(lyrics: Bergmann/William Scherk, music: Bergmann)<br />
-<i>albums: Vultura Freeway + Art Bergmann</i><br />
-<br />
-A neurotic old romance<br />
-Is claiming young men<br />
-No amount of destruction<br />
-Will give you land<br />
-<br />
-Return to the holy land<br />
-Let's see what you've planned<br />
-What do the chosen few<br />
-Choose for you<br />
-Soon we'll be a page in your history<br />
-But we will never meet again<br />
-<br />
-You think you're God's little gift to the world<br />
-God's little gift to the world<br />
-<br />
-We're making advances<br />
-Calling you up for national gain<br />
-No amount of seduction<br />
-Will ease the pain<br />
-You';ll never get much from me<br />
-There's just enough to go around<br />
-<br />
-You think you're God's little gift to the world<br />
-God's little gift to the world<br />
-<br />
-Just like a girl who screams in your ear<br />
-With the secret of the year<br />
-Here's an army to fear<br />
-<br />
-They think they're god's little gift to the world<br />
-God's little gift to the world</span>
+##god's little gift  
+(lyrics: Bergmann/William Scherk, music: Bergmann)  
+albums: Vultura Freeway + Art Bergmann  
+  
+A neurotic old romance  
+Is claiming young men  
+No amount of destruction  
+Will give you land  
+  
+Return to the holy land  
+Let's see what you've planned  
+What do the chosen few  
+Choose for you  
+Soon we'll be a page in your history  
+But we will never meet again  
+  
+You think you're God's little gift to the world  
+God's little gift to the world  
+  
+We're making advances  
+Calling you up for national gain  
+No amount of seduction  
+Will ease the pain  
+You';ll never get much from me  
+There's just enough to go around  
+  
+You think you're God's little gift to the world  
+God's little gift to the world  
+  
+Just like a girl who screams in your ear  
+With the secret of the year  
+Here's an army to fear  
+  
+They think they're god's little gift to the world  
+God's little gift to the world  
