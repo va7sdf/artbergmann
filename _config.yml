@@ -19,3 +19,13 @@ exclude:
   - "*/README.md"   # README files anywhere in tree
   - "scripts"
   - "README.md"     # root README file
+
+defaults:
+  -
+    scope:
+      path: "albums"
+      type: "posts"
+    values:
+      layout: "lyrics"
+      author: "Dr. Applefritter"
+      permalink: /:categories/:title.html
