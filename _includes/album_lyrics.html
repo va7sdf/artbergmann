@@ -1,0 +1,6 @@
+{% for post in sorted_lyrics %}
+    <h2 id="{{ post.title | slugify }}">{{ post.title}}</h2>
+    lyrics: {% if post.lyrics %}{{ post.lyrics }}{% else %}Bergmann{% endif %}<br />
+    music: {% if post.music %}{{ post.music }}{% else %}Bergmann{% endif %}
+    {{ post.content }}
+{% endfor %}

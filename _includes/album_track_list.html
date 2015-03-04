@@ -1,0 +1,3 @@
+{% for post in sorted_lyrics %}
+    <a href="#{{ post.title | slugify }}">{{ post.title}}</a><br />
+{% endfor %}

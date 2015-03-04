@@ -1,15 +1,23 @@
 ---
 layout: default
 ---
+{% assign album = page.title | replace: ' ','_'  %}
+{% assign sorted_lyrics = site.categories[album] | sort: 'track' %}
+
 <div class="album">
 
   <header class="album-header">
-    <h1 class="album-title">{{ page.title }}</h1>
+    <h1 class="album-title">{{ page.artist}} - {{ page.title }}</h1>
   </header>
+  <img src="{{ site.baseurl }}/{{ page.path | replace: 'index.markdown','' }}images/{{album}}.jpg">
+  <img src="images/self_titled.jpg">
+
+  {% include album_track_list.html %}
 
   <article class="album-content">
     {{ content }}
-    FOO FOO FOO
   </article>
+
+  {% include album_lyrics.html %}
 
 </div>
