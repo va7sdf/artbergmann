@@ -1,7 +1,11 @@
-##poisoned  
-(Bergmann)  
-album: Vultura Freeway  
-  
+---
+track: 3
+album: vultura freeway
+other_albums:
+title: poisoned
+lyrics: 
+music: 
+---
 I've been thinking  
 About a new way of talking  
 You've been talking  

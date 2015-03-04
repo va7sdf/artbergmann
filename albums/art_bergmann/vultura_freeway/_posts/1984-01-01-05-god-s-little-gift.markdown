@@ -1,7 +1,11 @@
-##god's little gift  
-(lyrics: Bergmann/Bill Scherk, music: Bergmann)  
-albums: Vultura Freeway + Art Bergmann  
-  
+---
+track: 5
+album: vultura freeway
+other_albums: art bergmann
+title: god's little gift
+lyrics: bergmann/bill scherk
+music: 
+---
 A neurotic old romance  
 Is claiming young men  
 No amount of destruction  

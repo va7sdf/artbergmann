@@ -1,7 +1,11 @@
-##deathwatch  
-(Bergmann)  
-albums: Vultura Freeway + Sexual Roulette  
-  
+---
+track: 8
+album: vultura freeway
+other_albums: sexual roulette
+title: deathwatch
+lyrics: 
+music: 
+---
 It's a new deal  
 With the same deck of cards  
 Any old play  

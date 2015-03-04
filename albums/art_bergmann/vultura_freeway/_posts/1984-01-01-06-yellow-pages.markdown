@@ -1,7 +1,11 @@
-##yellow pages  
-(Bergmann)  
-album: Vultura Freeway + Poisoned EP  
-  
+---
+track: 6
+album: vultura freeway
+other_albums: poisoned ep
+title: yellow pages
+lyrics: 
+music: 
+---
 I used to work with someone  
 Me and Billy always got the job done  
 I thought this would last for years  

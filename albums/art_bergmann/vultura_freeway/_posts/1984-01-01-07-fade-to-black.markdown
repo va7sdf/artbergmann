@@ -1,7 +1,11 @@
-##fade to black  
-(Bergmann)  
-album: Vultura Freeway  
-  
+---
+track: 7
+album: vultura freeway
+other_albums:
+title: fade to black
+lyrics: 
+music: 
+---
 I've been walking these aisles  
 With no strings attached  
 Someone always preaches  

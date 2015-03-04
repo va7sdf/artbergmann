@@ -1,7 +1,11 @@
-##vultura freeway  
-(Bergmann)  
-album: Vultura Freeway + Poisoned EP  
-  
+---
+track: 9
+album: vultura freeway
+other_albums: poisoned ep
+title: vultura freeway
+lyrics: 
+music: 
+---
 It's not summer  
 But it's hot today  
 This ain't no holiday  

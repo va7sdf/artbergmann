@@ -1,7 +1,11 @@
-##virgin territory  
-(Bergmann/Bill Scherk/Gord Nicholl)  
-album: Vultura Freeway  
-  
+---
+track: 4
+album: vultura freeway
+other_albums:
+title: virgin territory
+lyrics: bergmann/bill scherk/gord nicholl
+music: bergmann/bill scherk/gord nicholl
+---
 Someone's sending signals  
 Rising up through the sky  
 There's no cry  

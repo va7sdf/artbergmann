@@ -1,7 +1,11 @@
-##gray area  
-(Bergmann)  
-album: Vultura Freeway  
-  
+---
+track: 10
+album: vultura freeway
+other_albums:
+title: gray area
+lyrics: 
+music: 
+---
 Tell me what's the difference  
 In you and me and what you'd like to see  
 We all want a better life  
