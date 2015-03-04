@@ -1,0 +1,13 @@
+---
+layout: page
+title: lyrics
+---
+{% assign sorted_lyrics = site.categories['albums'] | sort %}
+
+<div class="album">
+
+  {% for post in sorted_lyrics %}
+  <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title}}</a>
+  {% endfor %}
+
+</div>

@@ -7,6 +7,9 @@ layout: default
     <h1 class="lyric-title">{{ page.title }}</h1>
   </header>
 
+  lyrics: {% if post.lyrics %}{{ post.lyrics }}{% else %}Bergmann{% endif %}<br />
+  music: {% if post.music %}{{ post.music }}{% else %}Bergmann{% endif %}
+
   <article class="lyric-content">
     {{ content }}
   </article>
