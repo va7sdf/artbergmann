@@ -29,3 +29,10 @@ defaults:
       layout: "lyrics"
       author: "Dr. Applefritter"
       permalink: /:categories/:title.html
+  -
+    scope:
+      path: "albums"
+      type: "pages"
+    values:
+      layout: "albums"
+      author: "Dr. Applefritter"
