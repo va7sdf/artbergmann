@@ -13,8 +13,6 @@ markdown: kramdown
 
 # Exclude list
 exclude:
-  - "*/images"
-  - "*/thumbs"
   - "*/lyrics"
   - "*/README.md"   # README files anywhere in tree
   - "scripts"

@@ -9,8 +9,8 @@ layout: default
   <header class="album-header">
     <h1 class="album-title">{{ page.artist}} - {{ page.title }}</h1>
   </header>
-  <img src="{{ site.baseurl }}/{{ page.path | replace: 'index.markdown','' }}images/{{album}}.jpg">
-  <img src="images/self_titled.jpg">
+
+  <div><img src="images/{{album}}.jpg"></div>
 
   {% include album_track_list.html %}
 
