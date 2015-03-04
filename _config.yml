@@ -16,6 +16,7 @@ exclude:
   - "*/lyrics"
   - "*/README.md"   # README files anywhere in tree
   - "scripts"
+  - "import"
   - "README.md"     # root README file
 
 defaults:

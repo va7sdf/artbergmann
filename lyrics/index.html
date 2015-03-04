@@ -7,7 +7,7 @@ title: lyrics
 <div class="album">
 
   {% for post in sorted_lyrics %}
-  <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title}}</a>
+  <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a></h5>
   {% endfor %}
 
 </div>
