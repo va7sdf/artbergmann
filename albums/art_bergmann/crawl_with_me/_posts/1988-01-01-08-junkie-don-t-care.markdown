@@ -1,7 +1,11 @@
-##junkie don't care  
-(Bergmann/Gordon Nicholl)  
-album: Crawl With Me  
-  
+---
+track: 8
+album: crawl with me
+other_albums:
+title: junkie don't care
+lyrics: bergmann/gordon nicholl
+music: bergmann/gordon nicholl
+---
 Look at that singer  
 He's been doing this  
 For years  

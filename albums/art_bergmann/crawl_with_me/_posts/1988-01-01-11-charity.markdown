@@ -1,7 +1,11 @@
-##charity  
-(Bergmann)  
-album: Crawl With Me  
-  
+---
+track: 11
+album: crawl with me
+other_albums:
+title: charity
+lyrics: 
+music: 
+---
 All my life  
 I always somehow knew  
 That power came out of  

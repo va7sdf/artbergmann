@@ -1,7 +1,11 @@
-##runaway train  
-(Bergmann/Gordon Nicholl)  
-cassette: Poisoned + album: Crawl With Me  
-  
+---
+track: 5
+album: crawl with me
+other_albums: poisoned mc
+title: runaway train
+lyrics: bergmann/gordon nicholl
+music: bergmann/gordon nicholl
+---
 All I see  
 When I try to sleep  
 Is you  

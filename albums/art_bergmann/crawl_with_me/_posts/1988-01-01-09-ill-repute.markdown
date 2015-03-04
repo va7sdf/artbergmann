@@ -1,7 +1,11 @@
-##ill repute  
-(Bergmann)  
-album: Crawl With Me  
-  
+---
+track: 9
+album: crawl with me
+other_albums:
+title: ill repute
+lyrics: 
+music: 
+---
 The minister's lover's husband  
 Came home and  
 Caught them in the act  

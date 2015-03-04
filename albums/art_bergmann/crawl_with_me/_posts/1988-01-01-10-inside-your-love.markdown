@@ -1,7 +1,11 @@
-##inside your love  
-(Bergmann)  
-album: Crawl With Me  
-  
+---
+track: 10
+album: crawl with me
+other_albums:
+title: inside your love
+lyrics: 
+music: 
+---
 You've got your problems  
 I've got mine  
 They pale in comparison  

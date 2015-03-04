@@ -1,7 +1,11 @@
-##final cliche  
-(Bergmann)  
-album: Crawl With Me  
-  
+---
+track: 6
+album: crawl with me
+other_albums:
+title: final cliche
+lyrics: 
+music: 
+---
 Danny got a mortgage  
 And sailed it away  
 His daddy financed him  

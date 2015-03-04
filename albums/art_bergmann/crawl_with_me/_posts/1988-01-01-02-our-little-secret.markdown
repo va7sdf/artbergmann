@@ -1,7 +1,11 @@
-##our little secret  
-(Bergmann)  
-albums: Crawl With Me + Design Flaw  
-  
+---
+track: 2
+album: crawl with me
+other_albums: design flaw
+title: our little secret
+lyrics: 
+music: 
+---
 I know  
 What she wants  
 But she don't  

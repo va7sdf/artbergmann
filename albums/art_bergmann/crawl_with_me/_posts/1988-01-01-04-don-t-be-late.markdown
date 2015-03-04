@@ -1,7 +1,11 @@
-##don't be late  
-(Art Bergmann)  
-albums: Crawl With Me + Design Flaw  
-  
+---
+track: 4
+album: crawl with me
+other_albums: design flaw
+title: don't be late
+lyrics: 
+music: 
+---
 I'm sorry  
 It's just that you're new  
 Can I take  

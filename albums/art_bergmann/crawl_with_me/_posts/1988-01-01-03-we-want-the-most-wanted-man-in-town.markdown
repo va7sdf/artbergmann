@@ -1,7 +1,11 @@
-##(we want) the most wanted man in town  
-(Bergmann)  
-album: Crawl With Me  
-  
+---
+track: 3
+album: crawl with me
+other_albums:
+title: (we want) the most wanted man in town
+lyrics: 
+music: 
+---
 I've seen you  
 With my friend Jim  
 I know  
