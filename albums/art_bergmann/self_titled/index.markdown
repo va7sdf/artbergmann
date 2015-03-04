@@ -1,5 +1,5 @@
 ---
-title: art bergmann - art bergmann
+title: art bergmann - self titled
 ---
 <img src="images/stories/album_covers/album_descriptions/art_bergmann-art_bergmann.jpg" alt="Art Bergmann - Art Bergmann" title="Art Bergmann - Art Bergmann" style="border: 0px solid #000000; width: 394px; height: 388px" width="394" align="bottom" height="388" /><br />
 <br />

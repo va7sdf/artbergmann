@@ -4,7 +4,7 @@ album: art bergmann
 other_albums: 
 title: i can't change this world
 lyrics: 
-music: Bergmann/Susann Richter
+music: bergmann/susann richter
 tags: 
 ---
 January 15, 1991... I feel like gettin' down  

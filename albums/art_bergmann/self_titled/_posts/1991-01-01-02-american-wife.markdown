@@ -3,7 +3,7 @@ track: 2
 album: art bergmann
 other_albums: 
 title: american wife
-lyrics: Bergmann/Jamey Koch
+lyrics: bergmann/jamey koch
 music: 
 tags: 
 ---

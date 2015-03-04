@@ -4,7 +4,7 @@ album: art bergmann
 other_albums: 
 title: baby needs oil
 lyrics: 
-music: Bergmann/Ray Fulber
+music: bergmann/ray fulber
 tags: 
 ---
 I've uncovered an unearthly delight  

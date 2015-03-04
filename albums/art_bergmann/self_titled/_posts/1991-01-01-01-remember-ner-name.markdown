@@ -3,8 +3,8 @@ track: 1
 album: art bergmann
 other_albums:
 title: remember her name
-lyrics: Bergmann
-music: Bergmann/Susann Richter
+lyrics: bergmann
+music: bergmann/susann richter
 ---
 Her first breath  
 Is drawn through a cigarette  

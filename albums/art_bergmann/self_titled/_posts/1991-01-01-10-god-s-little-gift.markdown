@@ -3,7 +3,7 @@ track: 10
 album: art bergmann
 other_albums: vultura freeway
 title: god's little gift
-lyrics: Bergmann/William Scherk
+lyrics: bergmann/william scherk
 music: 
 tags: 
 ---
