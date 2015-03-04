@@ -2,7 +2,7 @@
 layout: page
 title: lyrics
 ---
-{% assign sorted_lyrics = site.categories['albums'] | sort %}
+{% assign sorted_lyrics = site.categories['albums'] | sort: 'title' %}
 
 <div class="album">
 
