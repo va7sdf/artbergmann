@@ -1,4 +1,9 @@
 {% for post in sorted_lyrics %}
     <h2 id="{{ post.title | slugify }}">{{ post.title}}</h2>
-    {{ post.content }}
+    {% assign post_len = post.content | size %}
+    {% if post_len > 1 %}
+      {{ post.content }}
+    {% else %}
+      No lyrics yet. Any help?
+    {% endif %}
 {% endfor %}
