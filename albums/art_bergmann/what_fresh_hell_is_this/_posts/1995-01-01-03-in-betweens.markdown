@@ -1,7 +1,11 @@
-##in betweens  
-(lyrics: Bergmann, music: Bergmann/Colin James)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 3
+album: what fresh hell is this?
+other_albums:
+title: in betweens
+lyrics: 
+music: bergmann/colin james
+---
 Hey you  
 All dressed in black  
 In your gravedigger clothes  

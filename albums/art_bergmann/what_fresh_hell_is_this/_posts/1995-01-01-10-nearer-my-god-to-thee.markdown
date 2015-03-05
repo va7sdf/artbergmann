@@ -1,7 +1,11 @@
-##nearer my god to thee  
-(Bergmann)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 10
+album: what fresh hell is this?
+other_albums:
+title: nearer my god to thee
+lyrics: 
+music: 
+---
 When you wake up every morning  
 Just to face one more deadline  
 Will you think back on me  

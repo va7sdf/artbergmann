@@ -1,7 +1,11 @@
-##guns and heroin  
-(Bergmann)  
-EP: Poisoned + album: What Fresh Hell Is This?  
-  
+---
+track: 5
+album: what fresh hell is this?
+other_albums: poisoned ep
+title: guns and heroin
+lyrics: 
+music: 
+---
 Some people never go out  
 I understand why  
 Need something to read about  

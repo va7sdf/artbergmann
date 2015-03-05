@@ -1,7 +1,11 @@
-##some fresh hell  
-(lyrics: Bergmann, music: Bergmann/Dave Genn/Chris Wardman)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 6
+album: what fresh hell is this?
+other_albums:
+title: some fresh hell
+lyrics: 
+music: bergmann/dave genn/chris wardman
+---
 You turn your friends  
 Into your clientele  
 Like a vampire newly-wed  

@@ -1,7 +1,11 @@
-##contract  
-(Bergmann/Chris Wardman)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 7
+album: what fresh hell is this?
+other_albums:
+title: contract
+lyrics: bergmann/chris wardman
+music: bergmann/chris wardman
+---
 I&rsquo;ll pollute the world for you  
 Do anything you want me to  
 And I&rsquo;ll salute your flag - as I do  

@@ -1,7 +1,11 @@
-##jones  
-(lyrics: Bergmann, music: Bergmann/Dave Genn)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 8
+album: what fresh hell is this?
+other_albums:
+title: jones
+lyrics: 
+music: bergmann/dave genn
+---
 She gives me the jones  
 Callin&rsquo; all the time  
 She&rsquo;s got the phone hooked  

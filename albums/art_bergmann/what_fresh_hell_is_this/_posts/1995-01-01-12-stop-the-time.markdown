@@ -1,7 +1,11 @@
-##stop the time  
-(lyrics: Bergmann, music: Bergmann/Dave Genn/Adam Drake)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 12
+album: what fresh hell is this?
+other_albums:
+title: stop the time
+lyrics: 
+music: bergmann/dave genn/adam drake
+---
 Start the time  
 Every morning  
 In the rain  

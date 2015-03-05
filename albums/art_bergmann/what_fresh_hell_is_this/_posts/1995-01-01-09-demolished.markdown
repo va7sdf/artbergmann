@@ -1,7 +1,11 @@
-##demolished  
-(lyrics: Bergmann, music: Bergmann/Dave Genn)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 9
+album: what fresh hell is this?
+other_albums:
+title: demolished
+lyrics: 
+music: bergmann/dave genn
+---
 You got so wired  
 What did you think  
 Would happen in the first place  

@@ -1,7 +1,11 @@
-##another train song  
-(Bergmann)  
-album: What Fresh Hell Is This?  
-  
+---
+track: 2
+album: what fresh hell is this?
+other_albums:
+title: another train song
+lyrics: 
+music: 
+---
 I saw you at the station  
 Waving and smiling bye-bye  
 No, I&rsquo;ve never seen you so happy  

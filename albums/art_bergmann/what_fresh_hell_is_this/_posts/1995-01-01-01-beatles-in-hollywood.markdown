@@ -1,7 +1,11 @@
-##beatles in hollywood  
-(lyrics: Bergmann, music: Bergmann/Dave Genn)  
-&nbsp;album: What Fresh Hell Is This?  
-  
+---
+track: 1
+album: what fresh hell is this?
+other_albums:
+title: beatles in hollywood
+lyrics: 
+music: bergmann/dave genn
+---
 There are no absolutes to human misery  
 Things can get worse  
 Hum...humming in the wires  
