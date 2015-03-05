@@ -1,6 +1,11 @@
-##sin city  
-(Gram Parsons/Chris Hillman)  
-  
+---
+track: 5
+album: design flaw
+other_albums:
+title: sin city
+lyrics: gram parsons/chris hillman
+music: gram parsons/chris hillman
+---
 This old town is filled with sin,  
 It'll swallow you in  
 If you've got some money to burn.  

@@ -1,7 +1,11 @@
-##hospital song  
-(Bergmann)  
-albums: Sexual Roulette + Design Flaw  
-  
+---
+track: 4
+album: design flaw
+other_albums: sexual roulette
+title: hospital song
+lyrics: 
+music: 
+---
 Yes I know  
 What I've done  
 And I know  

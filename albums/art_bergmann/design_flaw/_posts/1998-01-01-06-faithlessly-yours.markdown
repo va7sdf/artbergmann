@@ -1,7 +1,11 @@
-##faithlessly yours  
-(Bergmann)  
-albums: Art Bergmann + Design Flaw  
-  
+---
+track: 6
+album: design flaw
+other_albums: self titled
+title: faithlessly yours
+lyrics: 
+music: 
+---
 God's got an answer in that jukebox  
 I pick the wrong song every time  
 I know my song is in that jukebox  

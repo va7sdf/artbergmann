@@ -1,7 +1,11 @@
-##please don't be late  
-(Bergmann)  
-albums: Crawl With Me + Design Flaw  
-  
+---
+track: 3
+album: design flaw
+other_albums: crawl with me
+title: please don't be late
+lyrics: 
+music: 
+---
 I'm sorry  
 It's just that you're new  
 Can I take  

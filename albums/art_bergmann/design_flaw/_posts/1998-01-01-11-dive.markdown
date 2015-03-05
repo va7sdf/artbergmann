@@ -1,7 +1,11 @@
-##dive  
-(Bergmann)  
-albums: What Fresh Hell Is This? + Design Flaw  
-  
+---
+track: 11
+album: design flaw
+other_albums: what fresh hell is this?
+title: dive
+lyrics: 
+music: 
+---
 Got a mouthful of ashes  
 And I got some rope  
 You got a pocketful of plastic  

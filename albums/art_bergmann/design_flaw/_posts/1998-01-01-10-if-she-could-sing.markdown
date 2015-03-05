@@ -1,7 +1,11 @@
-##if she could sing  
-(Bergmann)  
-albums: Art Bergmann + Design Flaw  
-  
+---
+track: 10
+album: design flaw
+other_albums: self titled
+title: if she could sing
+lyrics: 
+music: 
+---
 If she could sing  
 I wonder what she'd say  
 Would she do as I've done  

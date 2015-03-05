@@ -1,8 +1,11 @@
-##buried alive  
-(lyrics: Art Bergmann/Sherri Decembrini,  
-music: Bergmann/Chris Wardman)  
-albums: What Fresh Hell Is This? + Design Flaw  
-  
+---
+track: 7
+album: design flaw
+other_albums: what fresh hell is this?
+title: buried alive
+lyrics: art bergmann/sherri decembrini
+music: bergmann/chris wardman
+---
 Lead me down your garden path  
 Show me my innocent past  
 All the good things  

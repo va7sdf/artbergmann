@@ -1,7 +1,11 @@
-##more blue shock  
-(Bergmann)  
-albums: Sexual Roulette + Design Flaw  
-  
+---
+track: 9
+album: design flaw
+other_albums: sexual roulette
+title: more blue shock
+lyrics: 
+music: 
+---
 Is it really true?  
 You're not coming  
 Round here no more  

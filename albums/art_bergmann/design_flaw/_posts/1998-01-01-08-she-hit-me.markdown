@@ -1,7 +1,11 @@
-##she hit me  
-(Bergmann)  
-albums: Sexual Roulette + Design Flaw  
-  
+---
+track: 8
+album: design flaw
+other_albums: sexual roulette
+title: she hit me
+lyrics: 
+music: 
+---
 Janis never gave it  
 Away freely  
 But I knew we'd make it  

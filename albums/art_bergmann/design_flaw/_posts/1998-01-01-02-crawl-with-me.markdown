@@ -1,7 +1,11 @@
-##crawl with me  
-(Bergmann)  
-albums: Crawl With Me + Design Flaw  
-  
+---
+track: 2
+album: design flaw
+other_albums: crawl with me
+title: crawl with me
+lyrics: 
+music: 
+---
 I was lying on the table  
 Prone and oblivious  
 You were staring at me  
