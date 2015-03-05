@@ -1,0 +1,8 @@
+---
+track: 2
+album: automan
+other_albums: no escape
+title: don't tell me
+lyrics: bergmann/jim bescott
+music: bergmann/jim bescott
+---

@@ -1,7 +1,11 @@
-##automan  
-(Bergmann/Jim Bescott)  
-Automan 7&quot; + No Escape compilation  
-  
+---
+track: 1
+album: automan
+other_albums: no escape
+title: automan
+lyrics: bergmann/jim bescott
+music: bergmann/jim bescott
+---
 Don't wanna be left out  
 Thinkin' for myself  
 I wanna be part of it all  
