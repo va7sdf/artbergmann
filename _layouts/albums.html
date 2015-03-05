@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign sorted_lyrics = site.categories[page.slug] | sort: 'track' %}
+{% if site.categories[page.slug] != null %}
+  {% assign sorted_lyrics = site.categories[page.slug] | sort: 'track' %}
+{% endif %}
 
 <div class="album">
 
@@ -11,12 +13,16 @@ layout: default
 
   <div><img src="images/{{page.slug}}.jpg"></div>
 
+{% if site.categories[page.slug] != null %}
   {% include album_track_list.html %}
+{% endif %}
 
   <article class="album-content">
     {{ content }}
   </article>
 
+{% if site.categories[page.slug] != null %}
   {% include album_lyrics.html %}
+{% endif %}
 
 </div>
