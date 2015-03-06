@@ -1,7 +1,11 @@
-##hawaii  
-(Bergmann/Ross Carpenter)  
-Hawaii EP + No Escape compilation  
-  
+---
+track: 1
+album: Hawaii
+other_albums: no escape
+title: hawaii
+lyrics: bergmann/ross carpenter
+music: bergmann/ross carpenter
+---
 Let's go to fuckin' Hawaii  
 Get drunk in the sun  
 I wanna lay on Waikiki  

@@ -1,0 +1,8 @@
+---
+track: 4
+album: Hawaii
+other_albums: no escape
+title: no escape
+lyrics: bergmann/jim bescott/barry taylor
+music: bergmann/jim bescott/barry taylor
+---
