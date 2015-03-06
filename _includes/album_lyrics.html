@@ -5,16 +5,15 @@
 
       {% if post.lyrics and post.music %}
         {% if post.lyrics == post.music %}
-          lyrics/music: {{ post.lyrics }}<br />
+          lyrics/music: {{ post.lyrics }}<br /><br />
         {% else %}
-          lyrics: {{ post.lyrics }}; music: {{ post.music }}<br />
+          lyrics: {{ post.lyrics }}; music: {{ post.music }}<br /><br />
         {% endif %}
       {% elsif post.lyrics and post.music == null %}
-        lyrics: {{ post.lyrics }}<br />
+        lyrics: {{ post.lyrics }}<br /><br />
       {% elsif post.lyrics == null and post.music %}
-        music: {{ post.music }}<br />
+        music: {{ post.music }}<br /><br />
       {% endif %}
-      <br />
       {{ post.content }}
 
     {% else %}
