@@ -1,3 +1,13 @@
 {% for post in sorted_lyrics %}
-    <a href="#{{ post.title | slugify }}">{{ post.title}}</a><br />
+    <a href="#{{ post.title | slugify }}">{{ post.title}}</a>
+    {% if post.lyrics != "" and (post.lyrics == post.music) %}
+      lala({{ post.lyrics }})
+    {% else if post.lyrics != "" and post.music == "" %}
+      ({{ post.lyrics }})
+    {% else if post.lyrics == "" and post.music != "" %}
+      ({{ post.music }})
+    {% else %}
+      (lyrics: {{ post.lyrics }}); music: {{ post.music }})
+    {% endif %}
+    <br />
 {% endfor %}
