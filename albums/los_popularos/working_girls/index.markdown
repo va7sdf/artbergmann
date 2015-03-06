@@ -1,23 +1,23 @@
 ---
-layout: page
-title: Working Girls - Los Popularos
+title: los popularos - working girls
+slug: working_girls
 ---
-<span style="color: #999999">45 rpm single</span><br />
-<span style="color: #ffffff"><br />
-<span style="color: #999999">Side A</span><br />
-Working Girls <span style="color: #999999">(Bergmann, Buck Cherry, Gord Nicholl, Bill Shirt)</span><br />
-<span style="color: #999999">Side B</span> <br />
-Mystery to Myself <span style="color: #999999">(Bergmann, Nicholl, Shirt)</span></span><br />
-<br />
-<span style="color: #999999">Tony Bardach -bass, vocals<br />
-Art Bergmann - guitar, piano, vocals<br />
-Buck Cherry -&nbsp; guitar, vocals<br />
-Zip Pinhead - drums<br />
-Bill Shirt - vocals<br />
-Andy Grafitti -&nbsp; synthesizer on Mystery</span><br />
-<span style="color: #999999"><br />
-Produced by Andy Graffiti</span><br />
-<span style="color: #999999">Engineered by Dave Thomas</span><br />
-<span style="color: #999999">Recorded in March 1981 at Ocean Sound, Vancouver, Canada</span><br />
-<br />
- <span style="color: #999999">(Puerco-Maria, 1983)</span><br />
+45 rpm single  
+  
+Side A  
+Working Girls (Bergmann, Buck Cherry, Gord Nicholl, Bill Shirt)  
+Side B  
+Mystery to Myself (Bergmann, Nicholl, Shirt)  
+  
+Tony Bardach -bass, vocals  
+Art Bergmann - guitar, piano, vocals  
+Buck Cherry -&nbsp; guitar, vocals  
+Zip Pinhead - drums  
+Bill Shirt - vocals  
+Andy Grafitti -&nbsp; synthesizer on Mystery  
+  
+Produced by Andy Graffiti  
+Engineered by Dave Thomas  
+Recorded in March 1981 at Ocean Sound, Vancouver, Canada  
+  
+(Puerco-Maria, 1983)  
