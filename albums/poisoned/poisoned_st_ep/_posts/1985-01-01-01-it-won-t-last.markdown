@@ -1,7 +1,11 @@
-##it won't last  
-(Bergmann/Bill Scherk/Gord Nicholl)  
-album: Vultura Freeway + Poisoned EP  
-  
+---
+track: 1
+album: poisoned ep
+other_albums: vultura freeway
+title: it won't last
+lyrics: bergmann/bill scherk/gord nicholl
+music: bergmann/bill scherk/gord nicholl
+---
 So much to fascinate  
 You find a life-long mate  
 We raise our cubs and pups  

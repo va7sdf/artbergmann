@@ -1,0 +1,8 @@
+---
+track: 3
+album: poisoned ep
+other_albums:
+title: pretty beat
+lyrics: bergmann/ted rich
+music: bergmann/ted rich
+---

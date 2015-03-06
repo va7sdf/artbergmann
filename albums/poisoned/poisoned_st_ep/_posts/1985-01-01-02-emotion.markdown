@@ -1,7 +1,11 @@
-##emotion  
-(Bergmann)  
-album: Vultura Freeway + Poisoned EP  
-  
+---
+track: 2
+album: poisoned ep
+other_albums: vultura freeway
+title: emotion
+lyrics: 
+music: 
+---
 A woman shrieks  
 From the apartment below  
 Is it noisy love  

@@ -1,7 +1,11 @@
-##yeah, I guess  
-(Bergmann)  
-Yeah, I Guess cassette + Poisoned EP  
-  
+---
+track: 4
+album: poisoned ep
+other_albums:
+title: yeah, i guess
+lyrics: 
+music: 
+---
 What will we talk about today  
 Or will we just walk in the rain  
 Why don't we go to your place and wait  
