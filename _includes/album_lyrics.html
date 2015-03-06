@@ -2,7 +2,21 @@
     <h2 id="{{ post.title | slugify }}">{{ post.title}}</h2>
     {% assign post_len = post.content | size %}
     {% if post_len > 1 %}
+
+      {% if post.lyrics and post.music %}
+        {% if post.lyrics == post.music %}
+          lyrics/music: {{ post.lyrics }}<br />
+        {% else %}
+          lyrics: {{ post.lyrics }}; music: {{ post.music }}<br />
+        {% endif %}
+      {% elsif post.lyrics and post.music == null %}
+        lyrics: {{ post.lyrics }}<br />
+      {% elsif post.lyrics == null and post.music %}
+        music: {{ post.music }}<br />
+      {% endif %}
+      <br />
       {{ post.content }}
+
     {% else %}
       No lyrics yet. Any help?
     {% endif %}
