@@ -1,8 +1,8 @@
 ---
-track: 3
-album: automan
-other_albums: no escape
-title: where are you
-lyrics: jim bescott
-music: jim bescott
+track: 6
+album: lost art bergmann
+other_albums:
+title: my empty house
+lyrics:
+music:
 ---

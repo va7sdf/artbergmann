@@ -1,8 +1,8 @@
 ---
-track: 3
-album: automan
-other_albums: no escape
-title: where are you
-lyrics: jim bescott
-music: jim bescott
+track: 8
+album: lost art bergmann
+other_albums:
+title: runaway train
+lyrics: bergmann/gordon nicholl
+music: bergmann/gordon nicholl
 ---
