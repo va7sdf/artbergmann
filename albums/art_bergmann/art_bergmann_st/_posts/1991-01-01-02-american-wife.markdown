@@ -7,8 +7,6 @@ lyrics: bergmann/jamey koch
 music: bergmann/jamey koch
 tags:
 ---
-album: Art Bergmann  
-  
 A million American suits  
 Fly to Eastern Europe  
 They're free now  
