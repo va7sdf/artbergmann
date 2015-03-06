@@ -1,11 +1,11 @@
 ---
 track: 8
 album: art bergmann
-other_albums: 
+other_albums:
 title: i can't change this world
-lyrics: 
+lyrics:
 music: bergmann/susann richter
-tags: 
+tags:
 ---
 January 15, 1991... I feel like gettin' down  
 on my knees and prayin'... I'm walkin'  

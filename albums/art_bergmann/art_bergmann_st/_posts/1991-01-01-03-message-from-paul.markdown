@@ -1,11 +1,11 @@
 ---
 track: 3
 album: art bergmann
-other_albums: 
+other_albums:
 title: message from paul
-lyrics: 
-music: 
-tags: 
+lyrics:
+music:
+tags:
 ---
 I really love your long blonde hair  
 You know I love the way you stare  

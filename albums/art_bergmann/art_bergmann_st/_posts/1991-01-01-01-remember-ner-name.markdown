@@ -3,7 +3,7 @@ track: 1
 album: art bergmann
 other_albums:
 title: remember her name
-lyrics: 
+lyrics:
 music: bergmann/susann richter
 ---
 Her first breath  

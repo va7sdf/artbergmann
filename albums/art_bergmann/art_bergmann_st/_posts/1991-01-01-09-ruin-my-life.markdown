@@ -1,11 +1,11 @@
 ---
 track: 9
 album: art bergmann
-other_albums: 
+other_albums:
 title: ruin my life
-lyrics: 
-music: 
-tags: 
+lyrics:
+music:
+tags:
 ---
 Ruin my life  
 Open my eyes to the broad daylight  

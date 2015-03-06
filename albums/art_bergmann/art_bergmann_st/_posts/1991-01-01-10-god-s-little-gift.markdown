@@ -4,8 +4,8 @@ album: art bergmann
 other_albums: vultura freeway
 title: god's little gift
 lyrics: bergmann/william scherk
-music: 
-tags: 
+music:
+tags:
 ---
 A neurotic old romance  
 Is claiming young men  

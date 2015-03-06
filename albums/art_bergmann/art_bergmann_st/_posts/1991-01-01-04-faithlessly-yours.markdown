@@ -3,9 +3,9 @@ track: 4
 album: art bergmann
 other_albums: design flaw
 title: faithlessly yours
-lyrics: 
-music: 
-tags: 
+lyrics:
+music:
+tags:
 ---
 God's got an answer in that jukebox  
 I pick the wrong song every time  

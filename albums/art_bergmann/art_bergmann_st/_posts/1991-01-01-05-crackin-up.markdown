@@ -1,11 +1,11 @@
 ---
 track: 5
 album: art bergmann
-other_albums: 
+other_albums:
 title: crackin' up
-lyrics: 
-music: 
-tags: 
+lyrics:
+music:
+tags:
 ---
 Who is it up there tonight  
 Is that you in the spotlight  

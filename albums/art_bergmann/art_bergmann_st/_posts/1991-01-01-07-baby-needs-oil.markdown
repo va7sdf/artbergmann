@@ -1,11 +1,11 @@
 ---
 track: 7
 album: art bergmann
-other_albums: 
+other_albums:
 title: baby needs oil
-lyrics: 
+lyrics:
 music: bergmann/ray fulber
-tags: 
+tags:
 ---
 I've uncovered an unearthly delight  
 TV battles in my desert night  

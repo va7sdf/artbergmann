@@ -1,11 +1,11 @@
 ---
 track: 2
 album: art bergmann
-other_albums: 
+other_albums:
 title: american wife
 lyrics: bergmann/jamey koch
-music: 
-tags: 
+music: bergmann/jamey koch
+tags:
 ---
 album: Art Bergmann  
   

@@ -3,9 +3,9 @@ track: 6
 album: art bergmann
 other_albums: design flaw
 title: if she could sing
-lyrics: 
-music: 
-tags: 
+lyrics:
+music:
+tags:
 ---
 If she could sing  
 I wonder what she'd say  
