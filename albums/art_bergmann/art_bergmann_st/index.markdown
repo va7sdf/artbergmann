@@ -1,6 +1,6 @@
 ---
 title: art bergmann - self titled
-slug: self_titled
+slug: art_bergmann_st
 ---
 Art Bergmann: guitars and vocals<br />
 Chris Wardman: guitars<br />

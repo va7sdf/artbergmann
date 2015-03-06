@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Shmorgs - Shmorgs
+title: shmorgs - shmorgs
+slug: shmorgs_st
 ---
 <img src="images/stories/album_covers/album_descriptions/shmorgs-stray.jpg" alt="Shmorgs - Shmorgs" title="Shmorgs - Shmorgs" style="border: 0px solid #000000; width: 389px; height: 388px" width="389" align="bottom" height="388" /><br />
 <br />
