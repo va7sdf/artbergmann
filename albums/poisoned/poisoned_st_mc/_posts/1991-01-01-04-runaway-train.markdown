@@ -1,3 +1,11 @@
+---
+track: 1
+album: poisoned mc
+other_albums:
+title: 
+lyrics: 
+music: 
+---
 ##runaway train  
 (Bergmann/Gordon Nicholl)  
 cassette: Poisoned + album: Crawl With Me  

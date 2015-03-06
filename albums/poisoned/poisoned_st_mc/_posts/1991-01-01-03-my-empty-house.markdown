@@ -1,3 +1,11 @@
+---
+track: 1
+album: poisoned mc
+other_albums:
+title: 
+lyrics: 
+music: 
+---
 ##my empty house  
 (Bergmann)  
 cassette: Poisoned + album: Crawl With Me  

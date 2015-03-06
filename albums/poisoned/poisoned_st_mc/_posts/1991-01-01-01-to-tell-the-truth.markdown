@@ -1,3 +1,11 @@
+---
+track: 1
+album: poisoned mc
+other_albums:
+title: 
+lyrics: 
+music: 
+---
 ##to tell the truth  
 (Bergmann)  
 cassette: Poisoned  
