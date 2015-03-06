@@ -3,8 +3,8 @@ track: 2
 album: Hawaii
 other_albums: no escape
 title: well, well, well
-lyrics: 
-music: 
+lyrics:
+music:
 ---
 Well, well, well  
 I don't have too much to say  
