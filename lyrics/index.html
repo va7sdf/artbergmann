@@ -5,9 +5,8 @@ title: lyrics
 {% assign sorted_lyrics = site.categories['albums'] | sort: 'title' %}
 
 <div class="album">
-
   {% for post in sorted_lyrics %}
-  <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a></h5>
+  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>{% if site.debug %} ALBUM: {{ post.album }}{% if post.other_albums %}; OTHER: {{ post.other_albums }}{% endif %}{% endif %}<br />
   {% endfor %}
 
 </div>
