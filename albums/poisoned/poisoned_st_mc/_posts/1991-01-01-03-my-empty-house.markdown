@@ -1,15 +1,11 @@
 ---
-track: 1
+track: 3
 album: poisoned mc
-other_albums:
-title: 
+other_albums: crawl with me
+title: my empty house
 lyrics: 
 music: 
 ---
-##my empty house  
-(Bergmann)  
-cassette: Poisoned + album: Crawl With Me  
-  
 Won't you come home  
 To my empty house  
 I'm all alone  

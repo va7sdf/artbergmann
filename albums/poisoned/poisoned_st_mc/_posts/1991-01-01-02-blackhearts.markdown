@@ -1,13 +1,8 @@
 ---
-track: 1
+track: 2
 album: poisoned mc
 other_albums:
-title: 
+title: blackhearts
 lyrics: 
 music: 
 ---
-##blackhearts  
-(Bergmann)  
-cassette: Poisoned  
-  
-No lyrics available. Any help?  

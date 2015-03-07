@@ -2,14 +2,10 @@
 track: 1
 album: poisoned mc
 other_albums:
-title: 
+title: to tell the truth
 lyrics: 
 music: 
 ---
-##to tell the truth  
-(Bergmann)  
-cassette: Poisoned  
-  
 It's four o'clock in the morning  
 We're screaming as we stop to a halt on the ice  
 I can't move and I'm looking up  
