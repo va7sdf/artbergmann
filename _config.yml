@@ -8,6 +8,8 @@ url: "http://va7sdf.github.io" # the base hostname & protocol for your site
 twitter_username: va7sdf
 github_username:  va7sdf
 
+debug: true
+
 # Build settings
 markdown: kramdown
 
