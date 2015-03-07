@@ -11,7 +11,12 @@ layout: default
   music: {% if post.music %}{{ post.music }}{% else %}Bergmann{% endif %}
 
   <article class="lyric-content">
-    {{ content }}
+    {% assign post_len = post.content | size %}
+    {% if post_len > 1 %}
+      {{ content }}
+    {% else %}
+      No lyrics yet. Any help?
+    {% endif %}
   </article>
 
 </div>
