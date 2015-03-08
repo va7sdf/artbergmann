@@ -35,5 +35,20 @@ defaults:
       path: "albums"
       type: "pages"
     values:
-      layout: "albums"
+      layout: "album"
+      author: "Dr. Applefritter"
+  -
+    scope:
+      path: "news"
+      type: "posts"
+    values:
+      layout: "article"
+      author: "Dr. Applefritter"
+      permalink: /:categories/:title.html
+  -
+    scope:
+      path: "news"
+      type: "pages"
+    values:
+      layout: "period"
       author: "Dr. Applefritter"
