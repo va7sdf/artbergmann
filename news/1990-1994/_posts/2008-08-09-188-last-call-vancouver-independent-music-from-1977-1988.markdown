@@ -1,11 +1,7 @@
 ---
-layout: post
-title: 'Last Call: Vancouver Independent Music from 1977-1988'
-joomla_id: 188
-joomla_category_id: 36
-joomla_section_id: 4
-joomla_url: 'Last Call: Vancouver Independent Music from 1977-1988'
-date: 2008-08-09 23:54:01.000000000 +00:00
+title: 'last call: vancouver independent music from 1977-1988'
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">allmusic.com / Review by Sean Carruthers<br />
 <br />

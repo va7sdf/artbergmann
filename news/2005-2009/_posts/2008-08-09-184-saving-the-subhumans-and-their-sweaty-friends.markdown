@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Saving the Subhumans and their sweaty friends
-joomla_id: 184
-joomla_category_id: 36
-joomla_section_id: 4
-joomla_url: Saving the Subhumans and their sweaty friends
-date: 2008-08-09 22:14:44.000000000 +00:00
+title: saving the subhumans and their sweaty friends
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">By Tom Hawthorn<br />
 Special to The Globe and Mail<br />

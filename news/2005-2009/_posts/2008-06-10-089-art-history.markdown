@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Art History....
-joomla_id: 89
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: Art History....
-date: 2008-06-10 03:14:42.000000000 +00:00
+title: art history....
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0" class="Apple-style-span">Wednesday, January 16, 2008 / by Dennis Mills<br />
 <br />

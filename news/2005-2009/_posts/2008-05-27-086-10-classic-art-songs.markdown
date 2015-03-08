@@ -1,11 +1,7 @@
 ---
-layout: post
-title: 10 Classic Art Songs
-joomla_id: 86
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: 10 Classic Art Songs
-date: 2008-05-27 21:29:35.000000000 +00:00
+title: 10 classic art songs
+article_author: 
+article_publication: 
 ---
 <span class="Apple-style-span"><span style="font-size: medium" class="Apple-style-span"><span style="font-family: 'book antiqua',palatino" class="Apple-style-span"><span style="color: #c0c0c0" class="Apple-style-span">Calgary Herald / Saturday, August 18, 2007 / by John Mackie<br />
 <br />

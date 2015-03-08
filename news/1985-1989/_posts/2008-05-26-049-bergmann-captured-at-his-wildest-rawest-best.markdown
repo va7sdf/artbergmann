@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Bergmann captured at his wildest, rawest best
-joomla_id: 49
-joomla_category_id: 28
-joomla_section_id: 4
-joomla_url: Bergmann captured at his wildest, rawest best
-date: 2008-05-26 22:20:13.000000000 +00:00
+title: bergmann captured at his wildest, rawest best
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">The Vancouver Sun / Saturday, January 3, 1987 / by John Mackie<br />
 <br />

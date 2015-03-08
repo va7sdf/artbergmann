@@ -1,11 +1,7 @@
 ---
-layout: post
-title: The best album Art Bergmann never made
-joomla_id: 267
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: The best album Art Bergmann never made
-date: 2009-03-27 17:28:32.000000000 +00:00
+title: the best album art bergmann never made
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Vancouver Sun / March 26, 2009 / by John Mackie<br />
 <br />

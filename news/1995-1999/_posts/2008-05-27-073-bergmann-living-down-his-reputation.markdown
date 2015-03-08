@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Bergmann living down his reputation
-joomla_id: 73
-joomla_category_id: 38
-joomla_section_id: 4
-joomla_url: Bergmann living down his reputation
-date: 2008-05-27 21:16:04.000000000 +00:00
+title: bergmann living down his reputation
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua', palatino">The Toronto Star / Thursday, October 15, 1998 / by Ben Rayner<br />
 <br />

@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Songs are presented in all their naked brilliance
-joomla_id: 76
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: Songs are presented in all their naked brilliance
-date: 2008-05-27 21:18:22.000000000 +00:00
+title: songs are presented in all their naked brilliance
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua',palatino">Calgary Herald / Thursday, March 16, 2000 / by James Muretich<br />
 <br />

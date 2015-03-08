@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Art's slow poison
-joomla_id: 91
-joomla_category_id: 28
-joomla_section_id: 4
-joomla_url: Art's slow poison
-date: 2008-06-14 19:25:14.000000000 +00:00
+title: art's slow poison
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">The Ubyssey / September 21, 1984 / by Chris Wong<br />
 <br />

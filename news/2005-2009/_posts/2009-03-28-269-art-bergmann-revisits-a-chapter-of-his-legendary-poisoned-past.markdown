@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Art Bergmann revisits a chapter of his legendary Poisoned past
-joomla_id: 269
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: Art Bergmann revisits a chapter of his legendary Poisoned past
-date: 2009-03-28 22:40:11.000000000 +00:00
+title: art bergmann revisits a chapter of his legendary poisoned past
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Georgia Straight / March 26, 2009 / by Alexander Varty<br />
 <br />

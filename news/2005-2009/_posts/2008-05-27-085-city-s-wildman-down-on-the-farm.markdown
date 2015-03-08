@@ -1,11 +1,7 @@
 ---
-layout: post
-title: City's 'wildman' down on the farm
-joomla_id: 85
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: City's 'wildman' down on the farm
-date: 2008-05-27 21:27:11.000000000 +00:00
+title: city's 'wildman' down on the farm
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua',palatino">Vancouver rock legend Art Bergmann found fighting arthritis in Alberta<br />
 <br />

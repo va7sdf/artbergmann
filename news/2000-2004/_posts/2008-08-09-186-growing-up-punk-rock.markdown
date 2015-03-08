@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Growing Up Punk Rock
-joomla_id: 186
-joomla_category_id: 36
-joomla_section_id: 4
-joomla_url: Growing Up Punk Rock
-date: 2008-08-09 23:14:07.000000000 +00:00
+title: growing up punk rock
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Blank Generations in Vancouver, Ottawa and New York<br />
 exclaim.ca / May 2002 / by Michael Barclay<br />

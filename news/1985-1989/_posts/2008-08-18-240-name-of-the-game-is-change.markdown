@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Name of the game is change
-joomla_id: 240
-joomla_category_id: 28
-joomla_section_id: 4
-joomla_url: Name of the game is change
-date: 2008-08-18 16:05:57.000000000 +00:00
+title: name of the game is change
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Vancouver rocker Art Bergmann ready to take on nation<br />
 <br />

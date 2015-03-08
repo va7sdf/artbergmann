@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Sound and Fury
-joomla_id: 185
-joomla_category_id: 36
-joomla_section_id: 4
-joomla_url: Sound and Fury
-date: 2008-08-09 22:24:00.000000000 +00:00
+title: sound and fury
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Reliving Vancouver&rsquo;s punk explosion<br />
 By Greg Buium / www.cbc.ca/arts/music/soundandfury.html<br />

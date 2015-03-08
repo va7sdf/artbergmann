@@ -1,11 +1,7 @@
 ---
-layout: post
-title: Art Bergmann Plays Air Guitar In My Head
-joomla_id: 270
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: Art Bergmann Plays Air Guitar In My Head
-date: 2009-03-29 19:21:03.000000000 +00:00
+title: art bergmann plays air guitar in my head
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">Saturday, March 28, 2009 / by Alex Waterhouse-Hayward<br />
 <br />

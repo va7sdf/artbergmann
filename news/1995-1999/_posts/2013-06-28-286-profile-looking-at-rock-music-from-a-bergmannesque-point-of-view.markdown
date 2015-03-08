@@ -1,11 +1,7 @@
 ---
-layout: post
-title: 'PROFILE: Looking at rock music from a Bergmannesque point of view'
-joomla_id: 286
-joomla_category_id: 38
-joomla_section_id: 4
-joomla_url: 'PROFILE: Looking at rock music from a Bergmannesque point of view'
-date: 2013-06-28 07:00:22.000000000 +00:00
+title: 'profile: looking at rock music from a bergmannesque point of view'
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">
 Vancouver Sun / Feburary 14, 1995 / Katherine Monk (Sun Pop Music Critic)<br />

@@ -1,11 +1,7 @@
 ---
-layout: post
-title: The Resurrection of a Lost Art
-joomla_id: 266
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: The Resurrection of a Lost Art
-date: 2009-03-27 17:00:43.000000000 +00:00
+title: the resurrection of a lost art
+article_author: 
+article_publication: 
 ---
 <div style="margin: 0px; padding: 0px; background-color: #000000">
 <span class="Apple-style-span"><span style="font-size: 1em; font-family: 'Book Antiqua', Arial, 'Times New Roman', Times, serif; color: #999999">Globe and Mail / February 18, 2009 / by Tom Hawthorn</span><br />

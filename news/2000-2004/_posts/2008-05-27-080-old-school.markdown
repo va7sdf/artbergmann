@@ -1,10 +1,6 @@
 ---
-layout: post
-title: OLD SCHOOL
-joomla_id: 80
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: OLD SCHOOL
-date: 2008-05-27 21:21:34.000000000 +00:00
+title: old school
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua', palatino">The Edmonton Sun / Sunday, June 27, 2004<br />by Fish Griwkowsky<br /><br />WHAT FRESH HELL IS THIS? (1995)<br /><br />Art Bergmann<br /><br />Epic<br /><br />5 out of 5<br /><br />&quot;There are no absolutes to human misery, things can get worse.&quot;<br /><br />Don't I know it, brother. Don't we all. But I suppose they can improve, too. For example, there's a reason that Art Bergmann showed up four times on the big list of Canadian bests. That and a cup of coffee, I suppose. <br /><br />He was and perhaps still is a terribly underrated performer, and this is my favourite album by him. It's a devastating portrait of fear, addiction and hopeless love, full of electric angst and dark, rolling piano. <br /><br />He opens up telling us, &quot;I just wanted to be good like the Beatles in Hollywood,&quot; then gets into a really heartfelt acoustic ballad called Buried Alive, where some cigarette-smoky girl tells him, &quot;my whole life's a crime.&quot; Then, for levity, a couple drugs songs, Guns and Heroin and Some Fresh Hell, an Iggy Pop nightmare rocker propelled by vicious bass and a crazed circus organ. <br /><br />Heavy stuff, but this guy spent enough time in the belly of the beast to earn his position as a loco, bored rock star in Hard Core Logo, a role he as much lived as played. Wherever you are, Art, I hope you're doing fine. If not, don't forget, there are no absolutes to human joy, either.<br /></span></span>

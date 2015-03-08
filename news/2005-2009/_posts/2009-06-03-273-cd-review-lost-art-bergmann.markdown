@@ -1,11 +1,7 @@
 ---
-layout: post
-title: CD review - LOST ART BERGMANN
-joomla_id: 273
-joomla_category_id: 30
-joomla_section_id: 4
-joomla_url: CD review - LOST ART BERGMANN
-date: 2009-06-03 21:54:52.000000000 +00:00
+title: cd review - lost art bergmann
+article_author: 
+article_publication: 
 ---
 <span style="color: #c0c0c0">The Big Takeover / April 25, 2009 / by Michael Toland <br />
 <br />
