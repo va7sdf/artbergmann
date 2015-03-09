@@ -1,10 +1,10 @@
 ---
 track: 11
 album: sexual roulette
-other_albums:
+other_albums:vultura freeway
 title: deathwatch
 lyrics: 
-music: vultura freeway
+music: 
 ---
 It's a new deal  
 With the same deck of cards  
