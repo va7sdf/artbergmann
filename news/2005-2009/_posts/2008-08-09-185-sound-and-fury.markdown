@@ -2,6 +2,7 @@
 title: sound and fury
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Reliving Vancouver&rsquo;s punk explosion<br />
 By Greg Buium / www.cbc.ca/arts/music/soundandfury.html<br />

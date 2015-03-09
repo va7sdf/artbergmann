@@ -2,6 +2,7 @@
 title: bergmann living down his reputation
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua', palatino">The Toronto Star / Thursday, October 15, 1998 / by Ben Rayner<br />
 <br />

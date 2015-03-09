@@ -2,6 +2,7 @@
 title: art bergmann revisits a chapter of his legendary poisoned past
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Georgia Straight / March 26, 2009 / by Alexander Varty<br />
 <br />

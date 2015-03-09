@@ -2,6 +2,7 @@
 title: art's slow poison
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">The Ubyssey / September 21, 1984 / by Chris Wong<br />
 <br />

@@ -2,6 +2,7 @@
 title: saving the subhumans and their sweaty friends
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">By Tom Hawthorn<br />
 Special to The Globe and Mail<br />

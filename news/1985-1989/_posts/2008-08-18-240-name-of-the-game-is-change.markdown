@@ -2,6 +2,7 @@
 title: name of the game is change
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Vancouver rocker Art Bergmann ready to take on nation<br />
 <br />

@@ -2,6 +2,7 @@
 title: vultura freeway review
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Discorder magazine by Spike. (Nov. 2000)<br />
 <br />

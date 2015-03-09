@@ -2,6 +2,7 @@
 title: 'last call: vancouver independent music from 1977-1988'
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">allmusic.com / Review by Sean Carruthers<br />
 <br />

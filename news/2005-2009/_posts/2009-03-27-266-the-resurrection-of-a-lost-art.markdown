@@ -2,6 +2,7 @@
 title: the resurrection of a lost art
 article_author: 
 article_publication: 
+article_date: 
 ---
 <div style="margin: 0px; padding: 0px; background-color: #000000">
 <span class="Apple-style-span"><span style="font-size: 1em; font-family: 'Book Antiqua', Arial, 'Times New Roman', Times, serif; color: #999999">Globe and Mail / February 18, 2009 / by Tom Hawthorn</span><br />

@@ -2,6 +2,7 @@
 title: city's 'wildman' down on the farm
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua',palatino">Vancouver rock legend Art Bergmann found fighting arthritis in Alberta<br />
 <br />

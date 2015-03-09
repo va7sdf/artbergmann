@@ -2,6 +2,7 @@
 title: 10 classic art songs
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span class="Apple-style-span"><span style="font-size: medium" class="Apple-style-span"><span style="font-family: 'book antiqua',palatino" class="Apple-style-span"><span style="color: #c0c0c0" class="Apple-style-span">Calgary Herald / Saturday, August 18, 2007 / by John Mackie<br />
 <br />

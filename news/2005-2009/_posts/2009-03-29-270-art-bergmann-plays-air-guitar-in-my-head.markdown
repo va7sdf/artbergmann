@@ -2,6 +2,7 @@
 title: art bergmann plays air guitar in my head
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Saturday, March 28, 2009 / by Alex Waterhouse-Hayward<br />
 <br />

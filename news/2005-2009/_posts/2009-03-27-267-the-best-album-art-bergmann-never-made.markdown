@@ -2,6 +2,7 @@
 title: the best album art bergmann never made
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">Vancouver Sun / March 26, 2009 / by John Mackie<br />
 <br />

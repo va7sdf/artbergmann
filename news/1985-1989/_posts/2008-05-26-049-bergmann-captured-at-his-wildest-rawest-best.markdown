@@ -2,6 +2,7 @@
 title: bergmann captured at his wildest, rawest best
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0">The Vancouver Sun / Saturday, January 3, 1987 / by John Mackie<br />
 <br />

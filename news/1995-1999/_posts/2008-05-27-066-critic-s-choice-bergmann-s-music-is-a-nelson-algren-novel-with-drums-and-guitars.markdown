@@ -2,6 +2,7 @@
 title: 'critic''s choice: bergmann''s music is a nelson algren novel with drums and guitars'
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua',palatino">Vancouver Sun / Saturday, November 25, 1995 / by John Armstrong<br />
 <br />

@@ -2,6 +2,7 @@
 title: songs are presented in all their naked brilliance
 article_author: 
 article_publication: 
+article_date: 
 ---
 <span style="color: #c0c0c0"><span style="font-family: 'book antiqua',palatino">Calgary Herald / Thursday, March 16, 2000 / by James Muretich<br />
 <br />
