@@ -6,9 +6,9 @@
       {% else %}
         *(lyrics: {{ post.lyrics }}; music: {{ post.music }})
       {% endif %}
-    {% elsif post.lyrics and post.music == null %}
+    {% elsif post.lyrics and !post.music %}
       *(lyrics: {{ post.lyrics }})
-    {% elsif post.lyrics == null and post.music %}
+    {% elsif !post.lyrics and post.music %}
       *(music: {{ post.music }})
     {% endif %}
     <br />

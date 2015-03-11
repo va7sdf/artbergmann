@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% if site.categories[page.slug] != null %}
+{% if !site.categories[page.slug] %}
   {% assign sorted_lyrics = site.categories[page.slug] | sort: 'track' %}
 {% endif %}
 
@@ -13,7 +13,7 @@ layout: default
 
   <div><img src="images/{{page.slug}}.jpg"></div>
 
-{% if site.categories[page.slug] != null %}
+{% if !site.categories[page.slug] %}
   {% include album_track_list.html %}
 {% endif %}
 
@@ -21,7 +21,7 @@ layout: default
     {{ content }}
   </article>
 
-{% if site.categories[page.slug] != null %}
+{% if !site.categories[page.slug] %}
   {% include album_lyrics.html %}
 {% endif %}
 
