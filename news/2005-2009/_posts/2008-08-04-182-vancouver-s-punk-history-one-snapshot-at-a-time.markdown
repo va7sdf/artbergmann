@@ -1,5 +1,5 @@
 ---
-title: bev davies: vancouver's punk history, one snapshot at a time
+title: "bev davies: vancouver's punk history, one snapshot at a time"
 article_author: Ferdy Belland
 article_publication: the nerve magazine
 article_date: april 2007
