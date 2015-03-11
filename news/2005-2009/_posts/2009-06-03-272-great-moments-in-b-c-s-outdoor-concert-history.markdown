@@ -1,17 +1,10 @@
 ---
-layout: post
-title: !binary |-
-  R3JlYXQgbW9tZW50cyBpbiBCLkMu4oCZcyBvdXRkb29yIGNvbmNlcnQgaGlz
-  dG9yeQ==
-joomla_id: 272
-joomla_category_id: 36
-joomla_section_id: 4
-joomla_url: !binary |-
-  R3JlYXQgbW9tZW50cyBpbiBCLkMu4oCZcyBvdXRkb29yIGNvbmNlcnQgaGlz
-  dG9yeQ==
-date: 2009-06-03 21:52:28.000000000 +00:00
+title: great moments in b.c.'s outdoor concert history; exposed
+article_author: randy shoremay
+article_publication: vancouver sun
+article_date: 
 ---
-<span style="color: #c0c0c0">Vancouver Sun / May 29, 2009 / by Randy Shoremay<br />
+<span style="color: #c0c0c0">/ May 29, 2009 /<br />
 &nbsp;<br />
 The year it rained: The Vancouver Folk Music Festival was drenched by rain in 1989, but boasted possibly the best folk music lineup in the city's history including Pete Seeger, Billy Bragg, Loreena McKennitt, Mae Moore, Roy Forbes, Spirit of the West and dozens more. Seeger, then just 70 years old, wore a garbage bag with holes punched through it for a raincoat. Everyone froze. No one left.<br />
 <br />
