@@ -1,12 +1,67 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Meta Information -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<!-- Icons  -->
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<link rel="apple-touch-icon" href="img/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="img/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="img/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="img/touch-icon-ipad-retina.png">
+	<link rel="apple-touch-startup-image" href="img/splash.320x460.png" media="screen and (min-device-width: 200px) and (max-device-width: 320px) and (orientation:portrait)">
+	<link rel="apple-touch-startup-image" href="img/splash.768x1004.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+	<link rel="apple-touch-startup-image" href="img/splash.1024x748.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+
+	<!-- Social Media: Twitter -->
+	<meta name="twitter:card" content="">
+	<meta name="twitter:site" content="@ArtBergmann">
+	<meta name="twitter:title" content="">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:creator" content="@va7sdf">
+	<meta name="twitter:image" content="">
+
+	<!-- Social Media: Open Graph -->
+	<meta property="og:title" content="" />
+	<meta property="og:type" content="" />
+	<meta property="og:url" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:site_name" content="" />
+	<meta property="og:description" content="" />
+
+	<!-- Site Verification -->
+	<meta name="google-site-verification" content="" />
+
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.7/css/ink-flex.min.css">
+	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.7/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<!-- IE8 CSS -->
+	<!--[if lt IE 9 ]>
+		<link rel="stylesheet" href="http://fastly.ink.sapo.pt/3.1.7/css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<![endif]-->
+
+	<!-- Flexbox -->
+	<script type="text/javascript" src="http://fastly.ink.sapo.pt/3.1.7/js/modernizr.js"></script>
+	<script type="text/javascript">
+		Modernizr.load({
+		  test: Modernizr.flexbox,
+		  nope: 'http://fastly.ink.sapo.pt/3.1.7/css/ink-legacy.min.css'
+		});
+	</script>
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="http://fastly.ink.sapo.pt/3.1.7/js/ink-all.min.js"></script>
 </head>
