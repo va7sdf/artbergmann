@@ -3,10 +3,37 @@ layout: page
 title: lyrics
 ---
 {% assign sorted_lyrics = site.categories['albums'] | sort: 'title' %}
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="xlarge-60 large-60 medium-80 small-auto tiny-auto">
+			<div class="lyrics">
 
-<div class="album">
-  {% for post in sorted_lyrics %}
-  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>{% if site.debug %} ALBUM: {{ post.album }}{% if post.other_albums %}; OTHER: {{ post.other_albums }}{% endif %}{% endif %}<br />
-  {% endfor %}
-
+				<table id="lyricsTable" class="ink-table alternating" data-page-size="10" data-pagination="#lyricsTablePagination">
+				<thead>
+					<tr>
+						<th class="align-left" data-sortable="true">Song</th>
+						<th class="align-left hide-small hide-tiny" data-sortable="true">Album</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for post in sorted_lyrics %}
+					<tr>
+						<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
+						<td class="hide-small hide-tiny">{{ post.album}}</td>
+					</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			<nav class="ink-navigation" id="lyricsTablePagination">
+				<ul class="pagination"></ul>
+			</nav>
+			</div>
+		</div>
+	</div>
 </div>
+<script>
+	Ink.requireModules( ['Ink.Dom.Selector_1','Ink.UI.Table_1'], function( Selector, Table ){
+		var tableElement = Ink.s('#lyricsTable');
+		var tableObj = new Table( tableElement );
+	});
+</script>
