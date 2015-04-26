@@ -16,7 +16,7 @@ title: lyrics
 					</tr>
 				</thead>
 				<tbody>
-					{% for post in sorted_lyrics %}
+					{% for post in site.categories.albums %}
 					<tr>
 						<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
 						<td class="hide-small hide-tiny">{{ post.album}}</td>
