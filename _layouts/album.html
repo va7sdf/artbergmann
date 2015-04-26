@@ -5,22 +5,28 @@ layout: default
   {% assign sorted_lyrics = site.categories[page.slug] | sort: 'track' %}
 {% endif %}
 
-<div class="album">
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="xlarge-60 large-60 medium-80 small-auto tiny-auto">
+			<div class="album">
 
-    <h1 class="album-title">{{ page.title }}</h1>
+				<h1 class="album-title">{{ page.title }}</h1>
 
-  <div><img src="images/{{page.slug}}.jpg"></div>
+				<div><img src="images/cover_front.jpg"></div>
 
-{% if !site.categories[page.slug] %}
-  {% include album_track_list.html %}
-{% endif %}
+				{% if !site.categories[page.slug] %}
+					{% include album_track_list.html %}
+				{% endif %}
 
-  <article class="album-content">
-    {{ content }}
-  </article>
+				<article class="album-content">
+					{{ content }}
+				</article>
 
-{% if !site.categories[page.slug] %}
-  {% include album_lyrics.html %}
-{% endif %}
+				{% if !site.categories[page.slug] %}
+					{% include album_lyrics.html %}
+				{% endif %}
 
+			</div>
+		</div>
+	</div>
 </div>
