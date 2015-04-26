@@ -39,14 +39,14 @@
 	<!-- Site Verification -->
 	<meta name="google-site-verification" content="" />
 
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.7/css/ink-flex.min.css">
 	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.7/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
 
 	<!-- IE8 CSS -->
 	<!--[if lt IE 9 ]>
