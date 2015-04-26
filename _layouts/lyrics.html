@@ -1,22 +1,28 @@
 ---
 layout: default
 ---
-<div class="lyric">
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="xlarge-40 large-40 medium-60 small-auto tiny-auto">
+			<div class="lyric">
 
-  <header class="lyric-header">
-    <h1 class="lyric-title">{{ page.title }}</h1>
-  </header>
+				<h1 class="lyric-title">{{ page.title }}</h1>
 
-  lyrics: {% if post.lyrics %}{{ post.lyrics }}{% else %}Bergmann{% endif %}<br />
-  music: {% if post.music %}{{ post.music }}{% else %}Bergmann{% endif %}
+				<p class="lyric-credits">
+					lyrics: {% if post.lyrics %}{{ post.lyrics }}{% else %}Bergmann{% endif %}<br />
+					music: {% if post.music %}{{ post.music }}{% else %}Bergmann{% endif %}
+				</p>
 
-  <article class="lyric-content">
-    {% assign post_len = post.content | size %}
-    {% if post_len > 1 %}
-      {{ content }}
-    {% else %}
-      No lyrics yet. Any help?
-    {% endif %}
-  </article>
+				<article class="lyric-content">
+					{% assign post_len = content | size %}
+					{% if post_len > 1 %}
+						{{ content }}
+					{% else %}
+						No lyrics yet. Any help?
+					{% endif %}
+				</article>
 
+			</div>
+		</div>
+	</div>
 </div>
