@@ -1,6 +1,6 @@
 ---
 track: 3
-album: Hawaii
+album: hawaii
 other_albums: no escape
 title: hulabaloo girls
 lyrics: Bergmann/Jim Bescott

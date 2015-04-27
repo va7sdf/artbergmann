@@ -1,6 +1,6 @@
 ---
 track: 1
-album: Hawaii
+album: hawaii
 other_albums: no escape
 title: hawaii
 lyrics: bergmann/ross carpenter

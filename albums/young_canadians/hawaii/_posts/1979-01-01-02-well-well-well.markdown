@@ -1,6 +1,6 @@
 ---
 track: 2
-album: Hawaii
+album: hawaii
 other_albums: no escape
 title: well, well, well
 lyrics:
