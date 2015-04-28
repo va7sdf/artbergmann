@@ -7,6 +7,10 @@ body {
 .thumbs {
 	width: 100%;
 }
+#lyricsTable th,
+#lyricsTable td {
+	width: 50%;
+}
 #footer {
 	padding-top: 2em;
 	padding-bottom: 2em;
