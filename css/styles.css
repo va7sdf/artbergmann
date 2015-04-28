@@ -7,6 +7,13 @@ body {
 .thumbs {
 	width: 100%;
 }
+#footer {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background: #1a1a1a;
+	border-bottom: 10px #AF6725 solid;
+	color: #CCC
+}
 .large-25 {
 	width: 25%;
 	float: left;
