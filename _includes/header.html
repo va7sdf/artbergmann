@@ -47,6 +47,11 @@
 					<ul class="submenu">
 						<li>
 							<a href="{{ site.baseurl }}/news/" title="News Articles Archive">News</a>
+							<ul class="submenu flyout right">
+								{% if site.categories['1980-1984'] %}
+									<li><a href="{{ site.baseurl }}/news/1980-1984">1980-1984</a></li>
+								{% endif %}
+							</ul>
 						</li>
 						<li>
 							<a href="{{ site.baseurl }}/concerts/" title="Concerts Archive">Concerts</a>
