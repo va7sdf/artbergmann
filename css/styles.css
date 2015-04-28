@@ -1,6 +1,17 @@
 body {
 	background: url(../img/bg.jpg) repeat;
 }
+.article,.album,.lyric,.period {
+	margin-top: 70px;
+}
+.thumbs {
+	width: 100%;
+}
+.large-25 {
+	width: 25%;
+	float: left;
+	clear: none;
+}
 #banner {
 	background: url(../img/bgimage.jpg) no-repeat center;
 	height: 400px;
