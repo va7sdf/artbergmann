@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<div class="article">
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="xlarge-40 large-60 medium-80 small-auto tiny-auto">
+			<div class="article">
 
-  <header class="article-header">
-    <h1 class="article-title">{{ page.title }}</h1>
-    <p class="article-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+				<h1 class="article-title">{{ page.title }}</h1>
 
-  <article class="article-content">
-    {{ content }}
-  </article>
-
+				<article class="article-content">
+					{{ content }}
+				</article>
+			</div>
+		</div>
+	</div>
 </div>
