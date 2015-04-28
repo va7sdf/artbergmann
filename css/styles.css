@@ -1,6 +1,17 @@
+html, body {
+	height: 100%;
+}
 body {
 	background: url(../img/bg.jpg) repeat;
 }
+.wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -120px;
+	overflow: auto;
+}
+
 .article,.album,.lyric,.period {
 	margin-top: 70px;
 }
@@ -11,12 +22,13 @@ body {
 #lyricsTable td {
 	width: 50%;
 }
-#footer {
-	padding-top: 2em;
-	padding-bottom: 2em;
+.push, footer {
+	height: 120px;
+	margin-top: 0;
+}
+footer {
 	background: #1a1a1a;
 	border-bottom: 10px #AF6725 solid;
-	color: #CCC
 }
 .large-25 {
 	width: 25%;
