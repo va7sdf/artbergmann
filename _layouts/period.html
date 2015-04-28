@@ -9,7 +9,7 @@ layout: default
 				<h1 class="period-title">{{ page.title }}</h1>
 
 				{% if site.categories[page.title] %}
-				{% assign sorted_articles = site.categories[page.title] | sort 'title' %}
+				{% assign sorted_articles = site.categories[page.title] | sort: 'title' %}
 					<article class="period-content">
 						{% for post in sorted_articles %}
 							<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a><br />
