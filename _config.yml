@@ -28,7 +28,6 @@ defaults:
       type: "posts"
     values:
       layout: "lyrics"
-      author: "Dr. Applefritter"
       permalink: /:categories/:title.html
   -
     scope:
@@ -36,14 +35,12 @@ defaults:
       type: "pages"
     values:
       layout: "album"
-      author: "Dr. Applefritter"
   -
     scope:
       path: "news"
       type: "posts"
     values:
       layout: "article"
-      author: "Dr. Applefritter"
       permalink: /:categories/:title.html
   -
     scope:
@@ -51,4 +48,3 @@ defaults:
       type: "pages"
     values:
       layout: "period"
-      author: "Dr. Applefritter"
