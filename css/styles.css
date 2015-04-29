@@ -8,7 +8,7 @@ body {
 	min-height: 100%;
 	height: auto !important;
 	height: 100%;
-	margin: 0 auto -120px;
+	margin: 0 auto -184px;
 	overflow: auto;
 }
 
@@ -23,7 +23,7 @@ body {
 	width: 50%;
 }
 .push, footer {
-	height: 120px;
+	height: 184px;
 	margin-top: 0;
 }
 footer {
