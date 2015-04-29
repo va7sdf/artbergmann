@@ -1,9 +1,6 @@
 html, body {
 	height: 100%;
 }
-body {
-	background: url(../img/bg.jpg) repeat;
-}
 .wrap {
 	min-height: 100%;
 	height: auto !important;
