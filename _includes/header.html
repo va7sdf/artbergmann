@@ -11,63 +11,87 @@
 <div class="wrap">
 <header>
 	<div id="topbar">
-		<nav class="ink-navigation ink-grid ie7">
-			<ul class="menu horizontal black push-left medium-push-center small-push-center tiny-push-center">
-				<li class="hide-all show-tiny show-small show-medium"><button class="fa fa-bars left-drawer-trigger"></button></li>
-				<li class="logoPlaceholder"><a class="logoPlaceholder" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
-			</ul>
-			<ul class="menu horizontal black push-right hide-small hide-tiny hide-medium">
-				<!--<li>
-					<a href="{{ site.baseurl }}/#" title="Tour">Tour</a>
-				</li>-->
-				<li>
-					<a href="#" title="Album">Album</a>
-					<ul class="submenu">
-						<li>
-							<a href="{{ site.baseurl }}/albums/" title="Album Catalog">Catalog</a>
-						</li>
-						<li>
-							<a href="{{ site.baseurl }}/lyrics/" title="Album Lyrics">Lyrics</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-				<li>
-					<a href="#" title="Gallery">Gallery</a>
-					<ul class="submenu">
-						<li>
-							<a href="{{ site.baseurl }}/images/" title="Image Gallery">Image</a>
-						</li>
-						<li>
-							<a href="{{ site.baseurl }}/videos/" title="Video Gallery">Video</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-					<a href="#" title="Archive">Archive</a>
-					<ul class="submenu">
-						<li>
-							<a href="{{ site.baseurl }}/news/" title="News Articles Archive">News</a>
-							<ul class="submenu flyout right">
-								{% assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020" | split: "|" %}
-								{% for item in items %}
-									{% if site.categories[item] %}
-										<li><a href="{{ site.baseurl }}/news/{{ item }}">{{ item }}</a></li>
-									{% endif %}
-								{% endfor %}
-							</ul>
-						</li>
-						<li>
-							<a href="{{ site.baseurl }}/concerts/" title="Concerts Archive">Concerts</a>
-						</li>
-					</ul>
-				</li>
-				<li>
-				<li>
-					<a href="#" title="Contacts">Contacts</a>
-				</li>
-			</ul>
-		</nav>
+		<div class="ink-grid">
+			<div class="column-group">
+				<div class="xlarge-30 large-30 medium-50 hide-small hide-tiny">
+					<a class="push-left" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo_lg.png"></a>
+				</div>
+
+				<div class="hide-xlarge hide-large hide-medium small-50 tiny-50">
+					<a class="push-left" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo_sm.png"></a>
+				</div>
+
+				<div class="xlarge-70 large-70 hide-medium hide-small hide-tiny">
+					<nav class="ink-navigation">
+						<ul class="menu horizontal flat black push-right rounded">
+							<!--<li>
+								<a href="{{ site.baseurl }}/#" title="Tour">Tour</a>
+							</li>-->
+							<li>
+								<a href="#" title="Album">Album</a>
+								<ul class="submenu">
+									<li>
+										<a href="{{ site.baseurl }}/albums/" title="Album Catalog">Catalog</a>
+									</li>
+									<li>
+										<a href="{{ site.baseurl }}/lyrics/" title="Album Lyrics">Lyrics</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+							<li>
+								<a href="#" title="Gallery">Gallery</a>
+								<ul class="submenu">
+									<li>
+										<a href="{{ site.baseurl }}/images/" title="Image Gallery">Image</a>
+									</li>
+									<li>
+										<a href="{{ site.baseurl }}/videos/" title="Video Gallery">Video</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="#" title="Archive">Archive</a>
+								<ul class="submenu">
+									<li>
+										<a href="{{ site.baseurl }}/news/" title="News Articles Archive">News</a>
+										<ul class="submenu flyout right">
+											{% assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020" | split: "|" %}
+											{% for item in items %}
+												{% if site.categories[item] %}
+													<li><a href="{{ site.baseurl }}/news/{{ item }}">{{ item }}</a></li>
+												{% endif %}
+											{% endfor %}
+										</ul>
+									</li>
+									<li>
+										<a href="{{ site.baseurl }}/concerts/" title="Concerts Archive">Concerts</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+							<li>
+								<a href="#" title="Contacts">Contacts</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+				<div class="hide-xlarge hide-large medium-50 small-50 tiny-50">
+					<nav class="ink-navigation">
+						<ul class="menu horizontal flat black push-right mobile rounded">
+							<li>
+								<a href="#" class="left-drawer-trigger"><span class="hide-small">MENU</span></a>
+							</li>
+							<li>
+							<li>
+								<button class="fa fa-bars left-drawer-trigger"></button>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
 	</div>
 </header>
 <div class="left-drawer">
