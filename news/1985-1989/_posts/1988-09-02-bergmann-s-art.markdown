@@ -1,11 +1,9 @@
 ---
 title: bergmann's art
-article_author:
-article_publication:
-article_date:
+article_author: craig macinnis
+article_publication: the toronto star
+article_date: september 2, 1988
 ---
-The Toronto Star / Friday, September 2, 1988 / by Craig MacInnis  
-  
 "I'm in Regina," reports Art Bergmann. "The town Canada forgot.  
   
 "I don't know. I think it's the murder capital of Western Canada. There's something deeply ingrained that's wrong here . . ."  

@@ -1,12 +1,10 @@
 ---
 title: name of the game is change
-article_author:
-article_publication:
-article_date:
+article_author: stephen godfrey
+article_publication: the globe and mail
+article_date: july 9, 1987
 ---
-Vancouver rocker Art Bergmann ready to take on nation  
-  
-The Globe and Mail / July 9, 1987 / by Stephen Godfrey  
+####vancouver rocker art bergmann ready to take on nation  
   
 ART BERGMANN has what it takes to hit it big. On that, the local press is in rare agreement.  
   

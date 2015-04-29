@@ -1,11 +1,9 @@
 ---
 title: 'demon rock: the dark visions of art bergmann'
-article_author:
-article_publication:
-article_date:
+article_author: john mackie
+article_publication: the vancouver sun
+article_date: july 9, 1988
 ---
-The Vancouver Sun / Saturday, July 9, 1988 / by John Mackie  
-  
 'CHECKING OUT the limits of human behavior is a pretty dangerous game," says Art Bergmann. "Flirting with insanity, flirting with dangerous, slimy people just for something to write about . . . I sometimes feel like I'm using people, using people's deaths for a song."  
   
 Welcome to the twisted world of Art Bergmann, chronicler of life at the bottom of the social scale. Murder, suicide, incest, junkies - no subject is taboo for the 34-year-old king of Vancouver's musical underground. The darkness of his lyrics is matched by his music, driving, passionate, savage rock and roll that explodes through his raw, gut-wrenching vocals and fiery, piercing guitar playing. "It's as if he claws at the guitar when he plays it," says producer John Cale, who has just helped Bergmann to his first big record contract.  

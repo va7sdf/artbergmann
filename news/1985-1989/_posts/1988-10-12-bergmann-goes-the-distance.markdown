@@ -1,11 +1,9 @@
 ---
 title: bergmann goes the distance
-article_author:
-article_publication:
-article_date:
+article_author: giles gysel
+article_publication: the ubyssey
+article_date: october 12, 1988
 ---
-The Ubyssey / October 12, 1988 / by Giles Gysel  
-  
 Art Bergmann has been a major force on the local underground rock scene for some years now; from his early days with punk legends "The Young Canadians" to his band Poisoned (the name was dropped to avoid confusion with the glam-rock dipshit band Poison) and his solo career, the Berg-man has graced Vancouver with his menacing presence for almost a decade. Along the way, he has accumulated a dedicated following, becoming somewhat of a local hero.  
   
 Sooo&hellip;after ten years of marching to his own drummer, Art Bergmann has gone big time. Backed by local rock impressario Sam Feldman, theBerg scored himself a major recording contract with Toronto's Duke Street Records, and suddenly his album "Crawl With Me' is elbowing for space with Whitney Houston and Guns n' Roses in K-marts across the nation.  

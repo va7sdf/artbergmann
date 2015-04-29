@@ -1,11 +1,9 @@
 ---
 title: art's slow poison
-article_author:
-article_publication:
-article_date:
+article_author: chris wong
+article_publication: the ubyssey
+article_date: september 21, 1984
 ---
-The Ubyssey / September 21, 1984 / by Chris Wong  
-  
 The year is 1980, the place is a high school auditorium in filthy rich Kerrisdale, and the occasion is a noon-hour concert by the local punk band, the K-Tels.  
   
 Your faithful scribe is on his first assignment for the Magee Messenger, the school rag. As I enter the auditorium filled with miniature Nelson Skalbanias and their female counter-parts, my brow sweats at the thought of interviewing three punk rockers who named themselves after a company that sells both bad records and "truly amazing, one-of-a-kind" home appliances.  

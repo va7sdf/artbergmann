@@ -1,11 +1,9 @@
 ---
 title: juno nominees ottawa-bound
-article_author:
-article_publication:
-article_date:
+article_author: greg barr
+article_publication: the ottawa citizen
+article_date: march 10, 1989
 ---
-The Ottawa Citizen / Friday, March 10, 1989 / by Greg Barr  
-  
 Moving into the mainstream music business meant something new for Vancouver rock singer Art Bergmann: minding his manners.  
   
 Bergmann's debut album, Crawl With Me, came crawling out of the gates last fall, ultimately selling about 20,000 copies. He explored the sleazy, closed-door goings on of modern suburban life, notably in the song Our Little Secret, a song about a sexually abused woman, nominated for best video at Sunday's Juno Awards.  

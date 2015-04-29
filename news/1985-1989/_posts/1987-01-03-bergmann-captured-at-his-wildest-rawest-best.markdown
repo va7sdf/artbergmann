@@ -1,11 +1,9 @@
 ---
 title: bergmann captured at his wildest, rawest best
-article_author:
-article_publication:
-article_date:
+article_author: John Mackie
+article_publication: The Vancouver Sun
+article_date: January 3, 1987
 ---
-The Vancouver Sun / Saturday, January 3, 1987 / by John Mackie  
-  
 POISONED: Poisoned Tape (Poisoned).  
   
 Whoa. Art Bergmann and Co. have released a limited-edition (500 copies) four-song tape, and it is amazing. With crystal clear production courtesy of Bob Rock and Paul Hyde of Payola$, Bergmann is captured at his raw best, screaming his head off whilst spraying a burning wall of power chords and savage solos from his guitar.  

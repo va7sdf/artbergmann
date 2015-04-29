@@ -1,11 +1,9 @@
 ---
 title: art bergmann's funny juno joke
-article_author:
-article_publication:
-article_date:
+article_author: craig macinnis
+article_publication: the toronto star
+article_date: march 10, 1989
 ---
-The Toronto Star / Friday, March 10, 1989 / by Craig MacInnis  
-  
 In case you're wondering, Art Bergmann hasn't bothered to prepare an acceptance speech.  
   
 The Vancouver punk veteran, who performs at Lee's Palace Monday and Tuesday, is nominated for a Juno as Most Promising Male Vocalist (and another for his video to "Our Little Secret").  

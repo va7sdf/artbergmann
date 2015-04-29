@@ -1,11 +1,9 @@
 ---
 title: el dub & the art
-article_author:
-article_publication:
-article_date:
+article_author: les wiseman
+article_publication: vancouver magazine
+article_date: april 1980
 ---
-Vancouver Magazine, April 1980, by Les Wiseman  
-  
 Art Bergmann, 27, is probably this town's best bet for a rock star idol. His sense of presence is amazing as he belts out Hawaii, Vancouver's latest teenage anthem (successor to D.O.A.'s Disco Sucks). "Let's go to fuckin' Hawaii, get drunk on the beach." He looks myopically mole-like, and his greenish blonde hair adds to a sort of moldy, just-woke-up-and-do-I-feel-wasted image. Bergmann, Jim Bescott on bass and vocals and Barry Taylor, drums, are the Young Canadians, the hottest band in town, apparent heirs to the Pointed Sticks' former position of being the next obvious success.  
   
 The Young Canadians began as the K-Tels when they played O'Haras' St. Valentine's Day Masacre in February, 1979. The crowd started getting crazy and violent, and since then the band has been known for extreme audience reaction and participation.  
