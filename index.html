@@ -10,21 +10,39 @@ layout: default
 		</div>
 	</div>
 </section>
-<div class="ink-grid">
-	<div class="column-group">
-		<div class="all-100">
-			<h1>Latest News</h1>
-
-			<ul>
-			{% for post in site.posts %}
-				<li>
-					<span>{{ post.date | date: "%b %-d, %Y" }}</span>
-					<h2>
-						<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-					</h2>
-				</li>
-			{% endfor %}
-			</ul>
+<section id="latest" class="vertical-padding">
+	<div class="ink-grid">
+		<div class="column-group push-center">
+			<div class="all-70 small-100 medium-100">
+				<h2>Current News</h2>
+				<h5><a href="#">Link Example</a></h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5><a href="#">Link Example</a></h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5><a href="#">Link Example</a></h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5><a href="#">Link Example</a></h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5><a href="#">Link Example</a></h5>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+			</div>
+			<div class="all-30 small-100 medium-100">
+				<h2>Twitter</h2>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+				<h5 class="small"><a href="#">Tweet Title</a></h5>
+				<p class="small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet malesuada orci.</p>
+			</div>
 		</div>
 	</div>
-</div>
+<section>

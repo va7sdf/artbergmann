@@ -1,6 +1,6 @@
 html, body {
-	background-color: white;
 	height: 100%;
+	background-color: #fdefc5;
 }
 .wrap {
 	min-height: 100%;
@@ -29,6 +29,8 @@ footer {
 	background: url(../img/bgimage.jpg) no-repeat center;
 	height: 400px;
 	margin-top: 45px;
+}
+#latest{
 }
 #topbar {
 	position: fixed;
