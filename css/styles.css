@@ -63,6 +63,11 @@ footer {
 #topbar .ink-navigation ul.black li a:hover {
 	color: #F5B716;
 }
+#topbar .ink-navigation ul.black li button.fa-bars span.label {
+	padding: .7em .3em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
 #topbar .ink-navigation ul.black li button.fa-bars {
 	background: 0 0;
 	font-size: 1.5em;
