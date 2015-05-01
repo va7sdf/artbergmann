@@ -2,6 +2,9 @@ html, body {
 	height: 100%;
 	background-color: #fdefc5;
 }
+.cover-thumbs {
+	width: 100%;
+}
 .wrap {
 	min-height: 100%;
 	height: auto !important;
@@ -25,8 +28,6 @@ footer {
 	border-bottom: 10px #AF6725 solid;
 }
 #banner {
-	background: url(../img/bgimage.jpg) no-repeat center;
-	height: 400px;
 	margin-top: 45px;
 }
 #topbar {
