@@ -1,11 +1,9 @@
 ---
 title: great! bergmann gets down in the gutter again
-article_author:
-article_publication:
-article_date:
+article_author: john mackie
+article_publication: the vancouver sun
+article_date: april 14, 1990
 ---
-The Vancouver Sun / Saturday, April 14, 1990 / by John Mackie  
-  
 ART BERGMANN  
   
 Sexual Roulette (Duke Street)  

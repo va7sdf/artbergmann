@@ -1,12 +1,10 @@
 ---
 title: juno whoop-up
-article_author:
-article_publication:
-article_date:
+article_author: john mackie
+article_publication: the vancouver sun
+article_date: march 7, 1991
 ---
-In which our irrepressible and undeniably hip music scribe JOHN MACKIE schmoozes with the movers, shakers and just plain heavy drinkers at the post-Juno hi-jinks  
-  
-The Vancouver Sun / Thursday, March 7, 1991 / by John Mackie  
+_In which our irrepressible and undeniably hip music scribe JOHN MACKIE schmoozes with the movers, shakers and just plain heavy drinkers at the post-Juno hi-jinks_  
   
 So, like, Sherri Decembrini of Nite Moves was telling me how Leonard Cohen (thunk!, the sound of a name dropping) reminded her of Art Bergmann (thunk!) and could I maybe introduce him to her?  
   

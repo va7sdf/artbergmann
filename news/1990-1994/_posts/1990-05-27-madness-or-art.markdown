@@ -1,11 +1,9 @@
 ---
 title: madness or art?
-article_author:
-article_publication:
-article_date:
+article_author: alison mayes
+article_publication: the calgary herald
+article_date: may 17, 1990
 ---
-The Calgary Herald / Thursday, May 17, 1990 / by Alison Mayes  
-  
 If a sex-and-violence record labeling system ever comes into force in Canada, they might as well slap a warning sticker right over Art Bergmann's mouth.  
   
 While other songwriters cruise life's well-lit avenues for inspiration, Bergmann lurches through its alleyways and sniffs around in its gutters.  

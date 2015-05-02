@@ -1,11 +1,9 @@
 ---
 title: bergmann getting back to his gigging
-article_author:
-article_publication:
-article_date:
+article_author: Jennie Punter
+article_publication: The Toronto Star
+article_date: October 14, 1993
 ---
-The Toronto Star / Thursday, October 14, 1993 / by Jennie Punter  
-  
 Besides splintering into countless subgenres and then evolving into something palatable to the masses, the punk rock movement kick-started a bunch of great literate songwriters at the dawn of the '80s.  
   
 In Canada, Vancouver's Art Bergmann is often hailed as our "punk" legend, although the noises he makes are far too eclectic to slap on such a simple label.  

@@ -1,11 +1,9 @@
 ---
 title: so you want to be a rock star
-article_author:
-article_publication:
-article_date:
+article_author: greg potter
+article_publication: montreal gazette
+article_date: august 29, 1993
 ---
-Montreal Gazette / Sunday, August 29, 1993 / by Greg Potter  
-  
 VANCOUVER - Countless books, articles, audio tapes and videos have been produced with the good intention of providing self- help for aspiring rock gods.  
   
 This is yet another - and it won't help you, either.  

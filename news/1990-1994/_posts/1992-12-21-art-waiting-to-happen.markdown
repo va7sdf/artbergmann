@@ -1,21 +1,19 @@
 ---
 title: art waiting to happen
-article_author:
-article_publication:
-article_date:
+article_author: john armstrong (aka buck cherry)
+article_publication: step magazine
+article_date: winter 92/93
 ---
-Step Magazine, Winter 92/93, by John Armstrong (aka Buck Cherry)  
-  
-I will be clean as  
+<em>I will be clean as  
 Christ on the cross,  
 I've been so dirty,  
 I will be as clean as  
 Christ on your wall,  
 Restitution for everyone  
 Who died along the way,  
-Having fun  
+Having fun</em>  
   
-"Dirge No. 1" from Sexual Roulette  
+<em>"Dirge No. 1" from Sexual Roulette</em>  
   
 It's close to 2 a.m. on a Sunday morning. I climb two flights of stairs off Seymour Street to mirrored walls and faded velour couches the colour of nausea. Art Bergmann is playing to some 200 people &ndash; if you count girlfriends, members of the back-up band, the bar staff, and several people who seem to have caught the whiff of Extra Old Stock and rum and coke as far away as Pender.  
   
@@ -27,7 +25,7 @@ Vancouver's seen more than several Next Big Things come and go in the last decad
   
 He absently smacks the heel of his Stratocaster, sending the frets skating across his mikestand &ndash; the most primitive form of slide guitar possible. The howl in his throat becomes a shriek, meeting the whining feedback from his amp in some psychotic duet. Then he mumbles something &ndash; a threat, request for a drink, an admonition to drive safely; who knows? But the lyrics of that last song are uncomfortably appropriate:  
   
-They call me the performer,  
+<em>They call me the performer,  
 I guess they always will,  
 They call me the entertainer,  
 I ain't over the hill  
@@ -38,9 +36,9 @@ I'm making a financial start,
 I'm a never-was,  
 Trying to be a has-been,  
 A has-been on a comeback trail,  
-Bound for Vegas  
+Bound for Vegas</em>  
   
-"Bound For Vegas" from Sexual Roulette  
+<em>"Bound For Vegas" from Sexual Roulette</em>  
   
 Master singer/songwriter/guitar player, junkie, madman, reprobate, degenerate, perennial nominee at the West Coast Music Awards, the CASBY's, and Junos, who, if half the stories are true, should carry a Ministry of Health warning like a human pack of Rothman's King Size - at 39, currently holding his wife Sherri with one drenched arm and mopping his sodden hair with a bar towel - wonders when is this perpetual Star-In-Waiting ever going to happen?  
   
@@ -162,14 +160,14 @@ For one, Sherri has a 12 year-old rebelling against authority, and a 39 year-old
   
 "She'll say something really outrageous to get a reaction and Art will tell her something he did that's ten times worse and say, 'And I had blue hair then.'"  
   
-I like to travel,  
+<em>I like to travel,  
 I like the food I meet  
 I like the people I eat  
 Travel  
 A trip out of town  
-Or a nervous breakdown.  
+Or a nervous breakdown.</em>  
   
-"Gambol" from Sexual Roulette  
+<em>"Gambol" from Sexual Roulette</em>  
   
 On the Big, Bad, and Groovy Canadian tour this September, maybe-the-best-songwriter in Canada found himself not only without a label, but without a band. Performing with only a guitar, he was on his own. Literally.  
   

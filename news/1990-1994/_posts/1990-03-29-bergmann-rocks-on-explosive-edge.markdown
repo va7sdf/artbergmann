@@ -1,11 +1,9 @@
 ---
 title: bergmann rocks on explosive edge
-article_author:
-article_publication:
-article_date:
+article_author: chris dafoe
+article_publication: the toronto star
+article_date: march 29, 1990
 ---
-The Toronto Star / Thursday, March 29, 1990 / by Chris Dafoe  
-  
 In the notes to his anthology album, Decade, Neil Young wrote: "This song put me in the middle-of-the-road, so I steered off into the ditch. The ride is a little rougher, but you meet more interesting people there."  
   
 Vancouver's Art Bergmann might offer the same observation. Over the past dozen years, Bergmann has made his mark writing songs populated by the denizens of the ditch: junkies, hustlers, strippers and would-be rock stars, the sick, desperate, strange and crazy.  

@@ -1,11 +1,9 @@
 ---
 title: bergmann wildman
-article_author:
-article_publication:
-article_date:
+article_author: John Mackie
+article_publication: The Vancouver Sun
+article_date: May 24, 1990
 ---
-The Vancouver Sun / Thursday, May 24, 1990 / by John Mackie  
-  
 "Schmoozing" is music industry-speak for pressing the flesh at industry gatherings, adding that personal touch to the hype surrounding your new album, tour, or career. Even the king of Vancouver's musical underground, Art Bergmann, went back to Toronto this year to schmooze it up and promote his new album, Sexual Roulette.  
   
 But Art will be Art, and by the time the dust settled, the 36-year-old rocker found himself at the centre of post-Juno gossip. At a Blue Rodeo showcase, he leapt up on stage, screamed "one fucking chord!" and led the band through a "spontaneous" rap song before falling over. After he left the stage, he tried to show his appreciation by throwing a flower to the band. Problem was, he tried to yank one out of a plastic flower arrangement, and wound up splattering the flowers and the planter in which they sat all over the place.  

@@ -1,11 +1,9 @@
 ---
 title: long time coming, but bergmann signs with polygram
-article_author:
-article_publication:
-article_date:
+article_author: greg potter
+article_publication: the vancouver sun
+article_date: june 8, 1991
 ---
-The Vancouver Sun / Saturday, June 8, 1991 / by Greg Potter  
-  
 IT'S BEEN a long time comin', but local singer/songwriter/guitarist and all 'round swell guy Art Bergmann has finally tied the knot with a major label, the blushing corporate bride being Polygram.  
   
 Negotiations in Toronto "went pretty quick" last week, says Bergmann, who notes that manager Sam Feldman "did all the talkin'. I didn't have to do a thing."  

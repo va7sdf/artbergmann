@@ -1,11 +1,9 @@
 ---
 title: boys in the bando
-article_author:
-article_publication:
-article_date:
+article_author: malcolm parry
+article_publication: the vancouver sun
+article_date: january 9, 1993
 ---
-Vancouver Sun / Saturday, January 9, 1993 / by Malcolm Parry  
-  
 LONG ECHOES . . . "It's nice to be working on something that doesn't involve naked women for a change," said Jorge Alejandro "Alex" Waterhouse-Hayward whose exhibition of nearly-made-it rocker Art Bergmann opens at the 56 Gallery, 156 West Hastings, Jan. 15.  
   
 The nudes are by way of a disciplined hobby. In the working world, corporate and celebrity photographer Waterhouse-Hayward handles annual reports, glossy-magazine editorials and the likes of a fully clad Premier Mike Harcourt (the official portrait). On Tuesday he will shoot B.C. Gas head Bob Kedlac.  

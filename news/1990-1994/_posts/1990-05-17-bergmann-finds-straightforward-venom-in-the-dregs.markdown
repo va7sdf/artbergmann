@@ -1,11 +1,9 @@
 ---
 title: bergmann finds straightforward venom in the dregs
-article_author:
-article_publication:
-article_date:
+article_author: mark lepage
+article_publication: montreal gazette
+article_date: april 28, 1990
 ---
-The Gazette (Montreal) / Saturday, April 28, 1990 / by Mark Lepage  
-  
 ART BERGMANN  
   
 Sexual Roulette  

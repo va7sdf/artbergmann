@@ -1,11 +1,9 @@
 ---
 title: pumping life into corpse of rock 'n' roll
-article_author:
-article_publication:
-article_date:
+article_author: Greg Barr
+article_publication: The Ottawa Citizen
+article_date: March 30, 1990
 ---
-The Ottawa Citizen / Friday, March 30, 1990 / by Greg Barr  
-  
 Art Bergmann isn't sure why he scares people.  
   
 "Actually, I'm the biggest suckhole in the world," a rather sleepy Bergmann confessed into the phone this week. "I just write about subjects that everyone thinks or talks about, but some people just don't want to hear it."  
