@@ -1,11 +1,9 @@
 ---
 title: 'twenty years in the underground: vancouver''s proto-punk art bergmann finally gets to halifax'
-article_author:
-article_publication:
-article_date:
+article_author: andy pedersen
+article_publication: the halifax daily news
+article_date: april 4, 1997
 ---
-The Halifax Daily News / Friday, April 4, 1997 / by Andy Pedersen  
-  
 Even a Juno Award couldn't stop the inevitable for Art Bergmann. Shortly after Canada's pioneering punk won the country's top music prize for alternative rock last year -- for his Young Canadians record, What Fresh Hell Is This? -- his record company, Sony, stopped returning phone calls.  
   
 "They wouldn't tell me a god-damned thing for six or eight months,'' says Bergmann -- who performs in Halifax for the first time this weekend -- from his Toronto crash-pad.  

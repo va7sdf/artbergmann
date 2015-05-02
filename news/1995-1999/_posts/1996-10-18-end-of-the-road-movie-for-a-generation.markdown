@@ -1,12 +1,10 @@
 ---
 title: end-of-the-road movie for a generation
-article_author:
-article_publication:
-article_date:
+article_author: peter goddard
+article_publication: the toronto star
+article_date: october 18, 1996
 ---
-The Toronto Star / Friday, October 18, 1996 / by Peter Goddard  
-  
-Hard Core Logo  
+####Hard Core Logo  
   
 Starring Hugh Dillon, Callum Keith Rennie, Bernie Coulson, and John Pyper-Ferguson, screenplay by Noel S. Baker, based on the novel by Michael Turner, cinematography by Danny Nowak, directed by Bruce McDonald. At Canada Square and Eaton Centre.  
   

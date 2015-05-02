@@ -1,12 +1,10 @@
 ---
 title: end of era with pump's passing
-article_author:
-article_publication:
-article_date:
+article_author: tom harrison
+article_publication: the province
+article_date: july 13, 1997
 ---
-Club reigned as city's most important venue for live rock  
-  
-The Province / Sunday, July 13, 1997 / by Tom Harrison  
+####Club reigned as city's most important venue for live rock  
   
 "People who don't smoke don't drink and they're cheap, too.''  
   

@@ -1,12 +1,9 @@
 ---
 title: 'profile: looking at rock music from a bergmannesque point of view'
-article_author:
-article_publication:
-article_date:
+article_author: katherine monk (sun pop music critic)
+article_publication: the vancouver sun
+article_date: feburary 14, 1995
 ---
-  
-Vancouver Sun / Feburary 14, 1995 / Katherine Monk (Sun Pop Music Critic)  
-  
 Art Bergmann feels a little out of time and place in this designer coffee shop on Davie Street: He'd rather be in Paris, circa 1871--bathing in chaos, feasting on the ashes of revolution and wars lost.  
   
 But he wasn't so lucky.  

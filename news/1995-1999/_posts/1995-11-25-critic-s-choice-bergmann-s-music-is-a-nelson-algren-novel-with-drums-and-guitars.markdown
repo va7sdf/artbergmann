@@ -1,11 +1,9 @@
 ---
-title: 'critic''s choice: bergmann''s music is a nelson algren novel with drums and guitars'
-article_author:
-article_publication:
-article_date:
+title: "critic's choice: bergmann's music is a nelson algren novel with drums and guitars"
+article_author: john armstrong
+article_publication: the vancouver sun
+article_date: november 25, 1995
 ---
-Vancouver Sun / Saturday, November 25, 1995 / by John Armstrong  
-  
 Lou Reed has said his albums are intended to take rock music into the world of grownups, working the same themes as Hubert Selby and Raymond Carver.  
   
 In that context Art Bergmann's music is a Nelson Algren novel with drums and guitars, and the Vancouver singer/guitarist will be playing his latest chapters tonight at the Gastown Music Hall. Tickets at the door.  

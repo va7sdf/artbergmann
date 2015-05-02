@@ -1,11 +1,9 @@
 ---
 title: bergmann living down his reputation
-article_author:
-article_publication:
-article_date:
+article_author: ben rayner
+article_publication: the toronto star
+article_date: october 15, 1998
 ---
-The Toronto Star / Thursday, October 15, 1998 / by Ben Rayner  
-  
 Canadian rock legend tries a mellower sound  
   
 Knock around any business long enough and you'll be rewarded with a Reputation.  

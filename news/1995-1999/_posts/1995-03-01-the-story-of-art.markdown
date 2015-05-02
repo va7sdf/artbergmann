@@ -1,10 +1,9 @@
 ---
 title: the story of art
-article_author:
-article_publication:
-article_date:
+article_author: mary dickie
+article_publication: impact magazine
+article_date: march 1995
 ---
-Impact Magazine / March 1995 / by Mary Dickie  
 What if Art Bergmann had grown up in New York or Londoninstead of Vancouver? What if he'd had a record company that promoted himproperly? What if he'd kept his publishing rights? What if he'd been focusedand together and non-addictive and just a little bit lucky? Well, maybe I wouldn't have to tell half of you whohe is, and the other half why he isn't a big star &ndash; yet. But then would Artstill be Art?  
   
 Art Bergmann isn't, of course, the only songwriter/performerin the world whose fame hasn't kept pace with is talent. Look at Iggy Pop,perhaps Art's biggest influence &ndash; if it weren't for David Bowie rescuing himfrom that hospital, maybe he'd have disappeared and there'd be just a fewcognoscenti moaning about The Stooges. But Art occupies a special place asCanada's great semi-lost rock star. Unfortunately, there's never been a DavidBowie for Art &ndash; just a lot of disappointments, many brilliant songs, a niche asVancouver's most venerable and beloved fuck-up and a bunch of rabid fans acrossthe country who turn up for his wild and often wonderful performances.  

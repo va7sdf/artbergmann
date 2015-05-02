@@ -1,11 +1,9 @@
 ---
 title: gimme a break
-article_author:
-article_publication:
-article_date:
+article_author: mike roberts
+article_publication: the province
+article_date: november 3, 1996
 ---
-The Province / Sunday, November 3, 1996 / by Mike Roberts  
-  
 He's been called an enigma and a genius, arrogant and unreliable. He's been spotted in soup lines and dumpsters; holding court in the classiest lounges and most exclusive music-awards parties.  
   
 And he's had more record labels than I've had hot dinners.  

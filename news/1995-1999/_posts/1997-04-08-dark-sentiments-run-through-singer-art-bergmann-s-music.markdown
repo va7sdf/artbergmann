@@ -1,12 +1,9 @@
 ---
 title: dark sentiments run through singer art bergmann's music
-article_author:
-article_publication:
-article_date:
+article_author: nick krewen
+article_publication: the kitchener-waterloo record
+article_date: april 8, 1997
 ---
-The Kitchener-Waterloo Record / Tuesday, April 8, 1997  
-by Nick Krewen  
-  
 If Art Bergmann ever becomes prime minister, his first piece of legislation would undoubtedly enjoy unprecedented public support.  
   
 "I'd declare a statutory holiday," says the veteran Vancouver singer and songwriter. "It would loosen up everyone and we'd communicate better. Then it would be time to set all the budgets. People would actually get jobs that they're happy with."  

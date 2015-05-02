@@ -1,11 +1,9 @@
 ---
 title: nowadays, bergmann directs his own career
-article_author:
-article_publication:
-article_date:
+article_author: bruce mowat
+article_publication: the hamilton spectator
+article_date: february 27, 1997
 ---
-The Hamilton Spectator / February 27, 1997 / by Bruce Mowat  
-  
 The last time Art Bergmann was in town, he was accepting a Juno award in the Best Alternative Album category for his 1995 opus, What Fresh Hell Is This?  
   
 That was just short of a year ago. As of late, dame fortune has been a downright witch to the 43-year-old veteran songwriter, whose recording career of 20-odd years was interrupted in November when he was officially dropped by his label.  

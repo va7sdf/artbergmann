@@ -1,13 +1,10 @@
 ---
 title: state of the art bergmann
-article_author:
-article_publication:
-article_date:
+article_author: fish griwkowsky
+article_publication: the edmonton sun
+article_date: november 13, 1998
 ---
-The Edmonton Sun / Friday, November 13, 1998  
-by Fish Griwkowsky  
-  
-(EDITOR'S NOTE: In recognition of the fact that you've no doubt had enough of cowboys and the rodeo, we sent Fish to interview a decidedly non-country act: legendary party rocker Art Bergmann.)  
+<em>(EDITOR'S NOTE: In recognition of the fact that you've no doubt had enough of cowboys and the rodeo, we sent Fish to interview a decidedly non-country act: legendary party rocker Art Bergmann.)</em>  
   
 - - -  
   
