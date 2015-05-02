@@ -1,11 +1,9 @@
 ---
 title: vultura freeway review
-article_author:
-article_publication:
-article_date:
+article_author: spike
+article_publication: discorder magazine
+article_date: nov. 2000
 ---
-Discorder magazine by Spike. (Nov. 2000)  
-  
 Art Bergmann  
   
 Vultura Freeway  

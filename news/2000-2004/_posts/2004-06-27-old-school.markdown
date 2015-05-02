@@ -1,12 +1,9 @@
 ---
 title: old school
-article_author:
-article_publication:
-article_date:
+article_author: fish griwkowsky
+article_publication: the edmonton sun
+article_date: june 27, 2004
 ---
-The Edmonton Sun / Sunday, June 27, 2004  
-by Fish Griwkowsky  
-  
 WHAT FRESH HELL IS THIS? (1995)  
   
 Art Bergmann  

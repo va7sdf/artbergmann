@@ -1,11 +1,9 @@
 ---
 title: songs are presented in all their naked brilliance
-article_author:
-article_publication:
-article_date:
+article_author: james muretich
+article_publication: calgary herald
+article_date: march 16, 2000
 ---
-Calgary Herald / Thursday, March 16, 2000 / by James Muretich  
-  
 Art Bergmann  
   
 Design Flaw (Other Peoples Music-EMI)  

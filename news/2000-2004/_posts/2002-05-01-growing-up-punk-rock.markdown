@@ -1,12 +1,10 @@
 ---
 title: growing up punk rock
-article_author:
-article_publication:
-article_date:
+article_author: michael barclay
+article_publication: exclaim.ca
+article_date: may 2002
 ---
-Blank Generations in Vancouver, Ottawa and New York  
-  
-exclaim.ca / May 2002 / by Michael Barclay  
+####Blank Generations in Vancouver, Ottawa and New York  
   
 John Armstrong, aka Vancouver punk veteran Buck Cherry, writes: "Once you find out that there are people in the world who will actually give you money, front a bar tab and perform illegal sexual acts with you just because you can play 'Louie Louie' &hellip; well, it's hard to settle for the 40-hour week after you've had the seven-day weekend."  
   

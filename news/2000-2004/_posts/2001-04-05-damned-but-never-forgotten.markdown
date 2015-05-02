@@ -1,11 +1,9 @@
 ---
 title: damned but never forgotten
-article_author:
-article_publication:
-article_date:
+article_author: glen nott
+article_publication: the hamilton spectator
+article_date: april 5, 2001
 ---
-The Hamilton Spectator / Thursday, April 5, 2001 / by Glen Nott  
-  
 Art imitates life. Life imitates art. If this was a competition, Art would win.  
   
 Art Bergmann, that is.  
