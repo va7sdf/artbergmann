@@ -1,5 +1,5 @@
 ---
-title: so you want to be a rock star
+title: "so you want to be a rock star"
 article_author: greg potter
 article_publication: montreal gazette
 article_date: august 29, 1993

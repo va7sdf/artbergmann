@@ -1,5 +1,5 @@
 ---
-title: name of the game is change
+title: "name of the game is change"
 article_author: stephen godfrey
 article_publication: the globe and mail
 article_date: july 9, 1987

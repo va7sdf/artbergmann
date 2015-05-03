@@ -1,5 +1,5 @@
 ---
-title: sound and fury
+title: "sound and fury"
 article_author: Greg Buium
 article_publication: www.cbc.ca/arts/music/soundandfury.html
 article_date: April 15, 2005

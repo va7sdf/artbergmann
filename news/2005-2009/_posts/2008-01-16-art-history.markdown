@@ -1,8 +1,8 @@
 ---
-title: art history....
-article_author:dennis mills
+title: "art history...."
+article_author: dennis mills
 article_publication: unknown
-article_date:january 16, 2008
+article_date: january 16, 2008
 ---
 Some come for the fun. Some come for the fashion. Please come for the passion. And some just come numb. The sky was overcast; the cast were assembled. The roles were handed out: one by one by one. Get too blasted in the past. Blast them. Blast them. Cast them in plastic. And the heavens thundered and ripped the plastic blue asunder, laying waste to that which was already gone, putting the pretty vacants out to pasture bedtime, showing the sheep the gate, giving the proverbial lamb the provincial chop.....and Lo a voice of reason (was it Neil Harrison, Tom Hall, or Les O'Day) issued forth the proclamation of post-punk patronage. And we were sore afraid. Let Art be put on High/fi to all who mock the Rock and fail to heed our newfound heir to the airwaves.  
   

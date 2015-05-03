@@ -1,5 +1,5 @@
 ---
-title: damned but never forgotten
+title: "damned but never forgotten"
 article_author: glen nott
 article_publication: the hamilton spectator
 article_date: april 5, 2001

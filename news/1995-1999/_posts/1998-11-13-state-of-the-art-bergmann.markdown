@@ -1,5 +1,5 @@
 ---
-title: state of the art bergmann
+title: "state of the art bergmann"
 article_author: fish griwkowsky
 article_publication: the edmonton sun
 article_date: november 13, 1998

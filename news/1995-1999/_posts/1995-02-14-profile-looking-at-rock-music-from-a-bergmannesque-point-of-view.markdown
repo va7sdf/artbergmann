@@ -1,5 +1,5 @@
 ---
-title: 'profile: looking at rock music from a bergmannesque point of view'
+title: "profile: looking at rock music from a bergmannesque point of view"
 article_author: katherine monk (sun pop music critic)
 article_publication: the vancouver sun
 article_date: feburary 14, 1995

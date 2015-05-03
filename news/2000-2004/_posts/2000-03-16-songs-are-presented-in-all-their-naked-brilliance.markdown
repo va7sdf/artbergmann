@@ -1,5 +1,5 @@
 ---
-title: songs are presented in all their naked brilliance
+title: "songs are presented in all their naked brilliance"
 article_author: james muretich
 article_publication: calgary herald
 article_date: march 16, 2000

@@ -1,5 +1,5 @@
 ---
-title: bergmann finds straightforward venom in the dregs
+title: "bergmann finds straightforward venom in the dregs"
 article_author: mark lepage
 article_publication: montreal gazette
 article_date: april 28, 1990

@@ -1,5 +1,5 @@
 ---
-title: dark sentiments run through singer art bergmann's music
+title: "dark sentiments run through singer art bergmann's music"
 article_author: nick krewen
 article_publication: the kitchener-waterloo record
 article_date: april 8, 1997

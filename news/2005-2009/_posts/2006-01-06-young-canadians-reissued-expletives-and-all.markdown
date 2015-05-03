@@ -1,5 +1,5 @@
 ---
-title: young canadians reissued, expletives and all
+title: "young canadians reissued, expletives and all"
 article_author: greg potter
 article_publication: vancouver courier
 article_date: january 6, 2006

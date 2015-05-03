@@ -1,5 +1,5 @@
 ---
-title: art bergmann plays air guitar in my head
+title: "art bergmann plays air guitar in my head"
 article_author: alex waterhouse-hayward
 article_publication: unknown
 article_date: march 28, 2009

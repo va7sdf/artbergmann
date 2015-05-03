@@ -1,5 +1,5 @@
 ---
-title: muretich lived, loved music scene
+title: "muretich lived, loved music scene"
 article_author: heath mccoy
 article_publication: calgary herald
 article_date: september 19, 2006

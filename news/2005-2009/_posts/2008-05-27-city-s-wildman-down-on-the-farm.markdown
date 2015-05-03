@@ -1,5 +1,5 @@
 ---
-title: city's 'wildman' down on the farm
+title: "city's 'wildman' down on the farm"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: june 2, 2007

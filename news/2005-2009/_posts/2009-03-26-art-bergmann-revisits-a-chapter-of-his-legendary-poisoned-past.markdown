@@ -1,5 +1,5 @@
 ---
-title: art bergmann revisits a chapter of his legendary poisoned past
+title: "art bergmann revisits a chapter of his legendary poisoned past"
 article_author: alexander varty
 article_publication: georgia straight
 article_date: march 26, 2009

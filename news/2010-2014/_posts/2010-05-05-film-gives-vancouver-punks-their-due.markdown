@@ -1,5 +1,5 @@
 ---
-title: film gives vancouver punks their due
+title: "film gives vancouver punks their due"
 article_author: michael kissinger
 article_publication: vancouver courier
 article_date: may 5, 2010

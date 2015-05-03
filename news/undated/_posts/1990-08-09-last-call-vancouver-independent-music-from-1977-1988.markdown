@@ -1,5 +1,5 @@
 ---
-title: 'last call: vancouver independent music from 1977-1988'
+title: "last call: vancouver independent music from 1977-1988"
 article_author: sean carruthers
 article_publication: allmusic.com
 article_date: unknown

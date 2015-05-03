@@ -1,5 +1,5 @@
 ---
-title: vultura freeway review
+title: "vultura freeway review"
 article_author: spike
 article_publication: discorder magazine
 article_date: nov. 2000

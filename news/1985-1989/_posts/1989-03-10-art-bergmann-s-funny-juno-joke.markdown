@@ -1,5 +1,5 @@
 ---
-title: art bergmann's funny juno joke
+title: "art bergmann's funny juno joke"
 article_author: craig macinnis
 article_publication: the toronto star
 article_date: march 10, 1989

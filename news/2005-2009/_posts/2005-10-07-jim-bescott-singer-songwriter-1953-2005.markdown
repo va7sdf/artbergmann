@@ -1,5 +1,5 @@
 ---
-title: jim bescott, singer-songwriter, 1953-2005
+title: "jim bescott, singer-songwriter, 1953-2005"
 article_author: tom hawthorn
 article_publication: the globe and mail
 article_date: october 7, 2005

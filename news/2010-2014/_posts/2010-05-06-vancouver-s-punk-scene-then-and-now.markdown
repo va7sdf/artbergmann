@@ -1,5 +1,5 @@
 ---
-title: vancouver's punk scene, then and now
+title: "vancouver's punk scene, then and now"
 article_author: marsha lederman
 article_publication: the globe and mail
 article_date: may 6, 2010

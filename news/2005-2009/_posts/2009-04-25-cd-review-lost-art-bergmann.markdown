@@ -1,5 +1,5 @@
 ---
-title: cd review - lost art bergmann
+title: "cd review - lost art bergmann"
 article_author: michael toland
 article_publication: the big takeover
 article_date: april 25, 2009

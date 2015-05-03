@@ -1,5 +1,5 @@
 ---
-title: record companies finally discover art bergmann
+title: "record companies finally discover art bergmann"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: july 27, 1987

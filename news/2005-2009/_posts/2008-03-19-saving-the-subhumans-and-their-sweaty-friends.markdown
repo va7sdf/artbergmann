@@ -1,5 +1,5 @@
 ---
-title: saving the subhumans and their sweaty friends
+title: "saving the subhumans and their sweaty friends"
 article_author: tom hawthorn
 article_publication: the globe and mail
 article_date: march 19, 2008

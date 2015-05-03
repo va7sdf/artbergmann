@@ -1,5 +1,5 @@
 ---
-title: great! bergmann gets down in the gutter again
+title: "great! bergmann gets down in the gutter again"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: april 14, 1990

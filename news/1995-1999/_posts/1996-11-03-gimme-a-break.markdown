@@ -1,5 +1,5 @@
 ---
-title: gimme a break
+title: "gimme a break"
 article_author: mike roberts
 article_publication: the province
 article_date: november 3, 1996

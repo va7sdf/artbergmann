@@ -1,5 +1,5 @@
 ---
-title: '1984: rear window'
+title: "1984: rear window"
 article_author: alex waterhouse-hayward
 article_publication: the vancouver sun
 article_date: june 8, 2000

@@ -1,5 +1,5 @@
 ---
-title: 10 classic art songs
+title: "10 classic art songs"
 article_author: john mackie
 article_publication: calgary herald
 article_date: august 18, 2007

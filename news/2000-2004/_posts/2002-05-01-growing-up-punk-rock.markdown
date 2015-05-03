@@ -1,5 +1,5 @@
 ---
-title: growing up punk rock
+title: "growing up punk rock"
 article_author: michael barclay
 article_publication: exclaim.ca
 article_date: may 2002

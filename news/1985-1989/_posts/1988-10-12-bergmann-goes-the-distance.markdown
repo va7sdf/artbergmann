@@ -1,5 +1,5 @@
 ---
-title: bergmann goes the distance
+title: "bergmann goes the distance"
 article_author: giles gysel
 article_publication: the ubyssey
 article_date: october 12, 1988

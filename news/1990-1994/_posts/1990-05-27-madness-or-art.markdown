@@ -1,5 +1,5 @@
 ---
-title: madness or art?
+title: "madness or art?"
 article_author: alison mayes
 article_publication: the calgary herald
 article_date: may 17, 1990

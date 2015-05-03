@@ -1,5 +1,5 @@
 ---
-title: boys in the bando
+title: "boys in the bando"
 article_author: malcolm parry
 article_publication: the vancouver sun
 article_date: january 9, 1993

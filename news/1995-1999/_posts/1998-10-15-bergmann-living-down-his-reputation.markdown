@@ -1,5 +1,5 @@
 ---
-title: bergmann living down his reputation
+title: "bergmann living down his reputation"
 article_author: ben rayner
 article_publication: the toronto star
 article_date: october 15, 1998

@@ -1,5 +1,5 @@
 ---
-title: bergmann rocks on explosive edge
+title: "bergmann rocks on explosive edge"
 article_author: chris dafoe
 article_publication: the toronto star
 article_date: march 29, 1990

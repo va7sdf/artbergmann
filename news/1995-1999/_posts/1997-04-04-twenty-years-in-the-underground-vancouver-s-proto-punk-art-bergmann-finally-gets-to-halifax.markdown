@@ -1,5 +1,5 @@
 ---
-title: 'twenty years in the underground: vancouver''s proto-punk art bergmann finally gets to halifax'
+title: "twenty years in the underground: vancouver's proto-punk art bergmann finally gets to halifax"
 article_author: andy pedersen
 article_publication: the halifax daily news
 article_date: april 4, 1997

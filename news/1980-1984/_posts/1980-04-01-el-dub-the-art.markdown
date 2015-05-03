@@ -1,5 +1,5 @@
 ---
-title: el dub & the art
+title: "el dub & the art"
 article_author: les wiseman
 article_publication: vancouver magazine
 article_date: april 1980

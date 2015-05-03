@@ -1,5 +1,5 @@
 ---
-title: bergmann wildman
+title: "bergmann wildman"
 article_author: John Mackie
 article_publication: The Vancouver Sun
 article_date: May 24, 1990

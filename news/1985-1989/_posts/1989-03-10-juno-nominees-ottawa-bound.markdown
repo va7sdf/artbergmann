@@ -1,5 +1,5 @@
 ---
-title: juno nominees ottawa-bound
+title: "juno nominees ottawa-bound"
 article_author: greg barr
 article_publication: the ottawa citizen
 article_date: march 10, 1989

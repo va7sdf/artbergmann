@@ -1,5 +1,5 @@
 ---
-title: punk-era reissue blasts back from the past
+title: "punk-era reissue blasts back from the past"
 article_author: brian lynch
 article_publication: straight.com
 article_date: january 27, 2005

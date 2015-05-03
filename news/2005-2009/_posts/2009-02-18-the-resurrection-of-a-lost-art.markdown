@@ -1,5 +1,5 @@
 ---
-title: the resurrection of a lost art
+title: "the resurrection of a lost art"
 article_author: tom hawthorn
 article_publication: the globe and mail
 article_date: february 18, 2009

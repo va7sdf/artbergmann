@@ -1,5 +1,5 @@
 ---
-title: end of era with pump's passing
+title: "end of era with pump's passing"
 article_author: tom harrison
 article_publication: the province
 article_date: july 13, 1997

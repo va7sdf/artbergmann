@@ -1,5 +1,5 @@
 ---
-title: the best album art bergmann never made
+title: "the best album art bergmann never made"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: march 26, 2009

@@ -1,5 +1,5 @@
 ---
-title: pumping life into corpse of rock 'n' roll
+title: "pumping life into corpse of rock 'n' roll"
 article_author: Greg Barr
 article_publication: The Ottawa Citizen
 article_date: March 30, 1990

@@ -1,5 +1,5 @@
 ---
-title: bergmann getting back to his gigging
+title: "bergmann getting back to his gigging"
 article_author: Jennie Punter
 article_publication: The Toronto Star
 article_date: October 14, 1993

@@ -1,5 +1,5 @@
 ---
-title: john armstrong! buck cherry! the modernettes! pachuco!
+title: "john armstrong! buck cherry! the modernettes! pachuco!"
 article_author: ferdy belland
 article_publication: nerve magazine
 article_date: december 2006

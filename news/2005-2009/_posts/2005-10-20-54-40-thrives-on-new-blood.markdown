@@ -1,5 +1,5 @@
 ---
-title: 54-40 thrives on new blood
+title: "54-40 thrives on new blood"
 article_author: steve newton
 article_publication: georgia straight
 article_date: october 20, 2005

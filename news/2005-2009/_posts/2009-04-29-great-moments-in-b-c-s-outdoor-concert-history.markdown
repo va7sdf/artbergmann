@@ -1,5 +1,5 @@
 ---
-title: great moments in b.c.'s outdoor concert history; exposed
+title: "great moments in b.c.'s outdoor concert history; exposed"
 article_author: randy shoremay
 article_publication: vancouver sun
 article_date: may 29, 2009

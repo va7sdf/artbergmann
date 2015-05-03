@@ -1,5 +1,5 @@
 ---
-title: juno whoop-up
+title: "juno whoop-up"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: march 7, 1991

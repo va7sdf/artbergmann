@@ -1,5 +1,5 @@
 ---
-title: bergmann captured at his wildest, rawest best
+title: "bergmann captured at his wildest, rawest best"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: january 3, 1987

@@ -1,5 +1,5 @@
 ---
-title: 'back in action: john armstrong and the modernettes'
+title: "back in action: john armstrong and the modernettes"
 article_author: greg potter
 article_publication: north shore news
 article_date: december 22, 2006

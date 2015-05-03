@@ -1,5 +1,5 @@
 ---
-title: the story of art
+title: "the story of art"
 article_author: mary dickie
 article_publication: impact magazine
 article_date: march 1995

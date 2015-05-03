@@ -1,5 +1,5 @@
 ---
-title: april 25, 2009 gig in toronto
+title: "april 25, 2009 gig in toronto"
 article_author: anonymous
 article_publication: Allan MacInnis' blog Alienated In Vancouver
 article_date: unknown

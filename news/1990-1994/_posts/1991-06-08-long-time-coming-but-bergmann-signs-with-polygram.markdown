@@ -1,5 +1,5 @@
 ---
-title: long time coming, but bergmann signs with polygram
+title: "long time coming, but bergmann signs with polygram"
 article_author: greg potter
 article_publication: the vancouver sun
 article_date: june 8, 1991

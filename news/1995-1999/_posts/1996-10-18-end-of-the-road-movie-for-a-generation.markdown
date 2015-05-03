@@ -1,5 +1,5 @@
 ---
-title: end-of-the-road movie for a generation
+title: "end-of-the-road movie for a generation"
 article_author: peter goddard
 article_publication: the toronto star
 article_date: october 18, 1996

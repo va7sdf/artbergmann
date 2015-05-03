@@ -1,5 +1,5 @@
 ---
-title: art's slow poison
+title: "art's slow poison"
 article_author: chris wong
 article_publication: the ubyssey
 article_date: september 21, 1984

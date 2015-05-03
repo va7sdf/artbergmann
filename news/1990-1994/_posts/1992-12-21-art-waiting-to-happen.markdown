@@ -1,5 +1,5 @@
 ---
-title: art waiting to happen
+title: "art waiting to happen"
 article_author: john armstrong (aka buck cherry)
 article_publication: step magazine
 article_date: winter 92/93

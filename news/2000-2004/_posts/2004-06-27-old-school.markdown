@@ -1,5 +1,5 @@
 ---
-title: old school
+title: "old school"
 article_author: fish griwkowsky
 article_publication: the edmonton sun
 article_date: june 27, 2004

@@ -1,5 +1,5 @@
 ---
-title: 'demon rock: the dark visions of art bergmann'
+title: "demon rock: the dark visions of art bergmann"
 article_author: john mackie
 article_publication: the vancouver sun
 article_date: july 9, 1988

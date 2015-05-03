@@ -1,5 +1,5 @@
 ---
-title: nowadays, bergmann directs his own career
+title: "nowadays, bergmann directs his own career"
 article_author: bruce mowat
 article_publication: the hamilton spectator
 article_date: february 27, 1997

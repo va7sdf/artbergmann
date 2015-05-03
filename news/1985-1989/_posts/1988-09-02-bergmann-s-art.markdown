@@ -1,5 +1,5 @@
 ---
-title: bergmann's art
+title: "bergmann's art"
 article_author: craig macinnis
 article_publication: the toronto star
 article_date: september 2, 1988
