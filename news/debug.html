@@ -1,0 +1,35 @@
+---
+layout: page
+title: news
+---
+{% assign sorted_news = site.categories['news'] | sort: 'title' %}
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="all-auto">
+			<div class="news monospace small">
+				<table class="ink-table">
+				<thead>
+					<tr>
+						<th class="align-left" data-sortable="true">index</th>
+						<th class="align-left" data-sortable="true">song</th>
+						<th class="align-left" data-sortable="true">author</th>
+						<th class="align-left" data-sortable="true">publication</th>
+						<th class="align-left" data-sortable="true">date</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for post in sorted_news %}
+					<tr>
+						<td>{{ forloop.index }}</td>
+						<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+						<td>{{ post.article_author }}</td>
+						<td>{{ post.article_publication }}</td>
+						<td>{{ post.article_date }}</td>
+					</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,29 @@
+---
+layout: page
+title: lyrics
+---
+{% assign sorted_lyrics = site.categories['albums'] | sort: 'title' %}
+<div class="ink-grid">
+	<div class="column-group push-center">
+		<div class="all-auto">
+			<div class="lyrics monospace small">
+				<table class="ink-table">
+				<thead>
+					<tr>
+						<th class="align-left" data-sortable="true">Song</th>
+						<th class="align-left" data-sortable="true">Album</th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for post in sorted_lyrics %}
+					<tr>
+						<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+						<td>{{ post.album }}</td>
+					</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			</div>
+		</div>
+	</div>
+</div>
