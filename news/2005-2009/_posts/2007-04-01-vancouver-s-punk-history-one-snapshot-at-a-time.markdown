@@ -1,11 +1,9 @@
 ---
 title: "bev davies: vancouver's punk history, one snapshot at a time"
-article_author: Ferdy Belland
+article_author: ferdy belland
 article_publication: the nerve magazine
 article_date: april 2007
 ---
-Nerve Magazine / April 2007 / by Ferdy Belland  
-  
 Over the many decades of rock 'n' roll's rich history, the art of photography progressed and paralleled the art of the music itself. Many photographers have made their names by documenting the sights and moods of the eras they lived in. Annie Liebovitz's legendary post-Watergate portraits of musicians, politicians, celebrities, and personalities gave Rolling Stone a gritty dignity that it hasn't had since &ndash; and won't ever see again. The blurry psychedelia of Sub Pop house photographer Charles Peterson's double-exposures nabbed many iconographic moments in the much-hyped grunge scene of the Pacific Northwest. The massive music-photo archive of Michael Ochs is enough to stagger the curators of the Library of Congress. And no one has ever come close to matching the lovely Ms. Beverley Davies in capturing the shining, grimy, joyously human moments of Vancouver's much-ballyhooed punk scene of the Smiling Buddha Cabaret days.  
   
 This writer was gracefully invited by Ms. Davies into the cozy comforts of her quaint old Strathcona home over this past winter to sip soothing tea in a rocking chair near a warm fireplace, beside which a content old grey cat lay sprawled out with no trace of feline grace. Wrapped in a shawl, her kind eyes always smiling as she shuffles around her kitchen in her slippers to seek out the sugar bowl, Bev Davies looks like everyone's favourite aunt &ndash; but this favourite aunt isn't cut from the canasta-and-shuffleboard crowd.  

@@ -1,11 +1,9 @@
 ---
 title: 10 classic art songs
-article_author:
-article_publication:
-article_date:
+article_author: john mackie
+article_publication: calgary herald
+article_date: august 18, 2007
 ---
-Calgary Herald / Saturday, August 18, 2007 / by John Mackie  
-  
 1. HAWAII  
   
 The Young Canadians' biggest hit, with an incredibly infectious guitar line and chorus that simultaneously mocks and celebrates taking a mid-winter holiday in the sun. Makes prominent use of the 'f' word.  

@@ -2,10 +2,8 @@
 title: great moments in b.c.'s outdoor concert history; exposed
 article_author: randy shoremay
 article_publication: vancouver sun
-article_date:
+article_date: may 29, 2009
 ---
-/ May 29, 2009 /  
-  
 The year it rained: The Vancouver Folk Music Festival was drenched by rain in 1989, but boasted possibly the best folk music lineup in the city's history including Pete Seeger, Billy Bragg, Loreena McKennitt, Mae Moore, Roy Forbes, Spirit of the West and dozens more. Seeger, then just 70 years old, wore a garbage bag with holes punched through it for a raincoat. Everyone froze. No one left.  
   
 The year it baked our brains: T-Bird Stadium was a boiling cauldron of beer and sweat for the 1991 tour of Midnight Oil and the terrifically underrated Hunters&amp;Collectors. Vancouver's granddaddy of smack-punk Art Bergmann opened the show to a mob roiling around the beer concession and, later, the porta-potties.  

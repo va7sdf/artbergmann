@@ -1,11 +1,9 @@
 ---
 title: cd review - lost art bergmann
-article_author:
-article_publication:
-article_date:
+article_author: michael toland
+article_publication: the big takeover
+article_date: april 25, 2009
 ---
-The Big Takeover / April 25, 2009 / by Michael Toland  
-  
 In some circles, ART BERGMANN is a legend. In the early 80s, the British Columbian songwriter led the YOUNG CANADIANS, one of the leading lights of the Vancouver punk scene. He then fronted POISONED, sort of Canada's answer to the REPLACEMENTS (indeed, Bergmann has been referred to as the Canadian PAUL WESTERBERG), before embarking on a fruitful if ill-fated solo career. Despite (or maybe because of) a handful of records of dark lyrics, ragged vocals and untamed guitar wrangling, Bergmann never got far, with only a couple of minor Canuck hits to show for his hard work. (Truthfully, his bad habits didn't help.) He released his last studio album in the late 90s and has been retired ever since, stymied by arthritis and lack of interest. (Note: check his website for the full story.) Except for a Young Canadians comp on the Sudden Death label, his catalog has fallen out of print, with his acknowledged masterpiece Sexual Roulette being damn near impossible to find.  
   
 In 1988, Bergmann released his debut solo record Crawl With Me, produced by JOHN CALE for the MCA-affiliated Duke Street Records. The combination seemed like a good idea at the time &ndash; Bergmann's tales of murderers, junkies and losers definitely show a LOU REED influence, and Cale knows how to bring out the atmosphere of the dark side. Strangely, though, Cale opted instead to nudge Bergmann's music toward the mainstream, smoothing out many of the songs' musical edge (though not touching the lyrical outlook). It's unclear what Cale's motive was &ndash; maybe he worked under a record company edict to make Bergmann into the next TOM COCHRANE, or maybe he just didn't care. Regardless, Bergmann was displeased with the results, believing that Cale had ripped the guts out of his music.  

@@ -1,11 +1,9 @@
 ---
 title: art bergmann revisits a chapter of his legendary poisoned past
-article_author:
-article_publication:
-article_date:
+article_author: alexander varty
+article_publication: georgia straight
+article_date: march 26, 2009
 ---
-Georgia Straight / March 26, 2009 / by Alexander Varty  
-  
 Today is not a good day for Art Bergmann. His hearing, damaged by a lifetime of standing in front of cranked amps, is acting up, and he's having a hard time making sense of my questions. I'm in trouble, too: the near-legendary singer-guitarist has somehow gotten hold of a defective phone, and he sounds like a chorus of cartoon chipmunks. After a few shouted queries and indecipherable answers, our interview is rapidly sliding sideways&mdash;until Ray Fulber rides to the rescue.  
   
 Bergmann's staying at his long-time friend and bassist's Sunshine Coast recording studio, where he, Fulber, keyboardist Susanne Richter, and drummer Taylor Nelson Little are rehearsing for the much-anticipated reunion of their band Poisoned. The occasion is the release of Lost Art, a collection of unissued recordings that Bergmann and his quartet made in 1986. Notable both for the ferocity of the songwriting and the presence of superstar knob-twiddlers Bob Rock and Mike Fraser, the sessions are further evidence that Bergmann's more like the rock god who never was than a has-been on the comeback trail.  

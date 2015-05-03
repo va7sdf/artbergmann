@@ -1,12 +1,10 @@
 ---
 title: city's 'wildman' down on the farm
-article_author:
-article_publication:
-article_date:
+article_author: john mackie
+article_publication: the vancouver sun
+article_date: june 2, 2007
 ---
-Vancouver rock legend Art Bergmann found fighting arthritis in Alberta  
-  
-The Vancouver Sun / Saturday, June 2, 2007 / by John Mackie  
+####Vancouver rock legend Art Bergmann found fighting arthritis in Alberta  
   
 Art Bergmann answers the phone, hears my voice, and mutters the perfect Art Bergmann greeting.  
   

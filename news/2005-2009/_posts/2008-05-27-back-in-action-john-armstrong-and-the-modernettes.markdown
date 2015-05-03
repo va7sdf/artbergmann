@@ -1,11 +1,9 @@
 ---
 title: 'back in action: john armstrong and the modernettes'
-article_author:
-article_publication:
-article_date:
+article_author: greg potter
+article_publication: north shore news
+article_date: december 22, 2006
 ---
-North Shore News / Friday, December 22, 2006 / by Greg Potter  
-  
 Meeting your idols can be tempestuous affairs.  
   
 People admired from a distance tend to mutate horribly when you get too close. Public facades are not meant to be pried open because the reality lurking beneath ain't always pretty.  

@@ -1,11 +1,9 @@
 ---
 title: art bergmann plays air guitar in my head
-article_author:
-article_publication:
-article_date:
+article_author: alex waterhouse-hayward
+article_publication: unknown
+article_date: march 28, 2009
 ---
-Saturday, March 28, 2009 / by Alex Waterhouse-Hayward  
-  
 As the amateur that I am, I can assert without any compunction that the best rock guitarist I have ever heard is Art Bergmann. His unusual voice (like listening to someone talk on a faulty cassette tape recorder with wow) is secondary in my appreciation of the man. On the other hand there is his music. There are his lyrics.  
   
 An Art Bergmann performance without his guitar playing is an Art Bergmann performance diminished by more than half. While Bergmann has little respect for such mundane objects as microphones (he demolished one in this Thursday's performance at Richards on Richards), perhaps he vented his anger at not being physically capable of playing the guitar on the microphone and its uncooperative stand. As I watched Tony Balony (a.k.a. Anthony Walker) play his guitar most competently and even with some touch of virtuosity I noticed how he stood and how he hammed it up. Bergmann always treated his instrument with respect even if he banged it here and there. The guitar was nothing to make fun of. With a guitar in hand Bergmann dominated the stage. With Jim Bescott on bass and Bary Taylor on drums the K-Tels/Young Canadians of 1979/1980 were the finest rock band I ever heard. Later Art Bergmann bands were tolerable and sometimes even wonderful as long as Bergmann sang and played that guitar.  

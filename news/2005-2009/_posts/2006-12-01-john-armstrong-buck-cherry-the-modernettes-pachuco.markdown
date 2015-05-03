@@ -1,11 +1,9 @@
 ---
 title: john armstrong! buck cherry! the modernettes! pachuco!
-article_author:
-article_publication:
-article_date:
+article_author: ferdy belland
+article_publication: nerve magazine
+article_date: december 2006
 ---
-Nerve Magazine / December 2006 / by Ferdy Belland  
-  
 One of the more exciting bits of news crackling forth from the current Vancouver rock community is the reappearance of one of the most memorable bands from the city's early punk days: by cracky, it's the Modernettes! YAY!!! The new Modernettes will return to the Vancouver stage (for the first time since the filming of the punk rock pseudo-documentary Hard Core Logo) on Friday December 29th at Richard's on Richards with the Manvils, Rich Hope, and Junior Major - holy shit! Quadruple awesome or what?  
   
 CANADIAN PUNK HISTORY LESSON: Bursting onto the amazing Smilin' Buddha Cabaret scene, out of the sardonically intelligent mind of ex-Active Dog guitarist-vocalist John Armstrong (known by his 'nom-de-punk,' Buck Cherry), the Modernettes were one of the first and best pop-punk bands Canada will ever see. A co-ed power trio, sonically akin to the Ramones, the Modernettes' lineup was rounded out by the striking Amazonian bassist Mary-Jo Kopechne and bash-bash-bashful drummer John "Jughead" McAdams. The band was busier than a one-legged man in an ass-kicking contest at the turn of the 1980s, releasing classic EPs like Strictly Confidential, Teen City, a full-length LP Gone...but Not Forgotten, and the final EP View From the Bottom. A frantic West Coast touring schedule and growing frustration over the band's unfathomable obscurity (in the shadow of better-known Van City exports such as the Pointed Sticks and DOA) lead to the Modernettes' premature demise; John later formed the short-lived supergroup Los Popularos with his longtime friend Art Bergmann, but even a pop-punk demigod reaches a breaking point, and Cherry/Armstrong thought he had hung up his Cuban-heeled boots (and his splintery Gibson SG) for good. Not so.  

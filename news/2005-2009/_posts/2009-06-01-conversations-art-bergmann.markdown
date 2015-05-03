@@ -1,11 +1,9 @@
 ---
-title: 'conversations: art bergmann'
-article_author:
-article_publication:
-article_date:
+title: "conversations: art bergmann"
+article_author: jason schneider
+article_publication: exclaim
+article_date: june 2009
 ---
-Exclaim / June 2009 / By Jason Schneider  
-  
 The Canadian music scene needs Art Bergmann now more than ever. Although he established his snarling reputation during the first wave of Vancouver punk, Bergmann hit his songwriting stride during the late '80s and early '90s with a string of albums that somehow managed to channel Lou Reed, Paul Westerberg and Keith Richards all at once. With an unflinching eye he tackled subjects such as incest, domestic violence, addiction, AIDS, and just plain selling out, leaving a trail of destruction &ndash; in nearly every respect &ndash; in his wake. Now, despite serious arthritis curtailing his musical pursuits in recent years, many of Bergmann's best songs are available again, this time as they were intended to be heard, on the new release, Lost Art Bergmann. It's a compilation of sessions recorded by his band Poisoned in 1986, just prior to his first solo album, Crawl With Me. Bergmann was never happy with producer John Cale's work on the latter, making Lost Art Bergmann (originally mixed by Bob Rock) as close to a definitive representation of his vision at the time as can be presented. Bergmann was indeed as unrepentant as ever when discussing this and other topics from his home in Calgary, hot off the heels of his first live performances in half a decade.  
   
 I was really excited to listen to this new record.  

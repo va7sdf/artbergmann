@@ -1,11 +1,9 @@
 ---
 title: the resurrection of a lost art
-article_author:
-article_publication:
-article_date:
+article_author: tom hawthorn
+article_publication: the globe and mail
+article_date: february 18, 2009
 ---
-Globe and Mail / February 18, 2009 / by Tom Hawthorn  
-  
 The demo tapes were going to take Art Bergmann to the big time.  
   
 The Vancouver singer was a lean and angry performer with a ferocious presence. He wrote razor-sharp lyrics about life's underbelly, singing tales of molestation and desperation in a voice as sordid as his gutter topics.  

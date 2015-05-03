@@ -1,11 +1,9 @@
 ---
 title: punk-era reissue blasts back from the past
-article_author:
-article_publication:
-article_date:
+article_author: brian lynch
+article_publication: straight.com
+article_date: january 27, 2005
 ---
-straight.com / January 27, 2005 / by Brian Lynch  
-  
 Vancouver Complication, now available on CD for the first time, documents an explosive time in local music. Rock 'n' roll began its recorded life in small, makeshift studios. And in the late '70s, after many years of growing tanned and tubby in the palatial recording houses of L.A., it was kidnapped and dragged back to these mottled little rooms for deprogramming. The Ramones and the Sex Pistols had by then already proved that Boston and Boz Scaggs did not provide the template for all new music, and that even Fleetwood Mac's uptempo numbers did not represent rock at its most energetic. Once again, the cellars and garages of North America made an unholy racket, as loose networks of outcasts and self-designated punks taught themselves a raw, original form of music that sparked a pop-culture revolution.  
   
 One of the most isolated of these safe houses was a green bungalow on a hillside in Burnaby, where CBC technician Chris Cutress lived with his mother and the modest eight-track recording studio, Sabre Sound, that he'd built in the basement. Here, through the winter and spring of 1978-79, Cutress, his assistant Jay Leslie, and Steve Macklam, a young CBC music journalist and budding manager who had recently moved back to Canada from London, England, tried to capture a full cross section of Vancouver's independent music scene, which had exploded over the previous months to become one of the strongest on the continent.  

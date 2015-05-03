@@ -1,11 +1,9 @@
 ---
-title: 'old sounds: young canadians'
-article_author:
-article_publication:
-article_date:
+title: "old sounds: young canadians"
+article_author: eden munro
+article_publication: vue weekly
+article_date: july 16, 2009
 ---
-Vue Weekly / July 16, 2009 / by Eden Munro  
-  
 "Let's go to fucking Hawaii / Get drunk in the sun / I want to lay on Waikiki / Get a tan on my buns / Running from the rain / Thousands on the run / Making like they're rich / Heading for the fun."  
   
 So shouts the Young Canadians' singer/guitarist Art Bergmann on the band's debut EP, 1980's Hawaii. It wasn't the first appearance on vinyl for the trio&mdash;rounded out by bassist Jim Bescott and drummer Barry Taylor, the band first recorded as the K-Tels, contributing "I Hate Music" to the 1979 compilation Vancouver Complication&mdash;but it was the debut as the Young Canadians, and it found the three punks dropping the gloves right from the opening notes.  

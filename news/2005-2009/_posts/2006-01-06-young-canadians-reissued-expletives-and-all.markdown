@@ -1,11 +1,9 @@
 ---
 title: young canadians reissued, expletives and all
-article_author:
-article_publication:
-article_date:
+article_author: greg potter
+article_publication: vancouver courier
+article_date: january 6, 2006
 ---
-Vancouver Courier / Friday, January 6, 2006 / by Greg Potter  
-  
 In 1980, use of the "f-word" in song was not only discouraged, it was outright forbidden by major label record companies and thought by many of the Perry Como generation to be grounds for lengthy prison terms.  
   
 Sure, Jim Morrison used to toss it around onstage after a few drinks, and more than a few parents snapped vinyl when Country Joe McDonald substituted the offending letters in the "F-I-S-H" cheer on the Woodstock soundtrack; but short of John Lennon's "Working Class Hero," the odd mating-ape call by the Who's Roger Daltrey and the deliberate shock value of the Sex Pistols' "Bodies," the word wasn't commonly employed by tunesmiths in search of something to rhyme with "truck," "luck" or "duck."  

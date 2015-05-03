@@ -1,12 +1,11 @@
 ---
 title: muretich lived, loved music scene
-article_author:
-article_publication:
-article_date:
+article_author: heath mccoy
+article_publication: calgary herald
+article_date: september 19, 2006
 ---
-Outspoken Herald rock critic, 54, loses battle with cancer  
+####Outspoken Herald rock critic, 54, loses battle with cancer  
   
-Calgary Herald / Tuesday, September 19, 2006 / by Heath McCoy  
 You never knew quite what you'd stumble upon when paying a visit to James Muretich.  
 When word spread last April that the mercurial Calgary rock critic was terminally ill, stricken with a brain tumour, people around the city were stung by the news.  
 Always a boisterous, extroverted soul, Muretich had kept an unusually low profile in recent years -- certainly since his fast and furious days as the Calgary Herald's rock reporter throughout the 1980s and '90s -- and many of his friends had not seen him for a long while. But so many wanted to reach out to the man.  

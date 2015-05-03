@@ -1,11 +1,9 @@
 ---
 title: 54-40 thrives on new blood
-article_author:
-article_publication:
-article_date:
+article_author: steve newton
+article_publication: georgia straight
+article_date: october 20, 2005
 ---
-Georgia Straight / October 20, 2005 / by Steve Newton  
-  
 During Dave Genn's last year of high school, U2's The Joshua Tree, the Cure's The Head on the Door, and the Smiths' The Queen Is Dead were discs that drew heavy rotation on his personal play list. And right up there was the self-titled major-label debut by local guitar-rock upstarts 54-40. In 1988, a year after he graduated, Genn saw his first 54-40 concert at the Commodore Ballroom and was totally blown away. So it's pretty damn cool that he'll be making his first Vancouver appearance as the venerable quartet's new lead guitarist at the Commodore on Friday (October 21). "I was a huge fan of the band," recalls Genn from an Ottawa tour stop, "particularly in their earlier alternative phase-back when alternative meant something besides 'I'm from Seattle.' And being a young musician in Vancouver, they were the band that you looked up to, that you aspired to have a career like. They followed their own rules, and weren't playing music that was like the status quo."  
   
 Exactly one week after the Commodore show, the hairs on the back of Genn's neck will get another reason to quiver when 54&bull;40 opens for the Rolling Stones at the Saddledome in Calgary. You could say things are going okay for the affable picker, whose first actual run-in with a 54&bull;40 member occurred one day in the early '90s. "These guys would put together hockey games in the winter and softball games in the summer," he recalls, "and all us musicians would get together at a field or hockey rink and act like we were jocks. And that's when I first met the band, when Matt Johnson, the drummer, tripped me up for a penalty shot."  

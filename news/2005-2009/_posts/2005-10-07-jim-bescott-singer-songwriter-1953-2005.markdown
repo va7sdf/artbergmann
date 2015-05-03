@@ -1,12 +1,10 @@
 ---
 title: jim bescott, singer-songwriter, 1953-2005
-article_author:
-article_publication:
-article_date:
+article_author: tom hawthorn
+article_publication: the globe and mail
+article_date: october 7, 2005
 ---
-Art student and filmmaker turned bass player was a founding member of Vancouver's new-wave K-Tels  
-  
-The Globe And Mail / Friday, October 7, 2005 / by Tom Hawthorn  
+####Art student and filmmaker turned bass player was a founding member of Vancouver's new-wave K-Tels  
   
 VICTORIA -- The bassist Jim Bescott was a founding member of the K- Tels, a seminal new wave trio from Vancouver. In late 1978, Mr. Bescott approached guitarist Art Bergmann of suburban Surrey about forming a punk group. Mr. Bergmann had been in a band called the Shmorgs, which included future MLA David Mitchell, now a vice-president at the University of Ottawa.  
   

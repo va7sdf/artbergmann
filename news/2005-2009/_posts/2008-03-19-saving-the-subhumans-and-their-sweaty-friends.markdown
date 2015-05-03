@@ -1,14 +1,10 @@
 ---
 title: saving the subhumans and their sweaty friends
-article_author:
-article_publication:
-article_date:
+article_author: tom hawthorn
+article_publication: the globe and mail
+article_date: march 19, 2008
 ---
-By Tom Hawthorn  
-  
-Special to The Globe and Mail  
-  
-March 19, 2008  
+####Special to The Globe and Mail  
   
 Musicians scrawled set lists on scrap paper.  
   

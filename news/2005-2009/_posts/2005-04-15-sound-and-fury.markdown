@@ -1,14 +1,10 @@
 ---
 title: sound and fury
-article_author:
-article_publication:
-article_date:
+article_author: Greg Buium
+article_publication: www.cbc.ca/arts/music/soundandfury.html
+article_date: April 15, 2005
 ---
-Reliving Vancouver&rsquo;s punk explosion  
-  
-By Greg Buium / www.cbc.ca/arts/music/soundandfury.html  
-  
-April 15, 2005  
+####Reliving Vancouver's punk explosion  
   
 When Joe Keithley &ndash; aka Joey Shithead, longtime leader of DOA, founder of Sudden Death Records and arguably the father of Canadian punk rock &ndash; reissued Vancouver Complication, a CD anthology of his hometown's musical underground earlier this year, it might have seemed a bizarre bit of business. Had anyone really been looking for an album with 15 obscure, obsolete or superannuated British Columbia bands from the late-1970s? Was anyone hankering for a record that when it was first released in 1979 never appeared on the radio, never went beyond 4,000 pressings and after all these years seemed more a memory than a concrete musical document?  
   
@@ -18,11 +14,11 @@ But it's more than just a time capsule, this compilation that's often called one
   
 "People would say, 'Oh my god, these guys are so weird,' because it was new and it threatened the mainstream," Keithley explained recently in a telephone interview from his Burnaby home. "That's what the record was all about: we weren't in with the music biz at all. We were out in the boonies and there was no chance in hell we were going to get a record contract from anybody &ndash; so we just created our own thing."  
   
-Sure, other Canadian cities had their punks, but no one matched Vancouver's stylistic range. Just listen as Complication bounds joyously from one subgenre to the next: there&rsquo;s pure punk (DOA, Subhumans), catchy pop (Pointed Sticks, K-Tels), new wave (Exxotone), crazy electronica ({e}), even schoolboy sleaze (Rude Norton).  
+Sure, other Canadian cities had their punks, but no one matched Vancouver's stylistic range. Just listen as Complication bounds joyously from one subgenre to the next: there's pure punk (DOA, Subhumans), catchy pop (Pointed Sticks, K-Tels), new wave (Exxotone), crazy electronica ({e}), even schoolboy sleaze (Rude Norton).  
   
 The weirdest group, U-J3RK5 &ndash; pronounced "you jerk"; the 5 was silent &ndash; sounded like a cross between Devo and Cheech and Chong and provided Complication with some of its most famous alumni, including future CBC radio announcer David Wisdom and three of the most prominent visual artists of their generation: Ian Wallace, Rodney Graham and Jeff Wall.  
   
-"It was an incredibly eclectic, advanced scene," Steve Macklam, Complication&rsquo;s original producer, remembers. "I knew something was going on at a street level, but was able to look at it all as a bit of an outsider, because I wasn't as hormonally into it."  
+"It was an incredibly eclectic, advanced scene," Steve Macklam, Complication's original producer, remembers. "I knew something was going on at a street level, but was able to look at it all as a bit of an outsider, because I wasn't as hormonally into it."  
   
 Macklam, then in his late-20s &mdash; compared to the assorted teens and early-20-somethings around him &mdash; would later prove his musical prescience: he's now one of the most successful Canadian managers in history, with a client list that includes Norah Jones, Diana Krall, Elvis Costello and Joni Mitchell.  
   
