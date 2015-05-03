@@ -1,13 +1,9 @@
 ---
 title: vancouver's punk scene, then and now
 article_author: marsha lederman
-article_publication: globe and mail
-article_date:
+article_publication: the globe and mail
+article_date: may 6, 2010
 ---
-Vancouver's Punk Scene, Then and Now  
-  
-May 6, 2010 / Globe and Mail / Marsha Lederman  
-  
 It's July 1, 1978, and a baby-faced Joe (Joey Shithead) Keithley, in Stanley Park to play an anti-Canada Day concert, is bemoaning the popularity of disco and Fleetwood Mac &ndash; just as the police arrive to shut down his alternative event. So opens Bloodied But Unbowed: an examination of Vancouver's late-1970s/early-1980s punk scene.  
   
 Fast-forward more than three decades, and there's Keithley again, in the opening shot of the film No Fun City, still expressing concerns about the state of the music scene in Vancouver. This time, he's on about a lack of venues.  

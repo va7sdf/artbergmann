@@ -1,11 +1,9 @@
 ---
 title: film gives vancouver punks their due
-article_author:
-article_publication:
-article_date:
+article_author: michael kissinger
+article_publication: vancouver courier
+article_date: may 5, 2010
 ---
-May 5, 2010 / Vancouver Courier / by Michael Kissinger  
-  
 When Bloodied But Unbowed premieres next week at the DOXA documentary festival, there will arguably be no one more nervous and anxious than the film's writer and director, Susanne Tabata. Not that she has reason to be. Bloodied But Unbowed is easily the most definitive and entertaining retrospective on Vancouver's punk scene in the late '70s and early '80s committed to film. But, as Tabata is keenly aware, when you're dealing with something as dear to people's booze-soaked hearts and blood-sweat-and-tear-stained memories, there's an immense sense of responsibility that goes along with telling its rough and tumble story.  
   
 "There's a huge pressure," Tabata says. "Jim Cummins, I, Braineater, the great artist and visual innovator of the punk scene, said that it's like you're dealing with a gang of pirates. And you're going to walk the plank if you get it wrong."  
