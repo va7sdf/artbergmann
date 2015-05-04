@@ -7,6 +7,10 @@ title: "DEBUG: lyrics"
 	<div class="column-group">
 		<div class="all-auto">
 			<div class="lyrics monospace small">
+				<div class="ink-alert basic" role="alert">
+					<button class="ink-dismiss">&times;</button>
+					<p><b>Warning:</b> This page is for internal use only. Will not be displayed on live site.</p>
+				</div>
 				<table class="ink-table">
 					<thead>
 						<tr>
@@ -29,3 +33,9 @@ title: "DEBUG: lyrics"
 		</div>
 	</div>
 </div>
+<script>
+    // Not needed if you have autoload.js!
+    Ink.requireModules(['Ink.UI.Close_1'], function (Close) {
+		new Close();  // Now the "x" buttons work!
+	});
+</script>

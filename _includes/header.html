@@ -24,6 +24,19 @@
 				<div class="xlarge-70 large-70 hide-medium hide-small hide-tiny">
 					<nav class="ink-navigation">
 						<ul class="menu horizontal black push-right">
+							{% if site.debug %}
+								<li>
+									<a href="#" title="Album">Debug <i class="fa fa-chevron-down"></i></a>
+									<ul class="submenu">
+										<li>
+											<a href="{{ site.baseurl }}/news/debug.html" title="News Article Debugging">News</a>
+										</li>
+										<li>
+											<a href="{{ site.baseurl }}/lyrics/debug.html" title="Album Lyrics Debugging">Lyrics</a>
+										</li>
+									</ul>
+								</li>
+							{% endif %}
 							<li class="hide-all">
 								<a href="{{ site.baseurl }}/#" title="Tour">Tour</a>
 							</li>
@@ -41,7 +54,6 @@
 									</li>
 								</ul>
 							</li>
-							<li>
 							<li>
 								<a href="#" title="Gallery">Gallery <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
