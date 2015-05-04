@@ -1,5 +1,6 @@
 ---
-title: young canadians - no escape compilation
+artist: young canadians
+title: no escape compilation
 slug: no_escape
 ---
 (SDR 0062)  

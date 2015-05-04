@@ -1,5 +1,6 @@
 ---
-title: art bergmann - design flaw
+artist: art bergmann
+title: design flaw
 slug: design_flaw
 ---
 Art Bergmann: vocals, 6 and 12 string guitars<br />

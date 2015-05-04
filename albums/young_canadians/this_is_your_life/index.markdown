@@ -1,5 +1,6 @@
 ---
-title: young canadians - this is your life
+artist: young canadians
+title: this is your life
 slug: this_is_your_life
 ---
 This Is Your Life 12" EP (QEP 1205)  

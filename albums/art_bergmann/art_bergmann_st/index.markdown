@@ -1,5 +1,6 @@
 ---
-title: art bergmann - self titled
+artist: art bergmann
+title: self titled
 slug: art_bergmann_st
 ---
 Art Bergmann: guitars and vocals<br />

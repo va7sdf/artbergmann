@@ -1,5 +1,6 @@
 ---
-title: art bergmann - vultura freeway
+artist: art bergmann
+title: vultura freeway
 slug: vultura_freeway
 ---
 Art Bergmann: vocals, guitar<br />

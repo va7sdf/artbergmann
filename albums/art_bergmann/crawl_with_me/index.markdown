@@ -1,5 +1,6 @@
 ---
-title: art bergmann - crawl with me
+artist: art bergmann
+title: crawl with me
 slug: crawl_with_me
 ---
 Art Bergmann: vocals, guitar<br />

@@ -1,5 +1,6 @@
 ---
-title: poisoned - poisoned cassette
+artist: poisoned
+title: poisoned cassette
 slug: poisoned_st_mc
 ---
 ~ a four-song limited edition cassette ~  

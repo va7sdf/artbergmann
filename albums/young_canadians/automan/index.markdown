@@ -1,5 +1,6 @@
 ---
-title: young canadians - automan
+artist: young canadians
+title: automan
 slug: automan
 ---
 Automan 7" EP (no catalog #)  

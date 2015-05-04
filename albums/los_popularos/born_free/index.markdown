@@ -1,5 +1,6 @@
 ---
-title: los popularos - born free
+artist: los popularos
+title: born free
 slug: born_free
 ---
 Get Out of Your House (Bergmann/Gord Nicholl/Bill Scherk)  

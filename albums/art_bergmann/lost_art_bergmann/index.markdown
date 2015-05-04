@@ -1,5 +1,6 @@
 ---
-title: art bergmann - lost art bergmann
+artist: art bergmann
+title: lost art bergmann
 slug: lost_art_bergmann
 ---
 ~ 1986 demo recording ~  

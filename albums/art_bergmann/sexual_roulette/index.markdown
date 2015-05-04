@@ -1,5 +1,6 @@
 ---
-title: art bergmann - sexual roulette
+artist: art bergmann
+title: sexual roulette
 slug: sexual_roulette
 ---
 Art Bergmann: vocals, guitars<br />

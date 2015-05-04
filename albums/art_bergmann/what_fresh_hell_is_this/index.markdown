@@ -1,5 +1,6 @@
 ---
-title: art bergmann - what fresh hell is this?
+artist: art bergmann
+title: what fresh hell is this?
 slug: what_fresh_hell_is_this
 ---
 Art Bergmann: guitars, vocals<br />

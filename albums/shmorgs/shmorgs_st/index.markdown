@@ -1,5 +1,6 @@
 ---
-title: shmorgs - shmorgs
+artist: shmorgs
+title: shmorgs
 slug: shmorgs_st
 ---
 Art Bergmann: vocals, guitar  

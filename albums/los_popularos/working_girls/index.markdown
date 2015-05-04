@@ -1,5 +1,6 @@
 ---
-title: los popularos - working girls
+artist: los popularos
+title: working girls
 slug: working_girls
 ---
 45 rpm single  

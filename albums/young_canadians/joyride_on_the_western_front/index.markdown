@@ -1,5 +1,6 @@
 ---
-title: young canadians - joyride on the western front
+artist: young canadians
+title: joyride on the western front
 slug: joyride_on_the_western_front
 ---
 (WNR 006 2M)  

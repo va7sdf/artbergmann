@@ -1,5 +1,6 @@
 ---
-title: poisoned - poisoned ep
+artist: poisoned
+title: poisoned ep
 slug: poisoned_st_ep
 ---
   

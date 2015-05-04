@@ -1,5 +1,6 @@
 ---
-title: young canadians - hawaii
+artist: young canadians
+title: hawaii
 slug: hawaii
 ---
 Hawaii 12" EP (QEP 1201)  
