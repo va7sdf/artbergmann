@@ -1,6 +1,6 @@
 html, body {
 	height: 100%;
-	background-color: #fdefc5;
+	background-color: #E4E2E5;
 }
 
 /* START VIDEO PAGE STYLES */
@@ -42,8 +42,8 @@ html, body {
 	margin-top: 0;
 }
 footer {
-	background: #050405;
-	border-bottom: 10px #AF6725 solid;
+	background: #261D22;
+	border-bottom: 10px #563D35 solid;
 }
 #banner {
 	margin-top: 45px;
@@ -55,8 +55,8 @@ footer {
 	-webkit-transform: scale3d(1, 1, 1);
 	*zoom: 1;
 	top: 0px;
-	background-color: #050405;
-	border-top: 5px #AF6725 solid;
+	background-color: #261D22;
+	border-top: 5px #563D35 solid;
 }
 #topbar:after {
 	content: "";
@@ -68,18 +68,20 @@ footer {
 }
 #topbar .ink-navigation ul.black li {
 	font-size: 14px;
-	background-color: #050405;
+	background-color: #261D22;
+	border: 0px;
 }
 #topbar .ink-navigation ul.black li a {
 	padding: .7em 1em;
-	color: #F5B716;
+	color: #BB9911;
 	text-transform: uppercase;
 	font-weight: 300;
 	line-height: 36px;
 	*height: auto;
 }
 #topbar .ink-navigation ul.black li a:hover {
-	color: #F5B716;
+	color: #BB9911;
+	background: #9F9D9E;
 }
 #topbar .ink-navigation ul.black li button.fa-bars span.label {
 	padding: .7em .3em;
@@ -89,7 +91,7 @@ footer {
 #topbar .ink-navigation ul.black li button.fa-bars {
 	background: 0 0;
 	font-size: 1.5em;
-	color: #F5B716;
+	color: #BB9911;
 	border: 0;
 	padding: .8em .8em .8em 0;
 	float: left
@@ -132,7 +134,7 @@ body.ink-drawer .right-drawer li.heading {
 body.ink-drawer .right-drawer li>a {
 	display: block;
 	padding: 6px 15px;
-	color: #F5B716;
+	color: #BB9911;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: .875em
