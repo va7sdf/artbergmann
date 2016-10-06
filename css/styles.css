@@ -55,7 +55,7 @@ footer {
 	-webkit-transform: scale3d(1, 1, 1);
 	*zoom: 1;
 	top: 0px;
-	background-color: #261D22;
+	background-color: #1A1A1A;
 	border-top: 5px #563D35 solid;
 }
 #topbar:after {
@@ -68,20 +68,20 @@ footer {
 }
 #topbar .ink-navigation ul.black li {
 	font-size: 14px;
-	background-color: #261D22;
+	#background-color: #261D22;
 	border: 0px;
 }
 #topbar .ink-navigation ul.black li a {
 	padding: .7em 1em;
-	color: #BB9911;
+	#color: #BB9911;
 	text-transform: uppercase;
 	font-weight: 300;
 	line-height: 36px;
 	*height: auto;
 }
 #topbar .ink-navigation ul.black li a:hover {
-	color: #BB9911;
-	background: #9F9D9E;
+	#color: #BB9911;
+	#background: #9F9D9E;
 }
 #topbar .ink-navigation ul.black li button.fa-bars span.label {
 	padding: .7em .3em;
@@ -91,7 +91,7 @@ footer {
 #topbar .ink-navigation ul.black li button.fa-bars {
 	background: 0 0;
 	font-size: 1.5em;
-	color: #BB9911;
+	#color: #BB9911;
 	border: 0;
 	padding: .8em .8em .8em 0;
 	float: left
@@ -103,7 +103,7 @@ footer {
 	outline: 0
 }
 #topbar .ink-navigation ul.black li.active a {
-	color: #fff
+	#color: #fff
 }
 #topbar .ink-navigation:after {
 	content: "";
