@@ -30,7 +30,7 @@ footer {
 	margin-top: 45px;
 }
 
-#topbar {
+.topbar {
 	position: fixed;
 	z-index: 100;
 	width: 100%;
@@ -41,109 +41,69 @@ footer {
 	border-top: 5px $ACCENT solid;
 }
 
-#topbar:after {
+.topbar:after {
 	content: "";
 	display: table;
 	clear: both
 }
 
-#topbar .ink-navigation {
+.ink-navigation {
 	*zoom: 1;
 }
 
-#topbar .ink-navigation ul.black li {
+.ink-navigation ul.black li {
 	font-size: 14px;
 	border: 0px;
 }
 
-#topbar .ink-navigation ul.black li a {
+.topbar .ink-navigation ul.black li a,
+.right-drawer .ink-navigation ul.black li a {
 	padding: .7em 1em;
-	#color: #BB9911;
 	text-transform: uppercase;
 	font-weight: 300;
 	line-height: 36px;
 	*height: auto;
 }
 
-#topbar .ink-navigation ul.black li a:hover {
-	#color: #BB9911;
-	#background: #9F9D9E;
-}
-
-#topbar .ink-navigation ul.black li button.fa-bars span.label {
+.ink-navigation ul.black li button.fa-bars span.label {
 	padding: .7em .3em;
 	font-weight: 300;
 	text-transform: uppercase;
 }
 
-#topbar .ink-navigation ul.black li button.fa-bars {
+.ink-navigation ul.black li button.fa-bars {
 	background: 0 0;
 	font-size: 1.5em;
-	#color: #BB9911;
 	border: 0;
 	padding: .8em .8em .8em 0;
 	float: left
 }
 
-#topbar .ink-navigation ul.black li button.fa-bars:active,
-#topbar .ink-navigation ul.black li button.fa-bars:focus,
-#topbar .ink-navigation ul.black li button.fa-bars:hover {
+.ink-navigation ul.black li button.fa-bars:active,
+.ink-navigation ul.black li button.fa-bars:focus,
+.ink-navigation ul.black li button.fa-bars:hover {
 	color: #fff;
 	outline: 0
 }
 
-#topbar .ink-navigation ul.black li.active a {
+.ink-navigation ul.black li.active a {
 	color: #fff
 }
 
-#topbar .ink-navigation:after {
+.ink-navigation:after {
 	content: "";
 	display: table;
 	clear: both
 }
 
-body.ink-drawer .right-drawer {
+.right-drawer {
 	background: $NAVBACK;
-}
-
-body.ink-drawer .right-drawer ul {
-	margin: 59px 0 0;
-	padding: 0;
-	list-style-type: none
-}
-
-body.ink-drawer .right-drawer li {
-	display: block;
-	margin: 0;
-	font-weight: 300
-}
-
-body.ink-drawer .right-drawer li.heading {
-	border-top: 1px solid rgba(255, 255, 255, .1);
-	color: #f0f0f0;
-	text-transform: uppercase;
-	margin-top: .5em;
-	font-weight: 700;
-	padding: 1em 15px .5em
-}
-
-body.ink-drawer .right-drawer li>a {
-	display: block;
-	padding: 6px 15px;
-	color: #BB9911;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-size: .875em
-}
-
-body.ink-drawer .right-drawer li>a:hover {
-	background: #333;
-	color: #FFF
-}
-
-body.ink-drawer .right-drawer li.active>a {
-	background: #333;
-	color: #FFF
+	ul {
+		margin: 59px 0 0;
+		padding: 0;
+		list-style-type: none;
+		width: 100%;
+	}
 }
 
 /* START VIDEO PAGE STYLES */
