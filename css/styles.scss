@@ -1,0 +1,22 @@
+---
+---
+
+@charset "utf-8";
+
+$ACCENT:						  #563D35;
+$BODYBACK:                        #E4E2E5;
+$FOOTBACK:                        #261D22;
+$NAVBACK:                         #1A1A1A;
+
+@import
+	"album",
+	"article",
+	"default",
+	"lyrics",
+	"page",
+	"period",
+	"post"
+	;
+
+// fix focus issue
+* :focus { outline: 0; }
