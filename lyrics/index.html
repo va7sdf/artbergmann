@@ -3,33 +3,26 @@ layout: page
 title: lyrics
 ---
 {% assign sorted_lyrics = site.categories['albums'] | sort: 'title' %}
-<div class="ink-grid">
-	<div class="column-group push-center">
-		<div class="xlarge-60 large-60 medium-80 small-auto tiny-auto">
-			<div class="lyrics">
-				<h1>lyrics</h1>
-				<table id="lyricsTable" class="ink-table alternating hover" data-page-size="16" data-pagination="#lyricsTablePagination">
-					<thead>
-						<tr>
-							<th class="align-left" data-sortable="true">Song</th>
-							<th class="align-left hide-small hide-tiny" data-sortable="true">Album</th>
-						</tr>
-					</thead>
-					<tbody>
-						{% for post in sorted_lyrics %}
-						<tr>
-							<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
-							<td class="hide-small hide-tiny">{{ post.album}}</td>
-						</tr>
-						{% endfor %}
-					</tbody>
-				</table>
-				<nav class="ink-navigation" id="lyricsTablePagination">
-					<ul class="pagination white"></ul>
-				</nav>
-			</div>
-		</div>
-	</div>
+<div class="lyrics">
+	<table id="lyricsTable" class="ink-table alternating hover" data-page-size="16" data-pagination="#lyricsTablePagination">
+		<thead>
+			<tr>
+				<th class="align-left" data-sortable="true">Song</th>
+				<th class="align-left hide-small hide-tiny" data-sortable="true">Album</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for post in sorted_lyrics %}
+			<tr>
+				<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
+				<td class="hide-small hide-tiny">{{ post.album}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	<nav class="ink-navigation" id="lyricsTablePagination">
+		<ul class="pagination white"></ul>
+	</nav>
 </div>
 <script>
 	Ink.requireModules( ['Ink.Dom.Selector_1','Ink.UI.Table_1'], function( Selector, Table ){
