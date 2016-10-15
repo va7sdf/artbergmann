@@ -59,6 +59,18 @@
 		});
 	</script>
 
+	<script type="text/javascript">
+		(function() {
+			var path = '//easy.myfonts.net/v2/js?sid=208838(font-family=Adequate+Bold)&sid=208840(font-family=Adequate+ExtraLight)&sid=208844(font-family=Adequate)&sid=208847(font-family=Adequate+Medium)&key=wAnQYZBvKH',
+				protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
+				trial = document.createElement('script');
+			trial.type = 'text/javascript';
+			trial.async = true;
+			trial.src = protocol + path;
+			var head = document.getElementsByTagName("head")[0];
+			head.appendChild(trial);
+		})();
+	</script>
 	<!-- JavaScript -->
 	<script type="text/javascript" src="http://fastly.ink.sapo.pt/{{ site.ink }}/js/ink-all.min.js"></script>
 </head>

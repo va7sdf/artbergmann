@@ -26,6 +26,12 @@ footer {
 	margin-top: 0;
 }
 
+h1,h2,h3,h4,h5 {
+	font-family: 'Adequate ExtraLight';
+	text-transform: uppercase;
+	font-weight: normal;
+}
+
 #banner {
 	margin-top: 53px;
 	#bind {
@@ -66,13 +72,31 @@ footer {
 	*zoom: 1;
 }
 
+.sitetitle {
+	font-family: 'Adequate ExtraLight';
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+}
+
+a.largetitle {
+	@extend .sitetitle;
+	font-size: 36px;
+}
+a.smalltitle {
+	@extend .sitetitle;
+	font-size: 18px;
+}
+
 .ink-navigation ul.black li {
-	font-size: 14px;
+	font-size: 12px;
 	border: 0px;
 }
 
 .topbar .ink-navigation ul.black li a,
 .right-drawer .ink-navigation ul.black li a {
+	font-family: 'Adequate';
+	letter-spacing: .12em;
 	padding: .7em 1em;
 	text-transform: uppercase;
 	font-weight: 300;
