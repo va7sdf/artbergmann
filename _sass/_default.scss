@@ -89,7 +89,7 @@ a.largetitle {
 }
 a.smalltitle {
 	@extend .sitetitle;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .ink-navigation ul.black li {
@@ -109,9 +109,13 @@ a.smalltitle {
 }
 
 .ink-navigation ul.black li button.fa-bars span.label {
+	font-family: 'Adequate ExtraLight';
+	letter-spacing: .12em;
+	font-size: 16px;
 	padding: .7em .3em;
 	font-weight: 300;
 	text-transform: uppercase;
+	color: #fff;
 }
 
 .ink-navigation ul.black li button.fa-bars {
@@ -119,14 +123,9 @@ a.smalltitle {
 	font-size: 1.5em;
 	border: 0;
 	padding: .8em .8em .8em 0;
-	float: left
-}
-
-.ink-navigation ul.black li button.fa-bars:active,
-.ink-navigation ul.black li button.fa-bars:focus,
-.ink-navigation ul.black li button.fa-bars:hover {
+	float: left;
 	color: #fff;
-	outline: 0
+	outline: 0;
 }
 
 .ink-navigation ul.black li.active a {
