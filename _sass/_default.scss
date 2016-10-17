@@ -53,6 +53,16 @@ h1,h2,h3,h4,h5 {
 			font-size: .66em;
 			color: #1a1a1a;
 		}
+		#feature {
+			position: absolute;
+			right: 10%;
+			bottom: 12.5%;
+			width: 25%;
+			height: 75%;
+			display: block;
+			background-color: #fff;
+			border: 10px solid #fff;
+		}
 	}
 }
 
