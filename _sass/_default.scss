@@ -31,10 +31,48 @@ footer {
 	margin-top: 0;
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3 {
 	font-family: 'Adequate ExtraLight';
 	text-transform: uppercase;
 	font-weight: normal;
+	color: #1a1a1a;
+}
+
+.home-news {
+	.fw-400 {
+		margin-bottom: 0;
+		margin-top: 0;
+		text-transform: uppercase;
+	}
+	a {
+		text-decoration: none;
+		color: #1a1a1a;
+	}
+	img {
+		padding-top: 6px;
+	}
+	time {
+		font-style: italic;
+	}
+}
+
+.home-shows {
+	font-size: .85em;
+	.showdate {
+		width: 30%;
+		display: inline-block;
+	}
+	.showmunicipality {
+		text-transform: uppercase;
+		width: 40%;
+		display: inline-block;
+		font-size: 1.2em;
+	}
+	.showlocation {
+		width: 30%;
+		display: inline-block;
+		font-style: italic;
+	}
 }
 
 #banner {
@@ -55,13 +93,27 @@ h1,h2,h3,h4,h5 {
 		}
 		#feature {
 			position: absolute;
-			right: 10%;
-			bottom: 12.5%;
-			width: 25%;
-			height: 75%;
+			right: 17%;
+			bottom: 25%;
+			width: 21%;
 			display: block;
-			background-color: #fff;
-			border: 10px solid #fff;
+			background: rgba(175, 173, 174, 0.4);
+			padding: 1vw;
+			.title {
+				width: 100%;
+				font-size: 2vw;
+				font-weight: 900;
+				text-align: center;
+				background-color: #E4E2E5;
+			}
+			.topic {
+				width: 100%;
+				font-size: 1vw;
+				font-weight: 400;
+				text-align: center;
+				background-color: #E4E2E5;
+				padding: 0 1em 0 1em;
+			}
 		}
 	}
 }
@@ -110,7 +162,7 @@ a.smalltitle {
 
 .right-drawer .ink-navigation ul.black li.heading {
 	color: #fff;
-	font-family: 'Adequate';
+	font-family: 'Adequate ExtraLight';
 	letter-spacing: .12em;
 	padding: .7em 1em;
 	text-transform: uppercase;
@@ -122,7 +174,7 @@ a.smalltitle {
 
 .topbar .ink-navigation ul.black li a,
 .right-drawer .ink-navigation ul.black li a {
-	font-family: 'Adequate';
+	font-family: 'Adequate ExtraLight';
 	letter-spacing: .12em;
 	padding: .7em 1em;
 	text-transform: uppercase;
