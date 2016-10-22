@@ -1,7 +1,7 @@
 // default.scss
 
 // FOOTER: controls the height of the 'sticky' footer
-$FOOTER:                        184px;
+$FOOTER:                        140px;
 
 html, body {
 	height: 100%;
@@ -18,6 +18,33 @@ html, body {
 
 footer {
 	background: $FOOTBACK;
+	color: #fff;
+	a {
+		text-decoration: none;
+		i {
+			color: #fff;
+		}
+	}
+	.information {
+		height: $FOOTER - 30px;
+	}
+	.copyright {
+		background: $NAVBACK;
+		color: #fff;
+		font-family: 'Adequate ExtraLight';
+		height: 30px;
+		line-height: 30px;
+		text-transform: uppercase;
+		font-size: 1.3vh;
+		text-align: center;
+	}
+	input {
+		text-align: center;
+	}
+	img {
+		height: auto;
+		max-width: 100%;
+	}
 }
 
 /* Show MyFonts dialogue above top bar */

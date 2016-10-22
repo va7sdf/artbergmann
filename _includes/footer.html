@@ -2,29 +2,33 @@
 </div>
 <footer id="footer" class="clearfix">
 	<div class="ink-grid">
-		<div class="column-group quarter-vertical-padding">
-			<div class="all-25 medium-33 small-50 tiny-50 push-middle">
-				<img src="{{ site.baseurl }}/img/footer_l.png">
+		<div class="information column-group quarter-vertical-padding">
+			<div class="all-33 small-100 tiny-100 push-middle align-center small-order-2 tiny-order-2">
+				<a href="https://twitter.com/ArtBergmann" target="_blank"><i class="fa fa-2x fa-twitter fa-fw"></i></a>
+				<a href="https://www.facebook.com/Art-Bergmann-1419077358314563/" target="_blank"><i class="fa fa-2x fa-facebook fa-fw"></i></a>
+				<a href="https://www.youtube.com/channel/UCIAtFTNW7MgE-l_XwIa9S9w" target="_blank"><i class="fa fa-2x fa-youtube-play fa-fw"></i></a>
+				<a href="https://www.instagram.com/artbergmann/" target="_blank"><i class="fa fa-2x fa-instagram fa-fw"></i></a>
 			</div>
-			<div class="all-25 medium-33 small-50 tiny-50 push-middle">
-				<span style="color: #563D35">
-				<i class="fa fa-twitter fa-fw"></i> @ArtBergmann<br>
-				<i class="fa fa-facebook fa-fw"></i> Facebook<br>
-				<i class="fa fa-google-plus fa-fw"></i> Google+<br>
-				<i class="fa fa-youtube fa-fw"></i> YouTube<br>
-				<i class="fa fa-instagram fa-fw"></i> Instagram<br>
-				</span>
+			<div class="all-33 small-100 tiny-100 push-middle small-order-1 tiny-order-1">
+				<form class="ink-form">
+					<div class="control-group" style="display: block; text-align: center">
+						<label for="email">Sign Up For Email Updates</label>
+						<div class="control">
+							<input id="email" name="email" type="text" placeholder="email address">
+						</div>
+					</div>
+				</form>
 			</div>
-			<div class="all-25 medium-33 hide-small hide-tiny push-middle">
-				<span style="color: #563D35">
-				<i class="fa fa-quote-left fa-3x pull-left"></i>
-				<span class="small">i'd rather straddle this razor blade than sit on that fence</span>
-				</span>
-			</div>
-			<div class="all-25 hide-medium hide-small hide-tiny push-middle">
-				<img class="push-right" src="{{ site.baseurl }}/img/footer_r.png">
+			<div class="all-33 small-100 tiny-100 push-middle align-center small-order-2 tiny-order-2">
+				<img src="img/weewerk.png">&nbsp;<img src="img/nettwerk.png">
 			</div>
 		</div>
+	</div>
+	<div class="copyright show-xlarge show-large show-medium hide-all">
+		Copyright &#169; {{ 'now' | date: "%Y" }} Art Bergmann
+	</div>
+	<div class="copyright hide-xlarge hide-large hide-medium show-all">
+		&#169; {{ 'now' | date: "%Y" }} Art Bergmann
 	</div>
 </footer>
 <script>
