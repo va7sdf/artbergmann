@@ -3,6 +3,10 @@
 // FOOTER: controls the height of the 'sticky' footer
 $FOOTER:                        140px;
 
+.indent {
+	text-indent: 2em;
+}
+
 html, body {
 	height: 100%;
 	background-color: $BODYBACK;
