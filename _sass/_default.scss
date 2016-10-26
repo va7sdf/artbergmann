@@ -51,12 +51,6 @@ footer {
 	}
 }
 
-/* Show MyFonts dialogue above top bar */
-#mfPreviewBar,#mfPreviewBarShow {
-	position: fixed !important;
-	z-index: 999;
-}
-
 .push, footer {
 	height: $FOOTER;
 	margin-top: 0;
