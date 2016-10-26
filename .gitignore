@@ -1,6 +1,11 @@
 .jekyll-metadata
-_site/
 .sass-cache/
+
+_site/
+
+fonts/
+css/font.css
+
 *.swp
 *.swo
 *.bak
