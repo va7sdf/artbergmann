@@ -51,3 +51,7 @@ defaults:
       type: "pages"
     values:
       layout: "period"
+
+collections:
+  videos:
+    permalink: /:videos/

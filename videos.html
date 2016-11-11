@@ -1,0 +1,19 @@
+---
+layout: page
+title: videos
+---
+{% for group in site.videos %}
+	<h3>{{ group.name }}</h3>
+
+	{% for video in group.youtube-videos %}
+		{% assign mod = forloop.index0 | modulo:3 %}
+		{% if mod == 0 %}<div class="videos column-group gutters">{% endif %}
+		<div class="xlarge-33 large-33 medium-50 small-100 tiny-100">
+			<div class="video-container">
+				<iframe src="https://www.youtube.com/embed/{{ video.id }}" frameborder="0" allowfullscreen></iframe>
+			</div>
+			<p class="medium">{{ video.title }}</p>
+		</div>
+		{% if mod == 2 or forloop.last == true %}</div>{% endif %}
+	{% endfor %}
+{% endfor %}
