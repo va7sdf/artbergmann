@@ -2,7 +2,7 @@
 layout: page
 title: the man who would be art
 ---
-By Chris Walter
+<div class="credits medium bottom-padding">By Chris Walter</div>
 
 THE GOOD doctor was beginning to lose his patience. He rested his elbows on his desk and formed a tipi with his fingers. Unlike most of the psychological profiles he did for the police department, this one was straight out of left field.
 
