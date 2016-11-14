@@ -1,22 +1,35 @@
 ---
-layout: default
+layout: page
 ---
-<div class="ink-grid">
-	<div class="column-group push-center">
-		<div class="xlarge-60 large-60 medium-80 small-auto tiny-auto">
-			<div class="period">
-
-				<h1 class="period-title">{{ page.title }}</h1>
-
-				{% if site.categories[page.title] %}
-				{% assign sorted_articles = site.categories[page.title] | sort: 'title' %}
-					<article class="period-content">
-						{% for post in sorted_articles %}
-							<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a><br />
-						{% endfor %}
-					</article>
-				{% endif %}
-			</div>
-		</div>
-	</div>
+{% if site.categories[page.title] %}
+{% assign sorted_articles = site.categories[page.title] | sort: 'title' %}
+<div class="period">
+	<table id="newsTable" class="ink-table alternating hover" data-page-size="16" data-pagination="#newsTablePagination">
+		<thead>
+			<tr>
+				<th class="align-left medium" data-sortable="true">Title</th>
+				<th class="align-left hide-small hide-tiny medium" data-sortable="true">Author</th>
+				<th class="align-left hide-small hide-tiny medium" data-sortable="true">Publication</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for post in sorted_articles %}
+			<tr>
+				<td class="medium"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
+				<td class="hide-small hide-tiny medium">{{ post.article_author}}</td>
+				<td class="hide-small hide-tiny medium">{{ post.article_publication}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	<nav class="ink-navigation {% unless sorted_articles.size > 16 %}hide-all{% endunless %}" id="newsTablePagination">
+		<ul class="pagination white"></ul>
+	</nav>
 </div>
+<script>
+	Ink.requireModules( ['Ink.Dom.Selector_1','Ink.UI.Table_1'], function( Selector, Table ){
+		var tableElement = Ink.s('#newsTable');
+		var tableObj = new Table( tableElement );
+	});
+</script>
+{% endif %}
