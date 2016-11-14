@@ -1,3 +1,3 @@
 ---
-title: news
+title: press
 ---
