@@ -39,7 +39,7 @@
 								</li>
 							{% endif %}
 							<li>
-								<a href="{{ site.baseurl }}/#">News</a>
+								<a href="{{ site.baseurl }}/updates/">Updates</a>
 							</li>
 							<li>
 								<a href="{{ site.baseurl }}/#">Shows</a>
@@ -51,7 +51,7 @@
 								<a href="#">Albums <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/albums/">Catalog</a>
+										<a href="{{ site.baseurl }}/albums/">Catalogue</a>
 									</li>
 									<li>
 										<a href="{{ site.baseurl }}/lyrics/">Lyrics</a>
@@ -73,18 +73,18 @@
 								<a href="#">Archives <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/news/">News</a>
+										<a href="{{ site.baseurl }}/press/">Press</a>
 										<ul class="submenu flyout right">
 											{% assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020|undated" | split: "|" %}
 											{% for item in items %}
 												{% if site.categories[item] %}
-													<li><a href="{{ site.baseurl }}/news/{{ item }}">{{ item }}</a></li>
+													<li><a href="{{ site.baseurl }}/press/{{ item }}">{{ item }}</a></li>
 												{% endif %}
 											{% endfor %}
 										</ul>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/concerts/">Concerts</a>
+										<a href="{{ site.baseurl }}/shows/">shows</a>
 									</li>
 								</ul>
 							</li>
@@ -126,7 +126,7 @@
 	<nav class="ink-navigation">
 		<ul class="menu vertical black push-left">
 			<li>
-				<a href="{{ site.baseurl }}/#">News</a>
+				<a href="{{ site.baseurl }}/updates/">Updates</a>
 			</li>
 			<li>
 				<a href="{{ site.baseurl }}/#">Shows</a>
@@ -139,7 +139,7 @@
 			</li>
 			<li class="heading separator-above">Albums</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/albums/">Catalog</a>
+				<a class="submenu" href="{{ site.baseurl }}/albums/">Catalogue</a>
 			</li>
 			<li>
 				<a class="submenu" href="{{ site.baseurl }}/lyrics/">Lyrics</a>
@@ -153,10 +153,10 @@
 			</li>
 			<li class="heading separator-above">Archives</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/news/">News</a>
+				<a class="submenu" href="{{ site.baseurl }}/press/">Press</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/concerts/">Concerts</a>
+				<a class="submenu" href="{{ site.baseurl }}/shows/">Shows</a>
 			</li>
 			<li class="heading separator-above">About</li>
 			<li>
