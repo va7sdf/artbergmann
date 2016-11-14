@@ -4,7 +4,7 @@ layout: page
 {% if site.categories[page.title] %}
 {% assign sorted_articles = site.categories[page.title] | sort: 'title' %}
 <div class="period">
-	<table id="newsTable" class="ink-table alternating hover" data-page-size="16" data-pagination="#newsTablePagination">
+	<table id="pressTable" class="ink-table alternating hover" data-page-size="16" data-pagination="#pressTablePagination">
 		<thead>
 			<tr>
 				<th class="align-left medium" data-sortable="true">Title</th>
@@ -22,13 +22,13 @@ layout: page
 			{% endfor %}
 		</tbody>
 	</table>
-	<nav class="ink-navigation {% unless sorted_articles.size > 16 %}hide-all{% endunless %}" id="newsTablePagination">
+	<nav class="ink-navigation {% unless sorted_articles.size > 16 %}hide-all{% endunless %}" id="pressTablePagination">
 		<ul class="pagination white"></ul>
 	</nav>
 </div>
 <script>
 	Ink.requireModules( ['Ink.Dom.Selector_1','Ink.UI.Table_1'], function( Selector, Table ){
-		var tableElement = Ink.s('#newsTable');
+		var tableElement = Ink.s('#pressTable');
 		var tableObj = new Table( tableElement );
 	});
 </script>
