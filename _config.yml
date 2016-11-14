@@ -40,14 +40,14 @@ defaults:
       layout: "album"
   -
     scope:
-      path: "news"
+      path: "press"
       type: "posts"
     values:
       layout: "article"
       permalink: /:categories/:title.html
   -
     scope:
-      path: "news"
+      path: "press"
       type: "pages"
     values:
       layout: "period"
