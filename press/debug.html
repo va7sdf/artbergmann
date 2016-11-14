@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "DEBUG: news"
+title: "DEBUG: press"
 ---
-{% assign sorted_news = site.categories['news'] | sort: 'title' %}
+{% assign sorted_press = site.categories['press'] | sort: 'title' %}
 <div class="ink-grid">
 	<div class="column-group">
 		<div class="all-auto">
-			<div class="news monospace small">
+			<div class="press monospace small">
 				<div class="ink-alert basic" role="alert">
 					<button class="ink-dismiss">&times;</button>
 					<p><b>Warning:</b> This page is for internal use only. Will not be displayed on live site.</p>
@@ -22,7 +22,7 @@ title: "DEBUG: news"
 						</tr>
 					</thead>
 					<tbody>
-						{% for post in sorted_news %}
+						{% for post in sorted_press %}
 						<tr>
 							<td>{{ forloop.index }}</td>
 							<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
