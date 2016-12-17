@@ -55,5 +55,4 @@ defaults:
       layout: "period"
 
 collections:
-  videos:
-    permalink: /:videos/
+  - videos
