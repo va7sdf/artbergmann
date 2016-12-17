@@ -3,18 +3,20 @@ ink: "3.1.10"
 
 # Site settings
 title: Art Bergmann
-email: webmaster@artbergmann.rocks
-description: > # this means to ignore newlines until "baseurl:"
-  A fan site dedicated to the music of Art Bergmann.
-#baseurl: "/artbergmann" # the subpath of your site, e.g. /blog/
-url: "http://va7sdf.github.io" # the base hostname & protocol for your site
-twitter_username: va7sdf
-github_username:  va7sdf
+email: webmaster@artbergmann.com
+description: >
+  Official website of Art Bergmann, anti-hero-iconoclast of Canadian music for over 40 years.
+url: "http://va7sdf.github.io"
+baseurl: ""
 
+# Debugging
 debug: false
 
 # Build settings
 markdown: kramdown
+
+# Global post settings
+excerpt_separator: <!--more-->
 
 # Exclude list
 exclude:
