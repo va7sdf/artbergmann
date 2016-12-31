@@ -32,22 +32,28 @@ footer {
 	.information {
 		height: $FOOTER - 30px;
 	}
-	.copyright {
+	.credit-bar {
 		background: $NAVBACK;
 		color: #fff;
 		font-family: 'Adequate-ExtraLight';
 		height: 30px;
 		line-height: 30px;
 		text-transform: uppercase;
-		font-size: 1.3vh;
-		text-align: center;
-	}
-	input {
-		text-align: center;
+		img.credit {
+			max-height: 2.3vh;
+		}
+		div.copyright,
+		div.team-art {
+			a {
+				text-decoration: none;
+				color: #fff;
+			}
+			font-size: 1.3vh;
+		}
 	}
 	img {
-		height: auto;
-		max-width: 100%;
+		vertical-align: middle;
+		max-width: 125px;
 	}
 }
 
@@ -63,7 +69,8 @@ h1,h2,h3 {
 	color: #1a1a1a;
 }
 
-.home-news {
+.update-article,
+.press-article {
 	.fw-400 {
 		margin-bottom: 0;
 		margin-top: 0;
@@ -76,27 +83,27 @@ h1,h2,h3 {
 	img {
 		padding-top: 6px;
 	}
-	time {
-		font-style: italic;
+}
+
+.shows > a,
+.merchandise > a {
+	text-decoration: none;
+	color: inherit;
+	:hover {
+		background-color: $FOOTBACK;
 	}
 }
 
-.home-shows {
-	font-size: .85em;
-	.showdate {
-		width: 30%;
-		display: inline-block;
+.details {
+	margin-top: 0;
+	li {
+		margin-top: 0;
 	}
-	.showmunicipality {
-		text-transform: uppercase;
-		width: 40%;
-		display: inline-block;
-		font-size: 1.2em;
-	}
-	.showlocation {
-		width: 30%;
-		display: inline-block;
-		font-style: italic;
+	li.prices {
+		margin-bottom: 2px !important;
+		span {
+			width: 45%;
+		}
 	}
 }
 

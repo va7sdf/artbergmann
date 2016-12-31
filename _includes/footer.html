@@ -2,8 +2,8 @@
 </div>
 <footer id="footer" class="clearfix">
 	<div class="ink-grid">
-		<div class="information column-group quarter-vertical-padding">
-			<div class="all-33 small-100 tiny-100 push-middle align-center small-order-2 tiny-order-2">
+		<div class="information column-group">
+			<div class="all-33 small-100 tiny-100 push-middle align-left small-align-center tiny-align-center small-order-2 tiny-order-2">
 				<a href="https://twitter.com/ArtBergmann" target="_blank"><i class="fa fa-2x fa-twitter fa-fw"></i></a>
 				<a href="https://www.facebook.com/Art-Bergmann-1419077358314563/" target="_blank"><i class="fa fa-2x fa-facebook fa-fw"></i></a>
 				<a href="https://www.youtube.com/channel/UCIAtFTNW7MgE-l_XwIa9S9w" target="_blank"><i class="fa fa-2x fa-youtube-play fa-fw"></i></a>
@@ -20,16 +20,30 @@
 					</div>
 				</form>
 			</div>
-			<div class="all-33 small-100 tiny-100 push-middle align-center small-order-2 tiny-order-2">
-				<img src="{{ "/img/weewerk.png" | prepend: site.baseurl }}">
+			<div class="all-33 small-100 tiny-100 push-middle align-right small-order-3 tiny-order-3">
+				<a href="http://weewerk.com/" target="_blank"><img src="{{ '/img/weewerk.png' | prepend: site.baseurl }}"></a>
+				<a class="half-left-padding" href="http://www.affta.ab.ca/" target="_blank"><img src="{{ '/img/AFA.gif' | prepend: site.baseurl }}"></a>
 			</div>
 		</div>
 	</div>
-	<div class="copyright show-xlarge show-large show-medium hide-all">
-		Copyright &#169; {{ 'now' | date: "%Y" }} Art Bergmann
-	</div>
-	<div class="copyright hide-xlarge hide-large hide-medium show-all">
-		&#169; {{ 'now' | date: "%Y" }} Art Bergmann
+	<div class="credit-bar">
+		<div class="ink-grid">
+			<div class="column-group">
+				<div class="team-art all-33 push-middle align-left">
+					<a href="/contacts/">Team Art</a>
+				</div>
+				<div class="copyright all-33 push-middle align-center show-xlarge show-large show-medium hide-all">
+					<a href="/">Copyright &#169; {{ 'now' | date: "%Y" }} Art Bergmann</a>
+				</div>
+				<div class="copyright all-33 push-middle align-center hide-xlarge hide-large hide-medium show-all">
+					<a href="/">&#169; {{ 'now' | date: "%Y" }} Art Bergmann</a>
+				</div>
+				<div class="all-33 push-middle align-right">
+					<a class="half-right-padding" href="http://ink.sapo.pt" target="_blank"><img class="credit" src="{{ '/img/made_with_ink.png' | prepend: site.baseurl }}"></a>
+					<a href="https://jekyllrb.com/" target="_blank"><img class="credit" src="{{ '/img/jekyll.png' | prepend: site.baseurl }}"></a>
+				</div>
+			</div>
+		</div>
 	</div>
 </footer>
 <script>
