@@ -1,7 +1,6 @@
-// default.scss
-
-// FOOTER: controls the height of the 'sticky' footer
-$FOOTER:                        140px;
+// default.scss // FOOTER: controls the height of the 'sticky' footer
+$FOOTER:                        120px;
+$FOOTER-SMALL:                  220px;
 
 .indent {
 	text-indent: 2em;
@@ -29,18 +28,29 @@ footer {
 			color: #fff;
 		}
 	}
-	.information {
+	.info-row {
 		height: $FOOTER - 30px;
+		text-align: center;
+		#email {
+			text-align: center;
+		}
 	}
-	.credit-bar {
+
+	img {
+		max-width: 125px;
+		vertical-align: middle;
+	}
+
+	.credit-row {
 		background: $NAVBACK;
 		color: #fff;
 		font-family: 'Adequate-ExtraLight';
 		height: 30px;
 		line-height: 30px;
 		text-transform: uppercase;
+		font-size: 10px;
 		img.credit {
-			max-height: 2.3vh;
+			max-height: 18px;
 		}
 		div.copyright,
 		div.team-art {
@@ -48,18 +58,42 @@ footer {
 				text-decoration: none;
 				color: #fff;
 			}
-			font-size: 1.3vh;
 		}
-	}
-	img {
-		vertical-align: middle;
-		max-width: 125px;
 	}
 }
 
 .push, footer {
 	height: $FOOTER;
 	margin-top: 0;
+}
+
+@media screen and (max-width: 640px) {
+	.wrap {
+		margin: 0 auto (0 - $FOOTER-SMALL);
+	}
+	.push, footer {
+		height: $FOOTER-SMALL;
+	}
+	footer .info-row {
+		height: $FOOTER-SMALL - 30px;
+	}
+	footer .copyright,
+	footer .team-art {
+		font-size: 8px;
+	}
+	footer img {
+		max-width: 100px;
+	}
+	footer .credit-row img.credit {
+		max-height: 14px;
+	}
+	label {
+		font-size: .75em;
+	}
+	#email {
+		font-size: .75em;
+		padding: 4px 2px;
+	}
 }
 
 h1,h2,h3 {
