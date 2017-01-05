@@ -1,0 +1,42 @@
+---
+# Must include blank front matter for file to be processed by Jekyll
+---
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="refresh" content="10;url=http://artbergmann.com/">
+	<title>artbergmann.com :: <!--#echo var="REDIRECT_STATUS" --></title>
+	<style>
+		body {
+			font-family: arial;
+			text-align: center;
+		}
+		img {
+			display: block;
+			margin: auto;
+			padding: 10px;
+		}
+		h1 {
+			font-size: 666%;
+			margin: 5% 0 0 0;
+		}
+		P {
+			font-size: 150%;
+			margin: 0;
+			width: 100%;
+		}
+		P#err {
+			font-weight: bolder;
+		}
+	</style>
+</head>
+<body>
+	<h1><!--#echo var="REDIRECT_STATUS" --></h1>
+	<p id="err">Page Not Found</p>
+	<a href="http://artbergmann.com">
+		<img src="{{ '/img/art_quixote.png' | prepend: site.url }}" alt="Art Quixote graphic" title="Art Quixote graphic">
+		<p>http://artbergmann.com</p>
+	</a>
+</body>
+</html>
