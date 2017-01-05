@@ -15,7 +15,7 @@ layout: page
 		<tbody>
 			{% for post in sorted_articles %}
 			<tr>
-				<td class="medium"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></td>
+				<td class="medium"><a href="{{ post.url }}">{{ post.title}}</a></td>
 				<td class="hide-small hide-tiny medium">{{ post.article_author}}</td>
 				<td class="hide-small hide-tiny medium">{{ post.article_publication}}</td>
 			</tr>

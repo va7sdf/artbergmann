@@ -7,30 +7,30 @@
 	<meta name="MobileOptimized" content="320">
 	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-	<meta name="generator" content="Jekyll v{ site.jekyll }}">
+	<meta name="generator" content="Jekyll v{{ site.jekyll }}">
 
 	<!-- Icons  -->
-	<link rel="shortcut icon" href="{{ '/favicon/favicon.ico' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="57x57" href="{{ '/favicon/apple-icon-57x57.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="60x60" href="{{ '/favicon/apple-icon-60x60.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="72x72" href="{{ '/favicon/apple-icon-72x72.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="76x76" href="{{ '/favicon/apple-icon-76x76.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{ '/favicon/apple-icon-114x114.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="120x120" href="{{ '/favicon/apple-icon-120x120.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="144x144" href="{{ '/favicon/apple-icon-144x144.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="152x152" href="{{ '/favicon/apple-icon-152x152.png' | prepend: site.baseurl }}">
-	<link rel="apple-touch-icon" sizes="180x180" href="{{ '/favicon/apple-icon-180x180.png' | prepend: site.baseurl }}">
-	<link rel="icon" type="image/png" sizes="192x192"  href="{{ '/favicon/android-icon-192x192.png' | prepend: site.baseurl }}">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon/favicon-32x32.png' | prepend: site.baseurl }}">
-	<link rel="icon" type="image/png" sizes="96x96" href="{{ '/favicon/favicon-96x96.png' | prepend: site.baseurl }}">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon/favicon-16x16.png' | prepend: site.baseurl }}">
-	<link rel="manifest" href="{{ '/favicon/manifest.json' | prepend: site.baseurl }}">
+	<link rel="shortcut icon" href="/favicon/favicon.ico">
+	<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/favicon/manifest.json">
 	<meta name="msapplication-TileColor" content="#e4e2e5">
-	<meta name="msapplication-TileImage" content="{{ '/favicon/ms-icon-144x144.png' | prepend: site.baseurl }}">
+	<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#e4e2e5">
 
 	<!-- Social Media: Twitter -->
@@ -55,8 +55,8 @@
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/{{ site.ink }}/css/ink-flex.min.css">
 	<link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/{{ site.ink }}/css/font-awesome.min.css">
-	<link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl }}">
-	<link rel="stylesheet" href="{{ "/css/font.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="/css/styles.css">
+	<link rel="stylesheet" href="/css/font.css">
 
 	<!-- IE8 CSS -->
 	<!--[if lt IE 9 ]>

@@ -23,7 +23,7 @@ title: "DEBUG: lyrics"
 						{% for post in sorted_lyrics %}
 						<tr>
 							<td>{{ forloop.index }}</td>
-							<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+							<td><a href="{{ post.url }}">{{ post.title }}</a></td>
 							<td>{{ post.album }}</td>
 						</tr>
 						{% endfor %}

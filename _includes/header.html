@@ -15,10 +15,10 @@
 			<div class="column-group">
 				<!-- SITE TITLE -->
 				<div class="xlarge-30 hide-large hide-medium hide-small hide-tiny push-middle">
-					<a class="largetitle push-left" href="{{ site.baseurl }}/">Art Bergmann</a>
+					<a class="largetitle push-left" href="/">Art Bergmann</a>
 				</div>
 				<div class="hide-xlarge large-66 medium-66 small-66 tiny-66 push-middle">
-					<a class="smalltitle push-left" href="{{ site.baseurl }}/">Art Bergmann</a>
+					<a class="smalltitle push-left" href="/">Art Bergmann</a>
 				</div>
 
 				<!-- SITE NAVIGATION -->
@@ -30,31 +30,31 @@
 									<a href="#">Debug <i class="fa fa-chevron-down"></i></a>
 									<ul class="submenu">
 										<li>
-											<a href="{{ site.baseurl }}/press/debug.html">Press</a>
+											<a href="/press/debug.html">Press</a>
 										</li>
 										<li>
-											<a href="{{ site.baseurl }}/lyrics/debug.html">Lyrics</a>
+											<a href="/lyrics/debug.html">Lyrics</a>
 										</li>
 									</ul>
 								</li>
 							{% endif %}
 							<li>
-								<a href="{{ site.baseurl }}/updates/">Updates</a>
+								<a href="/updates/">Updates</a>
 							</li>
 							<li>
-								<a href="{{ site.baseurl }}/shows/">Shows</a>
+								<a href="/shows/">Shows</a>
 							</li>
 							<li>
-								<a href="{{ site.baseurl }}/#">Shop</a>
+								<a href="/#">Shop</a>
 							</li>
 							<li>
 								<a href="#">Albums <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/albums/">Catalogue</a>
+										<a href="/albums/">Catalogue</a>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/lyrics/">Lyrics</a>
+										<a href="/lyrics/">Lyrics</a>
 									</li>
 								</ul>
 							</li>
@@ -62,10 +62,10 @@
 								<a href="#">Galleries <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/images/">Image</a>
+										<a href="/images/">Image</a>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/videos/">Video</a>
+										<a href="/videos/">Video</a>
 									</li>
 								</ul>
 							</li>
@@ -73,18 +73,18 @@
 								<a href="#">Archives <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/press/">Press</a>
+										<a href="/press/">Press</a>
 										<ul class="submenu flyout right">
 											{% assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020|undated" | split: "|" %}
 											{% for item in items %}
 												{% if site.categories[item] %}
-													<li><a href="{{ site.baseurl }}/press/{{ item }}">{{ item }}</a></li>
+													<li><a href="/press/{{ item }}">{{ item }}</a></li>
 												{% endif %}
 											{% endfor %}
 										</ul>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/shows/">shows</a>
+										<a href="/shows/">shows</a>
 									</li>
 								</ul>
 							</li>
@@ -92,18 +92,18 @@
 								<a href="#">About <i class="fa fa-chevron-down"></i></a>
 								<ul class="submenu">
 									<li>
-										<a href="{{ site.baseurl }}/background/">Background</a>
+										<a href="/background/">Background</a>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/timeline/">Timeline</a>
+										<a href="/timeline/">Timeline</a>
 									</li>
 									<li>
-										<a href="{{ site.baseurl }}/short_story/">Short Story</a>
+										<a href="/short_story/">Short Story</a>
 									</li>
 								</ul>
 							</li>
 							<li>
-								<a href="{{ site.baseurl }}/contacts/">Contacts</a>
+								<a href="/contacts/">Contacts</a>
 							</li>
 						</ul>
 					</nav>
@@ -126,47 +126,47 @@
 	<nav class="ink-navigation">
 		<ul class="menu vertical black push-left">
 			<li>
-				<a href="{{ site.baseurl }}/updates/">Updates</a>
+				<a href="/updates/">Updates</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/shows/">Shows</a>
+				<a href="/shows/">Shows</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/#">Shop</a>
+				<a href="/#">Shop</a>
 			</li>
 			<li>
-				<a href="{{ site.baseurl }}/contacts/">Contacts</a>
+				<a href="/contacts/">Contacts</a>
 			</li>
 			<li class="heading separator-above">Albums</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/albums/">Catalogue</a>
+				<a class="submenu" href="/albums/">Catalogue</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/lyrics/">Lyrics</a>
+				<a class="submenu" href="/lyrics/">Lyrics</a>
 			</li>
 			<li class="heading separator-above">Galleries</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/images/">Image</a>
+				<a class="submenu" href="/images/">Image</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/videos/">Video</a>
+				<a class="submenu" href="/videos/">Video</a>
 			</li>
 			<li class="heading separator-above">Archives</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/press/">Press</a>
+				<a class="submenu" href="/press/">Press</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/shows/">Shows</a>
+				<a class="submenu" href="/shows/">Shows</a>
 			</li>
 			<li class="heading separator-above">About</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/background/">Background</a>
+				<a class="submenu" href="/background/">Background</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/timeline/">Timeline</a>
+				<a class="submenu" href="/timeline/">Timeline</a>
 			</li>
 			<li>
-				<a class="submenu" href="{{ site.baseurl }}/short_story/">Short Story</a>
+				<a class="submenu" href="/short_story/">Short Story</a>
 			</li>
 		</ul>
 	</nav>

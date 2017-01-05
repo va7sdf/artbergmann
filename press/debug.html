@@ -25,7 +25,7 @@ title: "DEBUG: press"
 						{% for post in sorted_press %}
 						<tr>
 							<td>{{ forloop.index }}</td>
-							<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+							<td><a href="{{ post.url }}">{{ post.title }}</a></td>
 							<td>{{ post.article_author }}</td>
 							<td>{{ post.article_publication }}</td>
 							<td>{{ post.article_date }}</td>
