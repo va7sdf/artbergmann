@@ -1,18 +1,33 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="ink-drawer">
+<body class="ink-drawer">
 
-    {% include header.html %}
+{% include right-drawer.html %}
 
-    <div class="content-drawer">
-        {{ content }}
-    </div>
+<div class="content-drawer">
 
-    {% include footer.html %}
+	<div class="wrap">
 
-  </body>
+		{% include header.html %}
 
+		{{ content }}
+
+		<div class="push"></div>
+
+	</div>
+
+	{% include footer.html %}
+
+</div>
+
+<script>
+	Ink.requireModules(['Ink.UI.Drawer_1'], function (Drawer) {
+		new Drawer({ sides: 'right', mode: 'push' });
+	});
+</script>
+
+</body>
 </html>
