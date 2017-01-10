@@ -1,122 +1,81 @@
-<!--[if lte IE 11 ]>
-<div class="ink-alert basic" role="alert">
-	<button class="ink-dismiss">&times;</button>
-	<p>
-		<strong>You are using an outdated Internet Explorer version.</strong>
-		Please <a href="http://browsehappy.com/">upgrade to a modern browser</a> to improve your web experience.
-	</p>
-</div>
-<![endif]-->
-<header>
-	<div class="topbar">
-		<div class="ink-grid">
-			<div class="column-group">
-				<!-- SITE TITLE -->
-				<div class="xlarge-30 hide-large hide-medium hide-small hide-tiny push-middle">
-					<a class="largetitle push-left" href="/">Art Bergmann</a>
-				</div>
-				<div class="hide-xlarge large-66 medium-66 small-66 tiny-66 push-middle">
-					<a class="smalltitle push-left" href="/">Art Bergmann</a>
-				</div>
-
-				<!-- SITE NAVIGATION -->
-				<div class="xlarge-70 hide-large hide-medium hide-small hide-tiny push-middle">
-					<nav class="ink-navigation">
-						<ul class="menu horizontal black push-right">
-							{% if site.debug %}
-								<li>
-									<a href="#">Debug <i class="fa fa-chevron-down"></i></a>
-									<ul class="submenu">
+			<header>
+				<div class="topbar">
+					<div class="ink-grid">
+						<div class="column-group">
+							<!-- SITE TITLE -->
+							<div class="xlarge-30 hide-large hide-medium hide-small hide-tiny push-middle">
+								<a class="largetitle push-left" href="/">Art Bergmann</a>
+							</div>
+							<div class="hide-xlarge large-66 medium-66 small-66 tiny-66 push-middle">
+								<a class="smalltitle push-left" href="/">Art Bergmann</a>
+							</div>
+							<!-- SITE NAVIGATION -->
+							<div class="xlarge-70 hide-large hide-medium hide-small hide-tiny push-middle">
+								<nav class="ink-navigation">
+									<ul class="menu horizontal black push-right">
+										{% if site.debug %}
+											<li>
+												<a href="#">Debug <i class="fa fa-chevron-down"></i></a>
+												<ul class="submenu">
+													<li><a href="/press/debug.html">Press</a></li>
+													<li><a href="/lyrics/debug.html">Lyrics</a></li>
+												</ul>
+											</li>
+										{% endif %}
+										<li><a href="/updates/">Updates</a></li>
+										<li><a href="/shows/">Shows</a></li>
+										<li><a href="/#">Shop</a></li>
 										<li>
-											<a href="/press/debug.html">Press</a>
+											<a href="#">Albums <i class="fa fa-chevron-down"></i></a>
+											<ul class="submenu">
+												<li><a href="/albums/">Catalogue</a></li>
+												<li><a href="/lyrics/">Lyrics</a></li>
+											</ul>
 										</li>
 										<li>
-											<a href="/lyrics/debug.html">Lyrics</a>
+											<a href="#">Galleries <i class="fa fa-chevron-down"></i></a>
+											<ul class="submenu">
+												<li><a href="/images/">Image</a></li>
+												<li><a href="/videos/">Video</a></li>
+											</ul>
 										</li>
+										<li>
+											<a href="#">Archives <i class="fa fa-chevron-down"></i></a>
+											<ul class="submenu">
+												<li>
+													<a href="/press/">Press</a>
+													<ul class="submenu flyout right">{%
+													assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020|undated" | split: "|" %}{%
+													for item in items %}{%
+														if site.categories[item] %}
+														<li><a href="/press/{{ item }}">{{ item }}</a></li>{%
+														endif %}{%
+													endfor %}
+													</ul>
+												</li>
+												<li><a href="/shows/">shows</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="#">About <i class="fa fa-chevron-down"></i></a>
+											<ul class="submenu">
+												<li><a href="/background/">Background</a></li>
+												<li><a href="/timeline/">Timeline</a></li>
+												<li><a href="/short_story/">Short Story</a></li>
+											</ul>
+										</li>
+										<li><a href="/contacts/">Contacts</a></li>
 									</ul>
-								</li>
-							{% endif %}
-							<li>
-								<a href="/updates/">Updates</a>
-							</li>
-							<li>
-								<a href="/shows/">Shows</a>
-							</li>
-							<li>
-								<a href="/#">Shop</a>
-							</li>
-							<li>
-								<a href="#">Albums <i class="fa fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li>
-										<a href="/albums/">Catalogue</a>
-									</li>
-									<li>
-										<a href="/lyrics/">Lyrics</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="#">Galleries <i class="fa fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li>
-										<a href="/images/">Image</a>
-									</li>
-									<li>
-										<a href="/videos/">Video</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="#">Archives <i class="fa fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li>
-										<a href="/press/">Press</a>
-										<ul class="submenu flyout right">
-											{% assign items = "pre-1980|1980-1984|1985-1989|1990-1994|1995-1999|2000-2004|2005-2009|2010-2014|2015-2020|undated" | split: "|" %}
-											{% for item in items %}
-												{% if site.categories[item] %}
-													<li><a href="/press/{{ item }}">{{ item }}</a></li>
-												{% endif %}
-											{% endfor %}
-										</ul>
-									</li>
-									<li>
-										<a href="/shows/">shows</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="#">About <i class="fa fa-chevron-down"></i></a>
-								<ul class="submenu">
-									<li>
-										<a href="/background/">Background</a>
-									</li>
-									<li>
-										<a href="/timeline/">Timeline</a>
-									</li>
-									<li>
-										<a href="/short_story/">Short Story</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="/contacts/">Contacts</a>
-							</li>
-						</ul>
-					</nav>
+								</nav>
+							</div>
+							<div class="hide-xlarge large-33 medium-33 small-33 tiny-33 push-middle">
+								<nav class="ink-navigation">
+									<ul class="menu horizontal black push-right">
+										<li><button class="fa fa-bars right-drawer-trigger"><span class="hide-small label">Menu</span></button></li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
 				</div>
-
-				<div class="hide-xlarge large-33 medium-33 small-33 tiny-33 push-middle">
-					<nav class="ink-navigation">
-						<ul class="menu horizontal black push-right">
-							<li>
-								<button class="fa fa-bars right-drawer-trigger"><span class="hide-small label">Menu</span></button>
-							</li>
-						</ul>
-					</nav>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
+			</header>

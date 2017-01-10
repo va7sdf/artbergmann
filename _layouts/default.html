@@ -1,33 +1,29 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 {% include head.html %}
-
 <body class="ink-drawer">
-
 {% include right-drawer.html %}
-
-<div class="content-drawer">
-
-	<div class="wrap">
-
-		{% include header.html %}
-
-		{{ content }}
-
-		<div class="push"></div>
-
+	<div class="content-drawer">
+		<div class="wrap">
+			<!--[if lte IE 11 ]>
+			<div class="ink-alert basic" role="alert">
+				<button class="ink-dismiss">&times;</button>
+				<p>
+					<strong>You are using an outdated Internet Explorer version.</strong>
+					Please <a href="http://browsehappy.com/">upgrade to a modern browser</a> to improve your web experience.
+				</p>
+			</div>
+			<![endif]-->
+{% include header.html %}
+{{ content }}
+			<div class="push"></div>
+		</div>
+{% include footer.html %}
 	</div>
-
-	{% include footer.html %}
-
-</div>
-
 <script>
 	Ink.requireModules(['Ink.UI.Drawer_1'], function (Drawer) {
 		new Drawer({ sides: 'right', mode: 'push' });
 	});
 </script>
-
 </body>
 </html>
