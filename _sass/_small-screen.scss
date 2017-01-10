@@ -1,0 +1,31 @@
+@media screen and (max-width: 640px) {
+	.wrap {
+		margin: 0 auto (0 - $FOOTER-SMALL);
+	}
+	.push, footer {
+		height: $FOOTER-SMALL;
+	}
+	footer .info-row {
+		height: $FOOTER-SMALL - 30px;
+	}
+	footer .copyright,
+	footer .team-art {
+		font-size: 8px;
+	}
+	footer img {
+		max-width: 100px;
+	}
+	footer .credit-row img.credit {
+		max-height: 14px;
+	}
+	label {
+		font-size: .75em;
+	}
+	#email {
+		font-size: .75em;
+		padding: 4px 2px;
+	}
+	#banner {
+		margin-top: 46px;
+	}
+}
