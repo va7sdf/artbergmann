@@ -4,11 +4,13 @@ layout: default
 		<div id="banner">
 			<div id="bind">
 				<img src="/img/art-bergmann.jpg" alt="Art Bergmann site banner">
-				<div id="feature" class="hide-all show-large show-xlarge">
-					<img src="/img/panel.png" alt="Featured article image">
-					<div class="title">Latest Release</div>
-					<div class="topic">Available in stores and online.</div>
-				</div>
+				<a href="http://192.168.1.90:4000/updates/2017/01/14/the-apostate.html">
+					<div id="feature" class="hide-all show-large show-xlarge">
+						<img src="/img/panel.png" alt="Featured article image">
+						<div class="title">Latest Release</div>
+						<div class="topic">Available in stores and online.</div>
+					</div>
+				</a>
 				<div id="credit"><a href="http://www.lisamacintoshphotography.ca/" target="_blank">Lisa MacIntosh Photography</a></div>
 			</div>
 		</div>
@@ -18,45 +20,25 @@ layout: default
 					<div class="all-66 medium-100 small-100 tiny-100">
 						<section class="update-articles bottom-padding">
 							<h3>Updates</h3>
+							<!-- UPDATES -->
+							{% for update in site.categories['updates'] limit:5 %}
 							<div class="update-article column-group half-gutters">
 								<div class="all-33 tiny-100">
 									<a href="#"><img src="http://www.airdriecityview.com/apps/pbcsi.dll/bilde?Site=GT&Date=20160901&Category=ACV0302&ArtNo=309019984&Ref=AR"></a>
 								</div>
 								<div class="all-66 tiny-100">
 									<div class="fw-400">
-										<a href="#" class="large">Sample Press Release</a>
+										<a href="{{ update.url }}" class="large">{{ update.title }}</a>
 									</div>
 									<div class="column-group small quarter-bottom-padding">
-										<div class="all-33 small-100 tiny-100"><i class="fa fa-calendar"></i> <time datetime="2016-12-25">Sun, Dec 25, 2016</time></div>
-											<div class="all-66 small-100 tiny-100"><i class="fa fa-user"></i> Team Art</div>
+										<div class="all-33 small-100 tiny-100"><i class="fa fa-calendar"></i> {{ update.date | date: "%a, %b %d, %Y" }}</div>
+											<div class="all-66 small-100 tiny-100"><i class="fa fa-user"></i> {% if update.author %}{{ update.author }}{% else %}Team Art{% endif %}</div>
 										</div>
-										<div class="fw-300">
-											<p>Sunt et error illo est doloribus consectetur cumque provident. Quisquam officia quia reiciendis molestias et. Ea odit dolores eius nihil ad tempora. Aut quo culpa voluptas qui. Exercitationem ut accusamus dolorem.</p>
-											<p>Ut accusamus doloremque dolorum id eos. Unde recusandae corporis ut. Itaque quos enim non. Provident deleniti et iste rem labore rerum fuga. Doloribus deleniti sint odio. Explicabo ut voluptatem reprehenderit et vitae.</p>
-										</div>
-										<div class="push-right medium"><a href="#">Read more...</a></div>
+										<div class="fw-300">{{ update.excerpt }}</div>
+										<div class="push-right medium"><a href="{{ update.url }}">Read more...</a></div>
 									</div>
 								</div>
-								<div class="update-article column-group half-gutters">
-									<div class="all-33 tiny-100">
-										<a href="#"><img src="http://www.airdriecityview.com/apps/pbcsi.dll/bilde?Site=GT&Date=20160901&Category=ACV0302&ArtNo=309019984&Ref=AR"></a>
-									</div>
-									<div class="all-66 tiny-100">
-										<div class="fw-400">
-											<a href="#" class="large">Sample Press Release</a>
-										</div>
-										<div class="column-group small quarter-bottom-padding">
-											<div class="all-33 small-100 tiny-100"><i class="fa fa-calendar"></i> <time datetime="2016-12-25">Sun, Dec 25, 2016</time></div>
-											<div class="all-66 small-100 tiny-100"><i class="fa fa-user"></i> Team Art</div>
-										</div>
-										<div class="fw-300">
-											<p>Sunt et error illo est doloribus consectetur cumque provident. Quisquam officia quia reiciendis molestias et. Ea odit dolores eius nihil ad tempora. Aut quo culpa voluptas qui. Exercitationem ut accusamus dolorem.</p>
-											<p>Ut accusamus doloremque dolorum id eos. Unde recusandae corporis ut. Itaque quos enim non. Provident deleniti et iste rem labore rerum fuga. Doloribus deleniti sint odio. Explicabo ut voluptatem reprehenderit et vitae.</p>
-										</div>
-										<div class="push-right medium"><a href="#">Read more...</a></div>
-									</div>
-									<div class="column-group push-center top-space"><button class="ink-button small">More Updates</button></div>
-								</div>
+							{% endfor %}
 							</section>
 							<section class="press-articles">
 								<h3>Press</h3>

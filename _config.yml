@@ -29,6 +29,12 @@ exclude:
 defaults:
   -
     scope:
+      path: "updates"
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "albums"
       type: "posts"
     values:
