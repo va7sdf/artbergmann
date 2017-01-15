@@ -23,10 +23,10 @@ layout: default
 							<!-- UPDATES -->
 							{% for update in site.categories['updates'] limit:5 %}
 							<div class="update-article column-group half-gutters">
-								<div class="all-33 tiny-100">
-									<a href="#"><img src="http://www.airdriecityview.com/apps/pbcsi.dll/bilde?Site=GT&Date=20160901&Category=ACV0302&ArtNo=309019984&Ref=AR"></a>
+								<div class="all-25 tiny-100">
+									<a href="{{ update.url }}"><img class="push-right" src="/updates/images/{{ update.date | date: '%Y-%m-%d'}}-{{ update.title | slugify }}.png"></a>
 								</div>
-								<div class="all-66 tiny-100">
+								<div class="all-75 tiny-100">
 									<div class="fw-400">
 										<a href="{{ update.url }}" class="large">{{ update.title }}</a>
 									</div>
@@ -38,15 +38,16 @@ layout: default
 										<div class="push-right medium"><a href="{{ update.url }}">Read more...</a></div>
 									</div>
 								</div>
+								{% comment %}<div class="column-group push-center top-space"><button class="ink-button small">More Updates</button></div>{% endcomment %}
 							{% endfor %}
 							</section>
 							<section class="press-articles">
 								<h3>Press</h3>
 								<div class="press-article column-group half-gutters bottom-padding">
-									<div class="all-20 tiny-100">
+									<div class="all-25 tiny-100">
 										<a href="http://www.airdriecityview.com/article/Punk-rock-icon-Art-Bergmann-still-has-much-to-say-20160901" target="_blank"><img src="http://www.airdriecityview.com/apps/pbcsi.dll/bilde?Site=GT&Date=20160901&Category=ACV0302&ArtNo=309019984&Ref=AR"></a>
 									</div>
-									<div class="all-80 tiny-100">
+									<div class="all-75 tiny-100">
 										<div class="fw-400">
 											<a href="http://www.airdriecityview.com/article/Punk-rock-icon-Art-Bergmann-still-has-much-to-say-20160901" target="_blank">Punk rock icon Art Bergmann still has much to say</a>
 										</div>
@@ -61,25 +62,6 @@ layout: default
 										<div class="push-right small"><a href="http://www.airdriecityview.com/article/Punk-rock-icon-Art-Bergmann-still-has-much-to-say-20160901" target="_blank">http://www.airdriecityview.com/article/Punk-rock-icon-Art-Bergmann-still-has-much-to-say-20160901</a> <i class="fa fa-external-link"></i></div>
 									</div>
 								</div>
-								<div class="press-article column-group half-gutters botttom-padding">
-									<div class="all-20 tiny-100">
-										<a href="http://airdrielife.com/slice_life/art-bergmann-iconoclast/" target="_blank"><img src="http://airdrielife.com/wp-content/uploads/2016/05/art_019-1-334x223.jpg"></a>
-									</div>
-									<div class="all-80 tiny-100">
-										<div class="fw-400">
-											<a href="http://airdrielife.com/slice_life/art-bergmann-iconoclast/" target="_blank">Punk rock icon Art Bergmann still has much to say</a>
-										</div>
-										<div class="column-group small quarter-bottom-padding">
-											<div class="all-25 small-100 tiny-100"><i class="fa fa-calendar"></i> <time datetime="2016-09-01">Tue, May 10, 2016</time></div>
-											<div class="all-30 small-100 tiny-100"><i class="fa fa-user"></i> Alex Frazer-Harrison</div>
-											<div class="all-45 small-100 tiny-100"><i class="fa fa-newspaper-o"></i> airdrielife</div>
-										</div>
-										<div class="fw-300">
-											<p>“I hate the term ‘punk veteran’ – it’s anathema to me,” says the musician. “And I’m trying to get the word ‘icon’ changed to ‘iconoclast.’”</p>
-										</div>
-										<div class="push-right small"><a href="http://airdrielife.com/slice_life/art-bergmann-iconoclast/" target="_blank">http://airdrielife.com/slice_life/art-bergmann-iconoclast/ <i class="fa fa-external-link"></i></a></div>
-									</div>
-								</div>
 								<div class="column-group push-center top-space"><button class="ink-button small">More Press</button></div>
 							</section>
 						</div>
@@ -88,50 +70,9 @@ layout: default
 								<h3>Tweets</h3>
 								<a class="twitter-timeline" data-height="480" data-dnt="true" data-theme="light" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/ArtBergmann"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 							</section>
+							{% comment %}
 							<section class="shows bottom-padding">
 								<h3>Shows</h3>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">An Extremely Long Location Name to See How It Wraps</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">An Extremely Long Venue Name to See How It Wraps</span></div>
-									</div>
-								</a>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">Location, XX</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">Venue Name</span></div>
-									</div>
-								</a>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">Location, XX</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">Venue Name</span></div>
-									</div>
-								</a>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">Location, XX</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">Venue Name</span></div>
-									</div>
-								</a>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">Location, XX</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">Venue Name</span></div>
-									</div>
-								</a>
-								<a href="#">
-									<div class="column-group">
-										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
-										<div class="all-40 small-100 tiny-100"><span class="fw-400 medium uppercase small-double-left-padding">Location, XX</span></div>
-										<div class="all-35 small-100 tiny-100"><span class="fw-300 medium italic small-double-left-padding">Venue Name</span></div>
-									</div>
-								</a>
 								<a href="#">
 									<div class="column-group">
 										<div class="all-25 small-100 tiny-100"><span class="fw-300 medium">0000/00/00</span></div>
@@ -141,6 +82,7 @@ layout: default
 								</a>
 								<div class="column-group push-center top-space"><button class="ink-button small">More Shows</button></div>
 							</section>
+							{% endcomment %}
 							<section class="merchandise bottom-padding">
 								<h3>Merchandise</h3>
 								<a href="#">
