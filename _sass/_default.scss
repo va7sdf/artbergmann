@@ -125,6 +125,10 @@ h1,h2,h3 {
 			font-size: .6em;
 			color: #1a1a1a;
 		}
+		a {
+			text-decoration: none;
+			color: inherit;
+		}
 		#feature {
 			position: absolute;
 			right: 16%;
