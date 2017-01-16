@@ -5,15 +5,13 @@ layout: default
 	<div class="column-group push-center">
 		<div class="xlarge-60 large-60 medium-80 small-auto tiny-auto">
 			<div class="post">
-				<div class="column-group">
-					<div class="all-66">
-						<h1 class="post-title">{{ page.title }}</h1>
-						<div class="post-meta small bottom-padding">
-							<i class="fa fa-calendar"></i> <span class="post-date">{{ page.date | date: "%a, %b %d, %Y" }}</span></br>
-							<i class="fa fa-user"></i> <span class="post-author">{% if page.author %}{{ page.author }}{% else %}Team Art{% endif %}</span>
-						</div>
-					</div>
+
+				<h1 class="post-title">{{ page.title }}</h1>
+				<div class="post-meta small bottom-padding">
+					<i class="fa fa-calendar"></i> <span class="post-date">{{ page.date | date: "%a, %b %d, %Y" }}</span></br>
+					<i class="fa fa-user"></i> <span class="post-author">{% if page.author %}{{ page.author }}{% else %}Team Art{% endif %}</span>
 				</div>
+				{% if page.intro %}<p class="italic">{{ page.intro }}</p>{% endif %}
 				
 				<article class="post-content">
 					<img class="push-right bottom-padding left-padding hide-small hide-tiny" style="max-width: 33%" src="/updates/images/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | slugify }}.png">
