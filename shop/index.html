@@ -1,0 +1,13 @@
+---
+layout: page
+title: shop
+---
+{% for item in site.shop %}
+	<h3>{{ item.desc }}</h3>
+	<img src="images/{{ item.image }}">
+	<p>{{ item.note }}</p>
+	<p>{{ item.price.CDN }}</p>
+	<p>{{ item.price.USD }}</p>
+	<p>{{ item.price.INTL }}</p>
+
+{% endfor %}
