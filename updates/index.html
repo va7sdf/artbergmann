@@ -1,0 +1,22 @@
+---
+layout: page
+title: updates
+---
+{% for update-article in site.categories['updates'] %}
+<div class="update-article column-group half-gutters">
+	<div class="all-25 tiny-100">
+		<a href="{{ update-article.url }}"><img class="push-right" src="/updates/images/{{ update-article.date | date: '%Y-%m-%d'}}-{{ update-article.title | slugify }}.png"></a>
+	</div>
+	<div class="all-75 tiny-100">
+		<div class="fw-400">
+			<a href="{{ update-article.url }}" class="large">{{ update-article.title }}</a>
+		</div>
+		<div class="column-group small quarter-bottom-padding">
+			<div class="all-33 small-100 tiny-100"><i class="fa fa-calendar"></i> {{ update-article.date | date: "%a, %b %d, %Y" }}</div>
+			<div class="all-66 small-100 tiny-100"><i class="fa fa-user"></i> {% if update-article.author %}{{ update-article.author }}{% else %}Team Art{% endif %}</div>
+		</div>
+		<div class="fw-300">{{ update-article.excerpt }}</div>
+		<div class="push-right medium"><a href="{{ update-article.url }}">Read more...</a></div>
+	</div>
+</div>
+{% endfor %}
