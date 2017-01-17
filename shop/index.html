@@ -1,13 +1,31 @@
 ---
 layout: page
-title: shop
+title: mail order merchandise
 ---
+<p></p>
 {% for item in site.shop %}
-	<h3>{{ item.desc }}</h3>
-	<img src="images/{{ item.image }}">
-	<p>{{ item.note }}</p>
-	<p>{{ item.price.CDN }}</p>
-	<p>{{ item.price.USD }}</p>
-	<p>{{ item.price.INTL }}</p>
-
+	<div id="{{ item.desc | slugify }}" class="column-group gutters">
+		<div class="all-25 small-100 tiny-100">
+			<img src="images/{{ item.image }}" alt="{{ item.desc }} thumbnail">
+		</div>
+		<div class="all-75 small-100 tiny-100">
+			<ul class="details unstyled">
+				<li class="fw-700 uppercase small-double-left-padding">{{ item.desc }}</li>
+				<li class="fw-300 small-double-left-padding">{{ item.note }}</li>
+				<li class="prices fw-300 small-double-left-padding">Canadian orders: <span class="push-right">${{ item.price.CDN }} CAD</span></li>
+				<li class="prices fw-300 small-double-left-padding">United States orders: <span class="push-right">${{ item.price.USD }} USD</span></li>
+				<li class="prices fw-300 small-double-left-padding">International orders: <span class="push-right">${{ item.price.INTL }} CAD</span></li>
+			</ul>
+		</div>
+	</div>
 {% endfor %}
+
+<strong>Instructions</strong>
+
+<ul>
+	<li>Send payment via Paypal or Interac etransfer to sales@weewerk.com.</li>
+	<li>Checks or money order made payable to: Weewerk</li>
+	<li>Mailing Address: 101 Niagara St., Suite #202 - Box#19, Toronto, Ontario M5V 1C3</li>
+	<li>Please include your shipping address and list items ordered.</li>
+	<li>Sorry credit card payments not accepted at this time.</li>
+</ul>
