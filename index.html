@@ -4,7 +4,7 @@ layout: default
 		<div id="banner">
 			<div id="bind">
 				<img src="/img/art-bergmann.jpg" alt="Art Bergmann site banner">
-				<a href="http://192.168.1.90:4000/updates/2017/01/14/the-apostate.html">
+				<a href="/updates/2017/01/14/the-apostate.html">
 					<div id="feature" class="hide-all show-large show-xlarge">
 						<img src="/img/panel.png" alt="Featured article image">
 						<div class="title">Latest Release</div>
@@ -47,7 +47,7 @@ layout: default
 								{% for press-article in site.categories['press'] limit:3 %}
 								<div class="press-article bottom-padding">
 									<div class="fw-400">
-										<a href="http://www.airdriecityview.com/article/Punk-rock-icon-Art-Bergmann-still-has-much-to-say-20160901" target="_blank">{{ press-article.title }}</a>
+										<a href="{{ press-article.uri }}" target="_blank">{{ press-article.title }}</a>
 									</div>
 									<div class="column-group small quarter-bottom-padding">
 										<div class="all-25 small-100 tiny-100"><i class="fa fa-calendar"></i> {{ press-article.date | date: "%a, %b %d, %Y" }}</div>
@@ -68,6 +68,7 @@ layout: default
 							</section>
 							{% comment %}
 							<section class="shows bottom-padding">
+								<!-- SHOWS -->
 								<h3>Shows</h3>
 								<a href="#">
 									<div class="column-group">
@@ -81,8 +82,9 @@ layout: default
 							{% endcomment %}
 							<section class="merchandise bottom-padding">
 								<h3>Merchandise</h3>
+								<!-- MERCHANDISE -->
 								{% for item in site.shop %}
-								<a href="#">
+								<a href="/shop/#{{ item.desc | slugify }}">
 									<div class="column-group quarter-gutters">
 										<div class="all-25 small-100 tiny-100">
 											<img src="/shop/images/{{ item.image }}" alt="{{ item.desc }} thumbnail">
@@ -90,9 +92,9 @@ layout: default
 										<div class="all-75 small-100 tiny-100">
 											<ul class="details unstyled">
 												<li class="fw-400 medium uppercase small-double-left-padding">{{ item.desc }}</li>
-												<li class="prices fw-300 medium small-double-left-padding">Canadain orders: <span class="push-right">{{ item.price.CDN }} CAD</span></li>
-												<li class="prices fw-300 medium small-double-left-padding">United States orders: <span class="push-right">{{ item.price.USD }} USD</span></li>
-												<li class="prices fw-300 medium small-double-left-padding">International orders: <span class="push-right">{{ item.price.INTL }} CAD</span></li>
+												<li class="prices fw-300 medium small-double-left-padding">Canadian orders: <span class="push-right">${{ item.price.CDN }} CAD</span></li>
+												<li class="prices fw-300 medium small-double-left-padding">United States orders: <span class="push-right">${{ item.price.USD }} USD</span></li>
+												<li class="prices fw-300 medium small-double-left-padding">International orders: <span class="push-right">${{ item.price.INTL }} CAD</span></li>
 											</ul>
 										</div>
 									</div>

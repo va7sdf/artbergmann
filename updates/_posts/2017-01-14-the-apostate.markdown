@@ -53,7 +53,7 @@ Nominated for the Polaris Music Prize [long list](http://polarismusicprize.ca/20
 * [Art Bergmann Releases "Cassandra" From The Apostate In Response To Ghomeshi Verdict](http://themusicexpress.ca/art-bergmann-releases-cassandra-from-the-apostate-in-response-to-ghomeshi-verdict/){:target="_blank"}
 * [Arts in Brief: Musical Celebration Of Coast Gets Underway](http://www.timescolonist.com/entertainment/go/arts-in-brief-musical-celebration-of-of-coast-gets-underway-1.2263375){:target="_blank"}
 
-#### In Stores:
+#### Purchase In Stores:
 
 'The Apostate' in now available in vinyl at the following stores across Canada.
 
@@ -74,3 +74,9 @@ Neptoon Records - Vancouver
 Red Cat - Vancouver  
 Ditch Records - Victoria  
 McNally Robinson - Winnipeg  
+
+#### Purchase Online:
+
+[Amazon](http://geni.us/ArtBergmannAmazon){:target="_blank"}  
+[Google Music](http://geni.us/ArtBergmannGoogle){:target="_blank"}  
+[iTunes](http://geni.us/ArtBergmanniTunes){:target="_blank"}  
