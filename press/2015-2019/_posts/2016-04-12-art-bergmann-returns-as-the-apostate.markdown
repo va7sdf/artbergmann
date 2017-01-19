@@ -9,7 +9,7 @@ uri: http://www.huffingtonpost.ca/jeff-rosemartland/art-bergmann-returns_b_96420
 Truly great musicians defy categorization. They often defy adjectives as well, which makes them difficult to write about. That is where Art Bergmann lies: between the facts and the superlatives.
 
 Very little of his solo music can be described as 'punk', though that's where his roots lie. He was 'alternative' when that actually meant something, back before it became just another commercial category. And those terms are the closest you'll get to genre-fying him. You can't even say there's an 'Art Bergmann' sound, because each of his albums sounds different from the next. This latest is his most-different yet.
-<!--more-->  
+<!--more-->
 **Atheist's Prayer** sets up the album nicely. It has a psychedelic swirl alternating in stereo. The instruments are so blended that it is difficult to identify any particular one. The production is reminiscent of 70s cosmic tunes, except for the tone. Age of Aquarius cosmology called for universal enlightenment of humanity. Atheist's Prayer begs the cosmos to stop flawed humanity from spreading: *stardust consume evil us.*
 
 Art describes his current sound as "Country & Eastern." Two songs in particularly exemplify that. One is Mirage. The other is Pioneers. Both combine instrumentation that spans the globe, but not in typical ways.

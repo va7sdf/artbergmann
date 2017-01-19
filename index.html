@@ -44,7 +44,7 @@ layout: default
 							<section class="press-articles">
 								<h3>Press</h3>
 								<!-- PRESS -->
-								{% for press-article in site.categories['press'] limit:3 %}
+								{% for press-article in site.categories['press'] limit:5 %}
 								<div class="press-article bottom-padding">
 									<div class="fw-400">
 										<a href="{{ press-article.uri }}" target="_blank">{{ press-article.title }}</a>
