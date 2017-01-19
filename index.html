@@ -83,7 +83,7 @@ layout: default
 							<section class="merchandise bottom-padding">
 								<h3>Merchandise</h3>
 								<!-- MERCHANDISE -->
-								{% for item in site.shop %}
+								{% for item in site.shop limit:3 %}
 								<a href="/shop/#{{ item.desc | slugify }}">
 									<div class="column-group quarter-gutters">
 										<div class="all-25 small-100 tiny-100">
@@ -100,7 +100,7 @@ layout: default
 									</div>
 								</a>
 								{% endfor %}
-								<div class="column-group push-center top-space"><button class="ink-button small">More Merchandise</button></div>
+								<div class="column-group push-center top-space"><a class="ink-button small" href="/shop/">More Merchandise</a></div>
 							</section>
 						</div>
 					</div>
