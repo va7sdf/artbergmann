@@ -26,19 +26,18 @@ Nominated for the Polaris Music Prize [long list](http://polarismusicprize.ca/20
 		<p class="medium">Art Bergmann MIRAGE<br />Live at The FOX</p>
 	</div>
 	<div class="xlarge-33 large-33 medium-50 small-100 tiny-100">
-		<div class="video-container">		
+		<div class="video-container">
 			<iframe src="https://www.youtube.com/embed/xK6uXk9F_2g" frameborder="0" allowfullscreen></iframe>
 		</div>
 		<p class="medium">Art Bergmann - "A Town Called Mean"</p>
 	</div>
 	<div class="xlarge-33 large-33 medium-50 small-100 tiny-100">
-		<div class="video-container">						
+		<div class="video-container">
 			<iframe src="https://www.youtube.com/embed/vpx2YAJf2vg" frameborder="0" allowfullscreen></iframe>
 		</div>
 		<p class="medium">Art Bergmann PIONEERS<br />Live at The FOX</p>
 	</div>
-</div>	
-
+</div>
 
 #### Press Links:
 
