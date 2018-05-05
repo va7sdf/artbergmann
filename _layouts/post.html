@@ -7,14 +7,14 @@ layout: default
 			<div class="post">
 
 				<h1 class="post-title">{{ page.title }}</h1>
+				{% if page.subtitle %}<h5>{{ page.subtitle }}</h5>{% endif %}
 				<div class="post-meta small bottom-padding">
 					<i class="fa fa-calendar"></i> <span class="post-date">{{ page.date | date: "%a, %b %d, %Y" }}</span></br>
 					<i class="fa fa-user"></i> <span class="post-author">{% if page.author %}{{ page.author }}{% else %}Team Art{% endif %}</span>
 				</div>
 				{% if page.intro %}<p class="italic">{{ page.intro }}</p>{% endif %}
-				
 				<article class="post-content">
-					<img class="push-right bottom-padding left-padding hide-small hide-tiny" style="max-width: 33%" src="/updates/images/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | slugify }}.png">
+					<a href="/updates/images/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | slugify }}.png"><img class="push-right bottom-padding left-padding hide-small hide-tiny" style="max-width: 33%" src="/updates/images/{{ page.date | date: '%Y-%m-%d'}}-{{ page.title | slugify }}.png"></a>
 					{{ content }}
 				</article>
 
