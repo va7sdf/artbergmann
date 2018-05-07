@@ -1,12 +1,12 @@
 ---
-title: art bergmann at the seahorse tavern – aug 31, 2017
+title: art bergmann at the seahorse tavern – sept 1, 2017
 subtitle:
 intro:
 author:
 ---
 ##### The Halifax Urban Folk Festival presents: Art Bergmann & HFX All Stars
 
-Thursday, Aug 31st, 2017  
+Friday, Sept 1st, 2017  
 Doors 8:00 PM  
 
 Tickets: $20 advance (including taxes)  
