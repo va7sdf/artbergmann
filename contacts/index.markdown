@@ -2,20 +2,13 @@
 layout: page
 title: contacts
 ---
-
-**Manager**  
-Phil Klygo (weewerk)  
-Website: <http://weewerk.com>{:target="_blank"}  
-E-mail:  <phil@weewerk.com>  
-Facebook: [@weewerk.recordings](https://www.facebook.com/weewerk.recordings){:target="_blank"}  
-Twitter: [@weewerk](https://twitter.com/weewerk){:target="_blank"}  
-
-**Booking Agent**  
-Jeff Turner (Jeff Turner Entertainment Group)  
-Website: <http://turnerentertainmentgroup.com>{:target="_blank"}  
-E-mail: <info@turnerentertainmentgroup.com>  
-Facebook: [@TheJeffTurnerEntertainmentGroup](https://www.facebook.com/TheJeffTurnerEntertainmentGroup){:target="_blank"}  
-Twitter: [@jturnerentgroup](https://twitter.com/jturnerentgroup){:target="_blank"}  
+**Manager / Booking Agent**  
+Steve Kravac  
+Porterhouse Records  
+Website: <http://porterhouserecords.com/>{:Target="_blank"}  
+E-mail: <steve.k@porterhouserecords.com>  
+Facebook: [/Porterhouse.Records](https://www.facebook.com/Porterhouse.Records){:target="_blank"}  
+Twitter: [@Porterhouse_Rec](https://twitter.com/Porterhouse_Rec){:target="_blank"}  
 
 **Webmaster**  
 Gordon M. Celesta  
