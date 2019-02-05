@@ -25,6 +25,7 @@ exclude:
   - "scripts"
   - "import"
   - "README.md"     # root README file
+  - "*.bak"         # backup files
 
 defaults:
   -
