@@ -6,26 +6,20 @@ title: mail order merchandise
 {% for item in site.shop %}
 	<div id="{{ item.desc | slugify }}" class="column-group gutters">
 		<div class="all-25 small-100 tiny-100">
-			<img src="images/{{ item.image }}" alt="{{ item.desc }} thumbnail">
+			<a href="{{ item.link }}" target="_blank"><img src="images/{{ item.image }}" alt="{{ item.desc }} thumbnail"></a>
 		</div>
 		<div class="all-75 small-100 tiny-100">
 			<ul class="details unstyled">
-				<li class="fw-700 uppercase small-double-left-padding">{{ item.desc }}</li>
+				<li class="fw-700 uppercase small-double-left-padding"><a href="{{ item.link }}" target="_blank">{{ item.desc }}</a></li>
+				{%if item.note %}
 				<li class="fw-300 small-double-left-padding">{{ item.note }}</li>
-				<li class="prices fw-300 small-double-left-padding">Canadian orders: <span class="push-right">${{ item.price.CDN }} CAD</span></li>
-				<li class="prices fw-300 small-double-left-padding">United States orders: <span class="push-right">${{ item.price.USD }} USD</span></li>
-				<li class="prices fw-300 small-double-left-padding">International orders: <span class="push-right">${{ item.price.INTL }} CAD</span></li>
+				{% endif %}
+				{%if item.quote %}
+				<li class="fw-300 small-double-left-padding">
+					<span style="font-style: italic">{{ item.quote.text }}</span><span style="font-weight: bold; font-size: .7em"> - {{ item.quote.source }}</span>
+				</li>
+				{% endif %}
 			</ul>
 		</div>
 	</div>
 {% endfor %}
-
-<strong>Instructions</strong>
-
-<ul>
-	<li>Send payment via Paypal or Interac etransfer to sales@weewerk.com.</li>
-	<li>Checks or money order made payable to: Weewerk</li>
-	<li>Mailing Address: 101 Niagara St., Suite #202 - Box#19, Toronto, Ontario M5V 1C3</li>
-	<li>Please include your shipping address and list items ordered.</li>
-	<li>Sorry credit card payments not accepted at this time.</li>
-</ul>
