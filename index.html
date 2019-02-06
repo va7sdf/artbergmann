@@ -64,7 +64,7 @@ layout: default
 						<div class="all-33 medium-100 small-100 tiny-100">
 							<section class="social bottom-padding hide-small hide-tiny">
 								<h3>Tweets</h3>
-								<a class="twitter-timeline" data-height="480" data-dnt="true" data-theme="light" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/ArtBergmann"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+								<a class="twitter-timeline" data-height="640" data-dnt="true" data-theme="light" data-chrome="noheader nofooter noborders transparent" href="https://twitter.com/ArtBergmann"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 							</section>
 							{% comment %}
 							<section class="shows bottom-padding">
@@ -80,28 +80,6 @@ layout: default
 								<div class="column-group push-center top-space"><button class="ink-button small">More Shows</button></div>
 							</section>
 							{% endcomment %}
-							<section class="merchandise bottom-padding">
-								<h3>Merchandise</h3>
-								<!-- MERCHANDISE -->
-								{% for item in site.shop limit:3 %}
-								<a href="/shop/#{{ item.desc | slugify }}">
-									<div class="column-group quarter-gutters">
-										<div class="all-25 small-100 tiny-100">
-											<img src="/shop/images/{{ item.image }}" alt="{{ item.desc }} thumbnail">
-										</div>
-										<div class="all-75 small-100 tiny-100">
-											<ul class="details unstyled">
-												<li class="fw-400 medium uppercase small-double-left-padding">{{ item.desc }}</li>
-												<li class="prices fw-300 medium small-double-left-padding">Canadian orders: <span class="push-right">${{ item.price.CDN }} CAD</span></li>
-												<li class="prices fw-300 medium small-double-left-padding">United States orders: <span class="push-right">${{ item.price.USD }} USD</span></li>
-												<li class="prices fw-300 medium small-double-left-padding">International orders: <span class="push-right">${{ item.price.INTL }} CAD</span></li>
-											</ul>
-										</div>
-									</div>
-								</a>
-								{% endfor %}
-								<div class="column-group push-center top-space"><a class="ink-button small" href="/shop/">More Merchandise</a></div>
-							</section>
 						</div>
 					</div>
 				</div>
