@@ -1,16 +1,16 @@
 ---
 layout: page
-title: mail order merchandise
+title: merchandise
 ---
 <p></p>
 {% for item in site.shop %}
 	<div id="{{ item.desc | slugify }}" class="column-group gutters">
 		<div class="all-25 small-100 tiny-100">
-			<a href="{{ item.link }}" target="_blank"><img src="images/{{ item.image }}" alt="{{ item.desc }} thumbnail"></a>
+			<img src="images/{{ item.image }}" alt="{{ item.desc }} thumbnail">
 		</div>
 		<div class="all-75 small-100 tiny-100">
 			<ul class="details unstyled">
-				<li class="fw-700 uppercase small-double-left-padding"><a href="{{ item.link }}" target="_blank">{{ item.desc }}</a></li>
+				<li class="fw-700 uppercase small-double-left-padding">{{ item.title }} - {{ item.format }} - {{ item.year }} - <a href="{{ item.labelurl }}" target="_blank">{{ item.label }}</a></li>
 				{%if item.note %}
 				<li class="fw-300 small-double-left-padding">{{ item.note }}</li>
 				{% endif %}
@@ -19,6 +19,10 @@ title: mail order merchandise
 					<span style="font-style: italic">{{ item.quote.text }}</span><span style="font-weight: bold; font-size: .7em"> - {{ item.quote.source }}</span>
 				</li>
 				{% endif %}
+				<li><a class="shop" href="{{ item.porterhouse }}" target="_blank"><i class="fas fa-compact-disc fa-fw"></i> Compact Disc</a></li>
+				<li><a class="shop" href="{{ item.itunes }}" target="_blank"><i class="fab fa-itunes-note fa-fw"></i> iTunes</a></li>
+				<li><a class="shop" href="{{ item.google }}" target="_blank"><i class="fab fa-google-play fa-fw"></i> Google</a></li>
+				<li><a class="shop" href="{{ item.spotify }}" target="_blank"><i class="fab fa-spotify fa-fw"></i> Spotify</a></li>
 			</ul>
 		</div>
 	</div>
