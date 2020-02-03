@@ -1,6 +1,7 @@
 ssl/
 
-.jekyll-metadata
+.jekyll-metadata/
+.jekyll-cache/
 .sass-cache/
 
 _site/
