@@ -137,9 +137,12 @@ h1,h2,h3,h4,h5 {
 			display: block;
 			background: rgba(175, 173, 174, 0.4);
 			padding: 1vw;
+			img {
+				width: 100%;
+			}
 			.title {
 				width: 100%;
-				font-size: 2vw;
+				font-size: 1.5vw;
 				font-weight: 900;
 				text-align: center;
 				background-color: #E4E2E5;
