@@ -2,12 +2,12 @@
 layout: page
 title: contacts
 ---
-**Label**  
-Porterhouse Records  
-Website: <http://porterhouserecords.com/>{:Target="_blank"}  
-E-mail: <office@porterhouserecords.com>  
-Facebook: [/Porterhouse.Records](https://www.facebook.com/Porterhouse.Records){:target="_blank"}  
-Twitter: [@Porterhouse_Rec](https://twitter.com/Porterhouse_Rec){:target="_blank"}  
+**Label / Management:**  
+(weewerk)  
+Website: <https://weewerk.com>{:Target="_blank"}  
+E-mail: <phil@weewerk.com>  
+Facebook: [/weewerk.recordings](https://www.facebook.com/weewerk.recordings){:target="_blank"}  
+Twitter: [@weewerk](https://twitter.com/weewerk){:target="_blank"}  
 
 **Webmaster**  
 Gordon M. Celesta  
