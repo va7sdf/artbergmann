@@ -29,8 +29,14 @@ Late Stage Empire Dementia was recorded throughout 2020, with basic tracks laid 
 
 Yet, for each great example of politically charged rock on Late Stage Empire Dementia, such as the first single “Entropy,” there is an expansive, hypnotic piece like “Los Desaparecidos (Border Art)” or the nearly 10-minute title track that further illuminates Art’s evolution as a songwriter—completely unafraid to enter uncharted territory. It is that bravery that makes Art Bergmann’s voice as important as ever, and places Late Stage Empire Dementia easily among his finest works.
 
+Stream now from [Orchard](https://orcd.co/entropy)
+
 ---
-<img src="/updates/images/2021-03-19-art-bergmann-to-release-late-stage-empire-dementia-may-21.jpg" alt="Art Bergmann - photo credit: David Kotsibie" title="Art Bergmann - photo credit: David Kotsibie">
+<figure class="ink-image">
+	<a href="/updates/images/2021-03-19-art-bergmann-to-release-late-stage-empire-dementia-may-21.jpg"><img src="/updates/images/2021-03-19-art-bergmann-to-release-late-stage-empire-dementia-may-21.jpg" alt="Art Bergmann - photo credit: David Kotsibie" title="Art Bergmann - photo credit: David Kotsibie"></a>
+	<figcaption class="over-bottom">Photo credit: David Kotsibie</figcaption>
+</figure>
+
 >Art Bergmann is Canada’s most important trouble-maker, and that is evidenced on his new album, “Late Stage Empire Dementia.” It covers all of the bases of what I consider essential to his work: unapologetic political confrontation; deep insight and meditation on the grave injustices of humanity; a distinct, antagonizing, inimitable and cutting voice; and most of all, masterful lyrics set against great rock hooks. He is the real deal, and the mere fact that he has weathered the storm, and come out on the other side with important things to say, deserves our attention. There is so much more to unpack here, so suffice to say, the deeper you get into this work, the more insightful and rewarding it becomes. A classic.” **- Tony Dekker (Great Lake Swimmers)**
 
 >“Art Bergmann is doing the best work of his career. His songwriting has achieved a level of greatness that puts him on par with some of the greatest Canadian songwriters. I include Joni Mitchell, Neil Young and The Band amongst his peers. Hyperbole? Perhaps. Listen and get back to me.”
