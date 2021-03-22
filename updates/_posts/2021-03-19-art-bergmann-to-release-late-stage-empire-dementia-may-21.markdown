@@ -20,7 +20,7 @@ The lyric video for ***Late Stage Empire Dementia***'s second single, "**Entropy
     <div class="video-container">
         <iframe src="https://www.youtube.com/embed/LmIG2Mk9O6Y" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p class="medium">"Each discarded life jacket represents a North African, Afghan, Iraqi, or Syrian refugee who braved the waters for freedom at the Moria refugee camp on the Greek island of Lesbos." <i>Art Bergmann</i></p>
+    <p class="medium">"Each discarded life jacket represents a North African, Afghan, Iraqi, or Syrian refugee who braved the waters for life at the Moria refugee camp on the Greek island of Lesbos." <i>Art Bergmann</i></p>
 </div>
 
 Art states, “The Apostate was more a long view of human history, whereas this new record is a reflection of what’s occurred over the past four years in terms of the masks of fascism being stripped off. These songs say, here it is folks, your history is right in front of you and these are the reasons why. Since the advent of social media, and with cameras everywhere, everybody now knows about police killings, the plague and climate catastrophe, and who these purveyors of this nightmare are. Who needs sci-fi anymore when we're living in the best Philip K. Dick novel ever?”
