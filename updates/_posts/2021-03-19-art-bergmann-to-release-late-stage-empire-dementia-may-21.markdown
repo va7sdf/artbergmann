@@ -29,6 +29,8 @@ Late Stage Empire Dementia was recorded throughout 2020, with basic tracks laid 
 
 Yet, for each great example of politically charged rock on Late Stage Empire Dementia, such as the first single “Entropy,” there is an expansive, hypnotic piece like “Los Desaparecidos (Border Art)” or the nearly 10-minute title track that further illuminates Art’s evolution as a songwriter—completely unafraid to enter uncharted territory. It is that bravery that makes Art Bergmann’s voice as important as ever, and places Late Stage Empire Dementia easily among his finest works.
 
+Purchase track from [Bandcamp](https://weewerk.bandcamp.com/track/entropy-by-art-bergmann)
+
 Stream now from [Orchard](https://orcd.co/entropy)
 
 ---
