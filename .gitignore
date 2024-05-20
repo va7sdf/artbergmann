@@ -13,3 +13,5 @@ css/font.css
 *.swp
 *.swo
 *.bak
+
+.vscode/
