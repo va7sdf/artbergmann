@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll Serve",
+      "type": "shell",
+      "command": "jekyll serve",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll Build",
+      "type": "shell",
+      "command": "jekyll build",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
